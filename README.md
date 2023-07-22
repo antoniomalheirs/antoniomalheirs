@@ -19,5 +19,9 @@ Formado em Ciência da Computação pela Faculdade Adamantinense Integrada - FAI
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=gamehack&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/gamehack)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Genius_1980)
 
-![snake animation](https://github.com/antoniomalheirs/antoniomalheirs/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+</picture>
 
