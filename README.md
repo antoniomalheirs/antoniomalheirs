@@ -21,7 +21,11 @@ Formado em Ciência da Computação pela Faculdade Adamantinense Integrada - FAI
 
 ### Alguns repositórios interessantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=gamehack&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/gamehack)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Genius_1980)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Genius_1980)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Python_Game)
+
 
 
 
