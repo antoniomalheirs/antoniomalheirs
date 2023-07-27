@@ -17,7 +17,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 ### <p>Profile related statistics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of Languages </p> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
 ### Some interesting repositories
