@@ -1,4 +1,3 @@
-
 # Welcome to my GitHub, I'am Antonio......keep calm and search for something interesting
 
 ### About Me 
@@ -26,7 +25,3 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Genius_1980)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Python_Game)
-
-
-
-
