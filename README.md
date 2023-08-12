@@ -9,7 +9,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about/)
 
 ### <p>Profile related statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
@@ -18,8 +18,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </picture>
 
 ### <p>Knowledge of Languages </p> 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true&hide)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
 ### Some interesting repositories
