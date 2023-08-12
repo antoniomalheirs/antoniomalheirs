@@ -17,7 +17,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 ### <p>Profile related statistics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of Languages </p> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true)](https://youtu.be/dQw4w9WgXcQ?t=42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true&hide)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
 ### Some interesting repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/I.A_RL_Model)&nbsp;&nbsp;
