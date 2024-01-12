@@ -11,14 +11,14 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 ### <p>Profile related statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
+### <p>Knowledge of Languages </p> 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
 </picture>
-
-### <p>Knowledge of Languages </p> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=true&hide)](https://youtu.be/dQw4w9WgXcQ?t=42)
 
 ### Some interesting repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/I.A_RL_Model)&nbsp;&nbsp;
