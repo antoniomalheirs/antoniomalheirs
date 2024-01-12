@@ -8,21 +8,47 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-malheiros-68ba55226/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about/)
 
+### <p>Skills & Abilyties
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=12" />
+  </a>
+
 ### <p>Profile related statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true)](https://youtu.be/dQw4w9WgXcQ?t=42)
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ?t=42">
+    <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_title=false&include_all_commits=true" />
+  </a>
+</p>
 
 ### <p>Knowledge of Languages </p> 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### Some interesting repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/I.A_RL_Model)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp)
+</p><p align="center">
+  <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&show_owner=true"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&show_owner=true"/>
+  </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Genius_1980)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&show_owner=true)](https://github.com/antoniomalheirs/Python_Game)
+  
+  <a href="https://github.com/antoniomalheirs/Genius_1980">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/antoniomalheirs/Python_Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&show_owner=true"/>
+  </a>
+</p>
+
