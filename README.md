@@ -11,7 +11,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 ### <p>Skills & Abilyties
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=13" />
   </a>
 
 ### <p>Profile related statistics
