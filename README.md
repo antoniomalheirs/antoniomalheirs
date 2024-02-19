@@ -15,7 +15,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 ### <p>Profile related statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true"  width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true"  width="400" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" height="170">
 </p>
 
@@ -31,22 +31,26 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-</p><p align="center">
-  <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&show_owner=true"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&show_owner=true"/>
-  </a>
 
-  
-  <a href="https://github.com/antoniomalheirs/Genius_1980">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&show_owner=true"/>
+<p align="center">
+  <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=true&show_owner=true" width="400" height="135"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/antoniomalheirs/Python_Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&show_owner=true"/>
+  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=true&show_owner=true"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/antoniomalheirs/Genius_1980">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=true&show_owner=true" width="400" height="120"/>
+  </a>
+  <a href="https://github.com/antoniomalheirs/Python_Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=true&show_owner=true"/>
+  </a>
+</p>
+
+
+
+
 
