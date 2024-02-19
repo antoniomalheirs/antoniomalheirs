@@ -31,7 +31,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-
 <p align="center">
   <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=true&show_owner=true" width="400" height="135"/>
