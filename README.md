@@ -11,7 +11,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 ### <p>Skills & Abilyties
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=13" />
-  
 
 ### <p>Profile related statistics
 <p align="center">
@@ -21,6 +20,9 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 ### <p>Knowledge of Languages </p> 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniomalheirs&bg_color=292c34&color=91b674&line=e0c07b&point=d86d73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <picture>
