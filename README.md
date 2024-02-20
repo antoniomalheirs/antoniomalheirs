@@ -1,4 +1,6 @@
-# Welcome to my GitHub, I'am Antonio......keep calm and search for something interesting
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antonio+Malheiros.!;I'm+22+years+old;I'm+from+Brazil;I+Graduated+on+Computer+Science;And+Tech;+On+Network+Infrastructure.!+:%29)](https://git.io/typing-svg)
 
 ### About Me 
 Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
@@ -33,7 +35,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-<p align="center">
+<div align="center">
   <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=true&show_owner=true" width="400" height="135"/>
   </a>
@@ -49,9 +51,15 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   <a href="https://github.com/antoniomalheirs/Python_Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=true&show_owner=true"/>
   </a>
-</p>
 
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{antoniomalheirs}/count.svg" /></p> 
+<br>
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
 
 
 
