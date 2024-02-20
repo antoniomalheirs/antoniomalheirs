@@ -54,7 +54,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 </div>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="left"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{antoniomalheirs}/count.svg" /></p> 
 <br>
 </div>
