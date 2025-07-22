@@ -53,14 +53,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   <a href="https://github.com/antoniomalheirs/Python_Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=true&show_owner=true"/>
   </a>
-
-</div>
-<div align="center">
-<br><p align="left"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{antoniomalheirs}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
 
 
