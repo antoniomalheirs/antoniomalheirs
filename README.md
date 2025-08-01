@@ -12,10 +12,8 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding-right: 20px;">
         <div style="text-align: center;">
-            <a href="https://www.instagram.com/malheirosan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
             <a href="https://www.linkedin.com/in/antonio-malheiros-68ba55226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
             <a href="https://www.google.com/intl/pt-BR/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-            <br/><br/>
             <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
         </div>
       </td>
@@ -60,10 +58,10 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 ### Some interesting repositories
 <div align="center">
 <a href="https://github.com/antoniomalheirs/Brute_force_learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_force_learning&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Brute_force_learning" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Finance_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_Bot&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Discord_Bot" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="E-commerce_shop" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/video_editor_in_colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=video_editor_in_colab&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="video_editor_in_colab" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="antoniomalheirs" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
