@@ -38,15 +38,21 @@ def generate_repo_markdown(repo):
 def update_readme(new_content):
     """Atualiza o README.md com o novo conteúdo entre os marcadores."""
     readme_path = "README.md"
+    start_marker = ""
+    end_marker = ""
+    
     try:
         with open(readme_path, 'r', encoding='utf-8') as f:
             readme_content = f.read()
 
-        # Expressão regular para encontrar a seção a ser substituída
-        pattern = r"(\s*).*(?=\s*)"
+        # Constrói o bloco de substituição completo
+        replacement_block = f"{start_marker}\n{new_content}\n{end_marker}"
+
+        # Expressão regular para encontrar o bloco inteiro, do marcador de início ao de fim
+        pattern = re.compile(f"{re.escape(start_marker)}.*{re.escape(end_marker)}", re.DOTALL)
         
-        # Substitui o conteúdo antigo pelo novo
-        new_readme = re.sub(pattern, r"\1" + new_content, readme_content, flags=re.DOTALL)
+        # Substitui o bloco antigo pelo novo
+        new_readme = pattern.sub(replacement_block, readme_content)
 
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_readme)
@@ -61,7 +67,9 @@ def update_readme(new_content):
 if __name__ == "__main__":
     all_repos = get_repos(GITHUB_USERNAME)
     if all_repos:
-        random_repos = random.sample(all_repos, min(NUM_REPOS, len(all_repos)))
+        # Garante que não tentará amostrar mais repositórios do que o disponível
+        num_to_sample = min(NUM_REPOS, len(all_repos))
+        random_repos = random.sample(all_repos, num_to_sample)
         
         # Gera o HTML/Markdown para os cards em duas colunas
         markdown_lines = []
@@ -69,15 +77,17 @@ if __name__ == "__main__":
             repo1 = random_repos[i]
             line = generate_repo_markdown(repo1)
             
+            # Adiciona o segundo repositório na mesma linha, se existir
             if i + 1 < len(random_repos):
                 repo2 = random_repos[i+1]
                 line += "\n" + generate_repo_markdown(repo2)
             
             markdown_lines.append(line)
             
+        # Junta as linhas de colunas duplas com um espaçamento
         final_markdown = "\n<br><br>\n".join(markdown_lines)
         
-        # Adiciona o alinhamento central
-        final_markdown = '<div align="center">\n' + final_markdown + '\n</div>'
+        # Adiciona o alinhamento central a todo o bloco
+        final_markdown = f'<div align="center">\n{final_markdown}\n</div>'
         
         update_readme(final_markdown)
