@@ -65,11 +65,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
         <td style="border: none; vertical-align: top; padding-right: 10px;">
            <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
         </td>
-        <td style="border: none; vertical-align: top; padding-left: 10px;">
-           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-             <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antoniomalheirs&bg_color=292c34&color=91b674&line=e0c07b&point=d86d73&area=true&hide_border=true"/>
-           </a>
-        </td>
       </tr>
   </table>
 </div>
