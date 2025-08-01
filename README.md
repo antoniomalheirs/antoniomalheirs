@@ -54,11 +54,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
         <td style="border: none; vertical-align: top; padding-right: 10px;">
            <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
         </td>
-        <td style="border: none; vertical-align: top; padding-left: 10px;">
-           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-             <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antoniomalheirs&bg_color=292c34&color=91b674&line=e0c07b&point=d86d73&area=true&hide_border=true"/>
-           </a>
-        </td>
       </tr>
   </table>
 </div>
@@ -72,6 +67,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-<div align="center">\n<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Finance_App" width="400"/></a>\n<br><br>\n<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="API_implementation" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Sound_And_Emoji_IOS" width="400"/></a>\n</div>
+<div align="center">\n<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400"/></a>\n<br><br>\n<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>\n</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
