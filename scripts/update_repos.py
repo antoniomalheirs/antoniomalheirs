@@ -4,9 +4,80 @@ import random
 
 # --- Configurações ---
 GITHUB_USERNAME = "antoniomalheirs"
-NUM_REPOS = 4  # Quantidade de repositórios aleatórios a serem exibidos
+NUM_REPOS = 4
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
-# ---------------------
+
+# --- Template do README ---
+# Este é o seu layout base, com um marcador {repo_section} onde os repositórios entrarão.
+README_TEMPLATE = """
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antonio+Malheiros.!;I'm+24+years+old;I'm+from+Brazil;I+Graduated+on+Computer+Science;And+Tech;+On+Network+Infrastructure.!+:%29)](https://git.io/typing-svg)
+
+### About Me
+Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
+
+### Contact
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: top; padding-right: 20px;">
+        <div style="text-align: center;">
+            <a href="https://www.instagram.com/malheirosan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+            <a href="https://www.linkedin.com/in/antonio-malheiros-68ba55226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+            <a href="https://www.google.com/intl/pt-BR/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+            <br/><br/>
+            <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
+        </div>
+      </td>
+      <td style="border: none; vertical-align: top;">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300" alt="Spotify Recently Played"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Skills & Abilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=13" />
+</p>
+
+### Profile related statistics
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="400" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true"  width="400" height="170"/>
+</p>
+
+### Knowledge of Languages
+<div align="center">
+    <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+      <tr style="border: none;">
+        <td style="border: none; vertical-align: top; padding-right: 10px;">
+           <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+        </td>
+        <td style="border: none; vertical-align: top; padding-left: 10px;">
+           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+             <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antoniomalheirs&bg_color=292c34&color=91b674&line=e0c07b&point=d86d73&area=true&hide_border=true"/>
+           </a>
+        </td>
+      </tr>
+  </table>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### Some interesting repositories
+{repo_section}
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
+"""
 
 def get_repos(username):
     """Busca os repositórios de um usuário no GitHub, excluindo forks."""
@@ -17,7 +88,7 @@ def get_repos(username):
         response = requests.get(url)
         if response.status_code != 200:
             print(f"Erro ao buscar repositórios: {response.status_code}")
-            break
+            return []
         data = response.json()
         if not data:
             break
@@ -32,47 +103,10 @@ def generate_repo_markdown(repo):
     link = f"https://github.com/{GITHUB_USERNAME}/{repo_name}"
     return f'<a href="{link}"><img src="{url}" alt="{repo_name}" width="400"/></a>'
 
-def update_readme(new_content):
-    """Atualiza o README.md com o novo conteúdo entre os marcadores, usando lógica de linhas."""
-    readme_path = "README.md"
-    start_marker = ""
-    end_marker = ""
-    
-    try:
-        with open(readme_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-
-        # Encontra os números das linhas dos marcadores
-        start_index = -1
-        end_index = -1
-        for i, line in enumerate(lines):
-            if start_marker in line:
-                start_index = i
-            if end_marker in line:
-                end_index = i
-                break
-        
-        if start_index == -1 or end_index == -1:
-            print(f"Erro: Marcadores não encontrados no README.md.")
-            return
-
-        # Constrói o novo conteúdo do README
-        new_readme_lines = lines[:start_index + 1]
-        new_readme_lines.append(new_content + '\n')
-        new_readme_lines.extend(lines[end_index:])
-
-        with open(readme_path, 'w', encoding='utf-8') as f:
-            f.writelines(new_readme_lines)
-            
-        print("README.md atualizado com sucesso com a nova lógica de linhas!")
-
-    except FileNotFoundError:
-        print(f"Erro: O arquivo {readme_path} não foi encontrado.")
-    except Exception as e:
-        print(f"Ocorreu um erro ao atualizar o README: {e}")
-
 if __name__ == "__main__":
     all_repos = get_repos(GITHUB_USERNAME)
+    repo_cards_markdown = ""
+
     if all_repos:
         num_to_sample = min(NUM_REPOS, len(all_repos))
         if num_to_sample > 0:
@@ -89,7 +123,14 @@ if __name__ == "__main__":
                 
                 markdown_lines.append(line)
             
-            final_markdown = "\n<br><br>\n".join(markdown_lines)
-            final_markdown = f'<div align="center">\n{final_markdown}\n</div>'
-            
-            update_readme(final_markdown)
+            repo_cards_markdown = "\n<br><br>\n".join(markdown_lines)
+            repo_cards_markdown = f'<div align="center">\n{repo_cards_markdown}\n</div>'
+
+    # Preenche o template com a seção de repositórios gerada
+    final_readme = README_TEMPLATE.format(repo_section=repo_cards_markdown)
+
+    # Escreve o conteúdo final no arquivo README.md, sobrescrevendo completamente o antigo
+    with open("README.md", "w", encoding='utf-8') as f:
+        f.write(final_readme)
+
+    print("README.md reescrito com sucesso a partir do template!")
