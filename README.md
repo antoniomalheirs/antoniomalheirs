@@ -1,5 +1,13 @@
 
 <div align="center">
+<a href="https://github.com/antoniomalheirs/video_editor_in_colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=video_editor_in_colab&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="video_editor_in_colab" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="API_implementation" width="400"/></a>
+<br><br>
+<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Media_Player_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Finance_App" width="400"/></a>
+</div>
+
+<div align="center">
 <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Python_Game" width="400"/></a>
 <a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Media_Player_App" width="400"/></a>
 <br><br>
