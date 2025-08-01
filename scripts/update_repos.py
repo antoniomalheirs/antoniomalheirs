@@ -6,7 +6,7 @@ import re
 # --- Configurações ---
 GITHUB_USERNAME = "antoniomalheirs"
 NUM_REPOS = 4  # Quantidade de repositórios aleatórios a serem exibidos
-# Parâmetros para os cards. Adicione ou remova conforme necessário.
+# Parâmetros para os cards.
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
 # ---------------------
 
@@ -23,7 +23,6 @@ def get_repos(username):
         data = response.json()
         if not data:
             break
-        # Filtra para não incluir repositórios que são forks
         repos.extend([repo for repo in data if not repo['fork']])
         page += 1
     return repos
@@ -45,14 +44,19 @@ def update_readme(new_content):
         with open(readme_path, 'r', encoding='utf-8') as f:
             readme_content = f.read()
 
-        # Constrói o bloco de substituição completo
-        replacement_block = f"{start_marker}\n{new_content}\n{end_marker}"
+        # Encontra os índices dos marcadores
+        start_index = readme_content.find(start_marker)
+        end_index = readme_content.find(end_marker)
 
-        # Expressão regular para encontrar o bloco inteiro, do marcador de início ao de fim
-        pattern = re.compile(f"{re.escape(start_marker)}.*{re.escape(end_marker)}", re.DOTALL)
+        if start_index == -1 or end_index == -1:
+            print(f"Erro: Marcadores '{start_marker}' ou '{end_marker}' não encontrados no README.md.")
+            return
+
+        # Constrói o novo README preservando o conteúdo antes e depois
+        content_before = readme_content[:start_index + len(start_marker)]
+        content_after = readme_content[end_index:]
         
-        # Substitui o bloco antigo pelo novo
-        new_readme = pattern.sub(replacement_block, readme_content)
+        new_readme = f"{content_before}\n{new_content}\n{content_after}"
 
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_readme)
@@ -67,27 +71,22 @@ def update_readme(new_content):
 if __name__ == "__main__":
     all_repos = get_repos(GITHUB_USERNAME)
     if all_repos:
-        # Garante que não tentará amostrar mais repositórios do que o disponível
         num_to_sample = min(NUM_REPOS, len(all_repos))
-        random_repos = random.sample(all_repos, num_to_sample)
-        
-        # Gera o HTML/Markdown para os cards em duas colunas
-        markdown_lines = []
-        for i in range(0, len(random_repos), 2):
-            repo1 = random_repos[i]
-            line = generate_repo_markdown(repo1)
+        if num_to_sample > 0:
+            random_repos = random.sample(all_repos, num_to_sample)
             
-            # Adiciona o segundo repositório na mesma linha, se existir
-            if i + 1 < len(random_repos):
-                repo2 = random_repos[i+1]
-                line += "\n" + generate_repo_markdown(repo2)
+            markdown_lines = []
+            for i in range(0, len(random_repos), 2):
+                repo1 = random_repos[i]
+                line = generate_repo_markdown(repo1)
+                
+                if i + 1 < len(random_repos):
+                    repo2 = random_repos[i+1]
+                    line += "\n" + generate_repo_markdown(repo2)
+                
+                markdown_lines.append(line)
             
-            markdown_lines.append(line)
+            final_markdown = "\n<br><br>\n".join(markdown_lines)
+            final_markdown = f'<div align="center">\n{final_markdown}\n</div>'
             
-        # Junta as linhas de colunas duplas com um espaçamento
-        final_markdown = "\n<br><br>\n".join(markdown_lines)
-        
-        # Adiciona o alinhamento central a todo o bloco
-        final_markdown = f'<div align="center">\n{final_markdown}\n</div>'
-        
-        update_readme(final_markdown)
+            update_readme(final_markdown)
