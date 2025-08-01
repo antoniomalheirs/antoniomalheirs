@@ -4,9 +4,9 @@
   uses: anmol098/waka-readme-stats@V3
   with:
     # GitHub access token with Repo scope
-    GH_TOKEN: # default is ${{ github.token }}
+    GH_TOKEN: ${{ secrets.GH_TOKEN }}
     # Your Wakatime API Key
-    WAKATIME_API_KEY: 
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     # Show the list of OS Worked on In dev metrics
     SHOW_OS: # optional, default is True
     # Show the list of projects worked on in dev metrics
