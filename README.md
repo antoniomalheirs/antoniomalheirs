@@ -25,9 +25,18 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </div>
 
 ### Skills & Abilities
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=13" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux&perline=7" alt="Skills Column 1"/>
+      </td>
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=7" alt="Skills Column 2"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Profile related statistics
 <p align="center">
@@ -56,12 +65,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-<div align="center">
-<a href="https://github.com/antoniomalheirs/Brute_force_learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_force_learning&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Brute_force_learning" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_Bot&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Discord_Bot" width="400"/></a>
-<br><br>
-<a href="https://github.com/antoniomalheirs/video_editor_in_colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=video_editor_in_colab&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="video_editor_in_colab" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="antoniomalheirs" width="400"/></a>
-</div>
+<div align="center">\n<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Media_Player_App" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Sound_And_Emoji_IOS" width="400"/></a>\n<br><br>\n<a href="https://github.com/antoniomalheirs/Lies-Of-P-Cheat-Learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies-Of-P-Cheat-Learn&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="Lies-Of-P-Cheat-Learn" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=true&show_icons=true" alt="E-commerce_shop" width="400"/></a>\n</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
