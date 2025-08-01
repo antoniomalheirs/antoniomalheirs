@@ -9,18 +9,8 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-🌆 Daytime                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-🌃 Evening                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌙 Night                  376 commits         ██████████████░░░░░░░░░░░   57.49 % 
-```
-
-
-
- Last Updated on 01/08/2025 06:14:49 UTC
+ Last Updated on 01/08/2025 06:19:33 UTC
 <!--END_SECTION:waka-->
 
 ### Contact
