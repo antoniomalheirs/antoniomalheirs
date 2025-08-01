@@ -17,77 +17,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
             <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
             <br></br>
             <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 864.7 kB Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-🌃 Evening                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-🌙 Night                  366 commits         ██████████████░░░░░░░░░░░   56.83 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Tuesday                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Wednesday                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Friday                   223 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Sunday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/antoniomalheirs/antoniomalheirs/main/assets/bar_graph.png)
-
-
- Last Updated on 01/08/2025 05:56:46 UTC
-<!--END_SECTION:waka-->
+            <!--END_SECTION:waka-->
         </div>
       </td>
       <td style="border: none; vertical-align: top;">
@@ -139,11 +69,11 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 <h3 align="center">Some interesting repositories</h3>
 <div align="center">
-<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/video_editor_in_colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=video_editor_in_colab&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="video_editor_in_colab" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
