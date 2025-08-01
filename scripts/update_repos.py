@@ -8,7 +8,7 @@ NUM_REPOS = 4
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
 
 # --- Template do README ---
-# Este é o seu layout base, com um marcador {repo_section} onde os repositórios entrarão.
+# Este é o seu layout base, com as seções de Skills e Repos devidamente formatadas.
 README_TEMPLATE = """
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
 
@@ -36,9 +36,18 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </div>
 
 ### Skills & Abilities
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux,git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=13" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux&perline=7" alt="Skills Column 1"/>
+      </td>
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=7" alt="Skills Column 2"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Profile related statistics
 <p align="center">
@@ -112,12 +121,12 @@ if __name__ == "__main__":
                 
                 if i + 1 < len(random_repos):
                     repo2 = random_repos[i+1]
-                    line += "\n" + generate_repo_markdown(repo2)
+                    line += "\\n" + generate_repo_markdown(repo2)
                 
                 markdown_lines.append(line)
             
-            repo_cards_markdown = "\n<br><br>\n".join(markdown_lines)
-            repo_cards_markdown = f'<div align="center">\n{repo_cards_markdown}\n</div>'
+            repo_cards_markdown = "\\n<br><br>\\n".join(markdown_lines)
+            repo_cards_markdown = f'<div align="center">\\n{repo_cards_markdown}\\n</div>'
 
     # Preenche o template com a seção de repositórios gerada
     final_readme = README_TEMPLATE.format(repo_section=repo_cards_markdown)
