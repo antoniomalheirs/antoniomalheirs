@@ -52,10 +52,11 @@ def update_readme(new_content):
             print(f"Erro: Marcadores '{start_marker}' ou '{end_marker}' não encontrados no README.md.")
             return
 
-        # Constrói o novo README preservando o conteúdo antes e depois
+        # Constrói o novo README preservando o conteúdo antes e depois da seção
         content_before = readme_content[:start_index + len(start_marker)]
         content_after = readme_content[end_index:]
         
+        # Monta o novo README com o conteúdo na ordem correta
         new_readme = f"{content_before}\n{new_content}\n{content_after}"
 
         with open(readme_path, 'w', encoding='utf-8') as f:
