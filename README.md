@@ -17,7 +17,21 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
             <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
             <br></br>
             <!--START_SECTION:waka-->
-            <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+🌆 Daytime                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌃 Evening                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌙 Night                  372 commits         ██████████████░░░░░░░░░░░   57.23 % 
+```
+
+
+
+ Last Updated on 01/08/2025 06:08:22 UTC
+<!--END_SECTION:waka-->
         </div>
       </td>
       <td style="border: none; vertical-align: top;">
