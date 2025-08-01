@@ -17,6 +17,9 @@ README_TEMPLATE = """
 ### About Me
 Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Contact
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -26,9 +29,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
             <a href="https://www.linkedin.com/in/antonio-malheiros-68ba55226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
             <a href="https://www.google.com/intl/pt-BR/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
             <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
-            <br></br>
-            <!--START_SECTION:waka-->
-            <!--END_SECTION:waka-->
         </div>
       </td>
       <td style="border: none; vertical-align: top;">
