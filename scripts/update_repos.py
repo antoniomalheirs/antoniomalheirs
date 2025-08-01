@@ -1,12 +1,10 @@
 import os
 import requests
 import random
-import re
 
 # --- Configurações ---
 GITHUB_USERNAME = "antoniomalheirs"
 NUM_REPOS = 4  # Quantidade de repositórios aleatórios a serem exibidos
-# Parâmetros para os cards.
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
 # ---------------------
 
@@ -35,34 +33,38 @@ def generate_repo_markdown(repo):
     return f'<a href="{link}"><img src="{url}" alt="{repo_name}" width="400"/></a>'
 
 def update_readme(new_content):
-    """Atualiza o README.md com o novo conteúdo entre os marcadores."""
+    """Atualiza o README.md com o novo conteúdo entre os marcadores, usando lógica de linhas."""
     readme_path = "README.md"
     start_marker = ""
     end_marker = ""
     
     try:
         with open(readme_path, 'r', encoding='utf-8') as f:
-            readme_content = f.read()
+            lines = f.readlines()
 
-        # Encontra os índices dos marcadores
-        start_index = readme_content.find(start_marker)
-        end_index = readme_content.find(end_marker)
-
+        # Encontra os números das linhas dos marcadores
+        start_index = -1
+        end_index = -1
+        for i, line in enumerate(lines):
+            if start_marker in line:
+                start_index = i
+            if end_marker in line:
+                end_index = i
+                break
+        
         if start_index == -1 or end_index == -1:
-            print(f"Erro: Marcadores '{start_marker}' ou '{end_marker}' não encontrados no README.md.")
+            print(f"Erro: Marcadores não encontrados no README.md.")
             return
 
-        # Constrói o novo README preservando o conteúdo antes e depois da seção
-        content_before = readme_content[:start_index + len(start_marker)]
-        content_after = readme_content[end_index:]
-        
-        # Monta o novo README com o conteúdo na ordem correta
-        new_readme = f"{content_before}\n{new_content}\n{content_after}"
+        # Constrói o novo conteúdo do README
+        new_readme_lines = lines[:start_index + 1]  # Mantém tudo até o marcador de início (inclusive)
+        new_readme_lines.append(new_content + '\n')  # Adiciona o novo conteúdo
+        new_readme_lines.extend(lines[end_index:])  # Adiciona tudo a partir do marcador de fim (inclusive)
 
         with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(new_readme)
+            f.writelines(new_readme_lines)
             
-        print("README.md atualizado com sucesso!")
+        print("README.md atualizado com sucesso com a nova lógica de linhas!")
 
     except FileNotFoundError:
         print(f"Erro: O arquivo {readme_path} não foi encontrado.")
