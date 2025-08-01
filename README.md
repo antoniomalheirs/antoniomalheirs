@@ -62,20 +62,4 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 </p>
 
 ### Some interesting repositories
-<div align="center">
-  <a href="https://github.com/antoniomalheirs/I.A_RL_Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=true&show_owner=true&show_icons=true" width="400" height="135"/>
-  </a>
-  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=true&show_owner=true&show_icons=true"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/antoniomalheirs/Genius_1980">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=true&show_owner=true&show_icons=true" width="400" height="120"/>
-  </a>
-  <a href="https://github.com/antoniomalheirs/Python_Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=true&show_owner=true&show_icons=true"/>
-  </a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
