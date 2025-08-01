@@ -4,7 +4,7 @@ on:
     # Roda a cada 12 horas
     - cron: '0 */12 * * *'
   workflow_dispatch:
-    # Adiciona um botão para rodar manually na aba Actions
+    # Adiciona um botão para rodar manualmente na aba Actions
 jobs:
   update-readme:
     name: Update Pinned Repos
@@ -14,11 +14,20 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Update Pinned Repos
-        uses: ofek-benzvi/pin-random-repository-to-readme@v1.1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_username: antoniomalheirs
-          # Você pode customizar o número de repositórios aqui
-          max_repos: 4
-          # Parâmetros para os cards, similares aos que já usamos
-          card_options: "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python scripts/update_repos.py
+      
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'CI: Atualiza repositórios aleatórios no README'
+          file_pattern: README.md
