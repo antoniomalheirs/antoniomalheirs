@@ -133,7 +133,7 @@ if __name__ == "__main__":
             repo_cards_markdown = f'<div align="center">\n{repo_cards_markdown}\n</div>'
 
     # Preenche o template com a seção de repositórios gerada
-    final_readme = README_TEMPLATE.format(repo_section=repo_cards_markdown)
+    final_readme = README_TEMPLATE.format(repo_section=repo_cards_markdown, waka_section="")
 
     # Escreve o conteúdo final no arquivo README.md, sobrescrevendo completamente o antigo
     with open("README.md", "w", encoding='utf-8') as f:
