@@ -3,7 +3,7 @@ name: Waka Readme Stats
 on:
   schedule:
     # Roda todo dia às 12am IST (18:30 no seu fuso horário de Adamantina)
-    - cron: '30 18 * * *'
+    - cron: '15 */12 * * *'
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
