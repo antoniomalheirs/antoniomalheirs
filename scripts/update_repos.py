@@ -49,14 +49,14 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </table>
 </div>
 
-### Profile related statistics
+<h3 align="center">Profile related statistics</h3>
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="400" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" height="170">
   <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true"  width="400" height="170"/>
 </p>
 
-### Knowledge of Languages
+<h3 align="center">Knowledge of Languages</h3>
 <div align="center">
     <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
       <tr style="border: none;">
@@ -75,7 +75,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </picture>
 </p>
 
-### Some interesting repositories
+<h3 align="center">Some interesting repositories</h3>
 {repo_section}
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
@@ -121,12 +121,15 @@ if __name__ == "__main__":
                 
                 if i + 1 < len(random_repos):
                     repo2 = random_repos[i+1]
-                    line += "\\n" + generate_repo_markdown(repo2)
+                    # CORREÇÃO AQUI
+                    line += "\n" + generate_repo_markdown(repo2)
                 
                 markdown_lines.append(line)
             
-            repo_cards_markdown = "\\n<br><br>\\n".join(markdown_lines)
-            repo_cards_markdown = f'<div align="center">\\n{repo_cards_markdown}\\n</div>'
+            # CORREÇÃO AQUI
+            repo_cards_markdown = "\n<br><br>\n".join(markdown_lines)
+            # CORREÇÃO AQUI
+            repo_cards_markdown = f'<div align="center">\n{repo_cards_markdown}\n</div>'
 
     # Preenche o template com a seção de repositórios gerada
     final_readme = README_TEMPLATE.format(repo_section=repo_cards_markdown)
