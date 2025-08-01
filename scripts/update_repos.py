@@ -5,7 +5,7 @@ import random
 # --- Configurações ---
 GITHUB_USERNAME = "antoniomalheirs"
 NUM_REPOS = 4
-CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
+CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=false&show_icons=true"
 
 # --- Template do README ---
 # Este é o seu layout base, com um marcador {repo_section} onde os repositórios entrarão.
