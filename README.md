@@ -38,14 +38,14 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </table>
 </div>
 
-### Profile related statistics
+<h3 align="center">Profile related statistics</h3>
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="400" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" height="170">
   <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true"  width="400" height="170"/>
 </p>
 
-### Knowledge of Languages
+<h3 align="center">Knowledge of Languages</h3>
 <div align="center">
     <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
       <tr style="border: none;">
@@ -64,7 +64,13 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </picture>
 </p>
 
-### Some interesting repositories
-<div align="center">\n<a href="https://github.com/antoniomalheirs/video_editor_in_colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=video_editor_in_colab&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="video_editor_in_colab" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>\n<br><br>\n<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>\n<a href="https://github.com/antoniomalheirs/I.A_RL_Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="I.A_RL_Model" width="400"/></a>\n</div>
+<h3 align="center">Some interesting repositories</h3>
+<div align="center">
+<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
+<br><br>
+<a href="https://github.com/antoniomalheirs/Brute_force_learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_force_learning&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_force_learning" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
