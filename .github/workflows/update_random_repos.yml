@@ -2,9 +2,9 @@ name: Update Pinned Repositories
 on:
   schedule:
     # Roda a cada 12 horas
-    - cron: '0 */06 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
-    # Adiciona um botão para rodar manualmente na aba Actions
+    # Adiciona um botão para rodar manually na aba Actions
 jobs:
   update-readme:
     name: Update Pinned Repos
@@ -13,12 +13,12 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Update Pinned Repos
-        uses: ivandjoh/pin-random-repository-to-readme@v1
+        uses: ofek-benzvi/pin-random-repository-to-readme@v1.1
         with:
           github_username: antoniomalheirs
           # Você pode customizar o número de repositórios aqui
-          max_repos: 4 
+          max_repos: 4
           # Parâmetros para os cards, similares aos que já usamos
-          card_options: "theme=onedark&hide_border=true&hide_title=false&show_icons=true"
+          card_options: "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
