@@ -25,25 +25,25 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
  Last Updated on 01/08/2025 06:25:17 UTC
 <!--END_SECTION:waka-->
 
-### Contact
+<h3 align="center">Skills, Stats & Music</h3>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td style="border: none; vertical-align: top; padding-right: 20px;">
-        <div style="text-align: center;">
-            <a href="https://www.linkedin.com/in/antonio-malheiros-68ba55226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-            <a href="https://www.google.com/intl/pt-BR/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-            <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
-        </div>
+      <td style="border: none; vertical-align: top; padding-right: 10px;">
+        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="400" alt="GitHub Stats">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" alt="GitHub Streak">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true" width="400" alt="Top Languages">
       </td>
-      <td style="border: none; vertical-align: top;">
+      <td style="border: none; vertical-align: top; padding-left: 10px;">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300" alt="Spotify Recently Played"/>
       </td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">Skills & Abilities</h3>
+<h3 align="center">Tooling & Abilities</h3>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -56,13 +56,6 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
     </tr>
   </table>
 </div>
-
-<h3 align="center">Profile related statistics</h3>
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="400" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" height="170">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true"  width="400" height="170"/>
-</p>
 
 <h3 align="center">Knowledge of Languages</h3>
 <div align="center">
