@@ -11,8 +11,18 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 01/08/2025 06:20:36 UTC
+```text
+🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+🌆 Daytime                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌃 Evening                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌙 Night                  384 commits         ███████████████░░░░░░░░░░   58.01 % 
+```
+
+
+
+ Last Updated on 01/08/2025 06:23:50 UTC
 <!--END_SECTION:waka-->
 
 ### Contact
