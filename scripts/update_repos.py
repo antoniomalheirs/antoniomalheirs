@@ -8,7 +8,7 @@ NUM_REPOS = 4
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=true&show_icons=true"
 
 # --- Template do README ---
-# Este é o seu layout base, com as seções de Skills e Repos devidamente formatadas.
+# Este é o seu layout base, com um marcador {repo_section} onde os repositórios entrarão.
 README_TEMPLATE = """
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
 
@@ -23,8 +23,10 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding-right: 20px;">
         <div style="text-align: center;">
+            <a href="https://www.instagram.com/malheirosan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
             <a href="https://www.linkedin.com/in/antonio-malheiros-68ba55226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
             <a href="https://www.google.com/intl/pt-BR/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+            <br/><br/>
             <img src="https://komarev.com/ghpvc/?username=antoniomalheirs&abbreviated=true&style=for-the-badge&color=dc143f" alt="Profile Views"/>
         </div>
       </td>
@@ -35,7 +37,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </table>
 </div>
 
-### Skills & Abilities
+<h3 align="center">Skills & Abilities</h3>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -60,8 +62,13 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
 <div align="center">
     <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
       <tr style="border: none;">
-        <td style="border: none; vertical-align: top; padding-right: 0px;">
+        <td style="border: none; vertical-align: top; padding-right: 10px;">
            <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+        </td>
+        <td style="border: none; vertical-align: top; padding-left: 10px;">
+           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+             <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antoniomalheirs&bg_color=292c34&color=91b674&line=e0c07b&point=d86d73&area=true&hide_border=true"/>
+           </a>
         </td>
       </tr>
   </table>
