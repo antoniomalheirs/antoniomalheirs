@@ -57,9 +57,9 @@ def update_readme(new_content):
             return
 
         # Constrói o novo conteúdo do README
-        new_readme_lines = lines[:start_index + 1]  # Mantém tudo até o marcador de início (inclusive)
-        new_readme_lines.append(new_content + '\n')  # Adiciona o novo conteúdo
-        new_readme_lines.extend(lines[end_index:])  # Adiciona tudo a partir do marcador de fim (inclusive)
+        new_readme_lines = lines[:start_index + 1]
+        new_readme_lines.append(new_content + '\n')
+        new_readme_lines.extend(lines[end_index:])
 
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.writelines(new_readme_lines)
