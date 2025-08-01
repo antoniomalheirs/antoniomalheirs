@@ -32,7 +32,7 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
         <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=true&include_all_commits=true" width="400" alt="Top Languages">
       </td>
       <td style="border: none; vertical-align: top; padding-left: 10px;">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300" alt="Spotify Recently Played"/>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=7" alt="Spotify Recently Played"/>
       </td>
     </tr>
   </table>
