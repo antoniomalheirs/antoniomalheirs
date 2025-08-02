@@ -7,26 +7,36 @@ GITHUB_USERNAME = "antoniomalheirs"
 NUM_REPOS = 4
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=false&show_icons=true"
 
-# --- Template do README ---
-# Este é o seu layout base, com um marcador {repo_section} onde os repositórios entrarão.
-README_TEMPLATE = """
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
+# --- Template do README (VERSÃO FINAL COM BANNERS LARGOS E CENTRALIZADOS) ---
+# Este template está com a indentação e a estrutura corrigidas para funcionar perfeitamente.
+README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antonio+Malheiros.!;I'm+24+years+old;I'm+from+Brazil;I+Graduated+on+Computer+Science;And+Tech;+On+Network+Infrastructure.!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
 
-### About Me
-Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
+```text
+===============================================================================================================================
+|                                                        About Me                                                             |
+===============================================================================================================================
+```
+<p align="center">
+  Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h3 align="center">Skills, Stats & Music</h3>
+```text
++-----------------------------------------------------------------------------------------------------------------------------+
+|                                        ♫   S k i l l s ,   S t a t s   &   M u s i c   ⚙                                   |
++-----------------------------------------------------------------------------------------------------------------------------+
+```
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding-right: 10px;">
         <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="410" alt="GitHub Stats">
-         <br> 
+        <br> 
         <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" alt="GitHub Streak">
       </td>
       <td style="border: none; vertical-align: top; padding-right: 10px;">
@@ -41,7 +51,12 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </table>
 </div>
 
-<h3 align="center">Tooling & Abilities</h3>
+```text
+o----------------------------------------------------------------------------------------------------------------------------o
+|                                                   Tooling & Abilities                                                      |
+o----------------------------------------------------------------------------------------------------------------------------o
+```
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -55,15 +70,12 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </table>
 </div>
 
-<h3 align="center">Knowledge of Languages</h3>
+```text
+<//>----------------------------------------------- Knowledge of Languages -----------------------------------------------<\\/>
+```
+
 <div align="center">
-    <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-      <tr style="border: none;">
-        <td style="border: none; vertical-align: top; padding-right: 10px;">
-           <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-        </td>
-      </tr>
-  </table>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
 
 <p align="center">
@@ -74,7 +86,12 @@ Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Tech
   </picture>
 </p>
 
-<h3 align="center">Some interesting repositories</h3>
+```text
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+|                                               Some interesting repositories                                                 |
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=-=+
+```
+
 {repo_section}
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
@@ -104,6 +121,7 @@ def generate_repo_markdown(repo):
     link = f"https://github.com/{GITHUB_USERNAME}/{repo_name}"
     return f'<a href="{link}"><img src="{url}" alt="{repo_name}" width="400"/></a>'
 
+# Bloco de execução principal do script
 if __name__ == "__main__":
     all_repos = get_repos(GITHUB_USERNAME)
     repo_cards_markdown = ""
@@ -112,22 +130,19 @@ if __name__ == "__main__":
         num_to_sample = min(NUM_REPOS, len(all_repos))
         if num_to_sample > 0:
             random_repos = random.sample(all_repos, num_to_sample)
-            
+
             markdown_lines = []
             for i in range(0, len(random_repos), 2):
                 repo1 = random_repos[i]
                 line = generate_repo_markdown(repo1)
-                
+
                 if i + 1 < len(random_repos):
                     repo2 = random_repos[i+1]
-                    # CORREÇÃO AQUI
                     line += "\n" + generate_repo_markdown(repo2)
-                
+
                 markdown_lines.append(line)
-            
-            # CORREÇÃO AQUI
+
             repo_cards_markdown = "\n<br><br>\n".join(markdown_lines)
-            # CORREÇÃO AQUI
             repo_cards_markdown = f'<div align="center">\n{repo_cards_markdown}\n</div>'
 
     # Preenche o template com a seção de repositórios gerada
@@ -137,5 +152,4 @@ if __name__ == "__main__":
     with open("README.md", "w", encoding='utf-8') as f:
         f.write(final_readme)
 
-    print("README.md reescrito com sucesso a partir do template!")
-
+    print("README.md reescrito com sucesso a partir do template final!")
