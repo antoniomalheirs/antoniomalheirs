@@ -41,9 +41,9 @@
 </div>
 
 ```text
-o------------------------------------------------------------------------------------------------------------------------o
-|                                                  Tooling & Abilities                                                   |
-o------------------------------------------------------------------------------------------------------------------------o
+o----------------------------------------------------------------------------------------------------------------------o
+|                                                  Tooling & Abilities                                                 |
+o----------------------------------------------------------------------------------------------------------------------o
 ```
 
 <div align="center">
@@ -60,7 +60,7 @@ o-------------------------------------------------------------------------------
 </div>
 
 ```text
-<//>--------------------------------------------- Knowledge of Languages --------------------------------------------<\/>
+<//>--------------------------------------------- Knowledge of Languages -------------------------------------------<\/>
 ```
 
 <div align="center">
@@ -76,17 +76,17 @@ o-------------------------------------------------------------------------------
 </p>
 
 ```text
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
-|                                              Some interesting repositories                                             |
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-+
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+|                                              Some interesting repositories                                           |
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-+
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
