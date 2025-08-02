@@ -76,16 +76,22 @@ o-------------------------------------------------------------------------------
 o--------------------------------------------------------------------------------------------------------------------------o
 ```
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none; vertical-align: top; padding: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=gcp,androidstudio,visualstudio,anaconda,c,express,tailwind,bots,firebase,discord,vscode,github,linux&perline=7" alt="Skills Column 1"/>
-      </td>
-      <td style="border: none; vertical-align: top; padding: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=git,java,unity,py,mongodb,sqlite,nodejs,bash,cs,mysql,js,arduino,cpp&perline=7" alt="Skills Column 2"/>
-      </td>
-    </tr>
-  </table>
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <h4>Programming Languages</h4>
+        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=7" alt="Programming Languages"/>
+        <h4>Web & Backend Development</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=7" alt="Web & Backend Development"/>
+      </td>
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <h4>Tools & Platforms</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=6" alt="Tools & Platforms"/>
+        <h4>Other Skills</h4>
+        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=8" alt="Other Skills"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ```text
@@ -179,3 +185,4 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
