@@ -26,16 +26,16 @@
 <!--END_SECTION:waka-->
 
 ```text
-   .---------------------------------------------------------------------------------------------------------------------.
-  /  .-.                                                                                                            .-.   \.
- |  /   \                                                                                                          /   \   |
- | |  .-. |                                                                                                        | .-. | |
- | | |   | |                      ♫    S K I L L S   ,   S T A T S   &   M U S I C    ⚙                            | |   | |
- | | |   | |                                                                                                       | |   | |
- | |  '-' |                                                                                                        | '-' | |
- |  \   /                                                                                                           \   /  |
-  \  '-'                                                                                                             '-'  /
-   '---------------------------------------------------------------------------------------------------------------------'
+   .--------------------------------------------------------------------------------------------------------------------.
+  /  .-.                                                                                                           .-.   \.
+ |  /   \                                                                                                         /   \   |
+ | |  .-. |                                                                                                       | .-. | |
+ | | |   | |                     ♫    S K I L L S   ,   S T A T S   &   M U S I C    ⚙                            | |   | |
+ | | |   | |                                                                                                      | |   | |
+ | |  '-' |                                                                                                       | '-' | |
+ |  \   /                                                                                                          \   /  |
+  \  '-'                                                                                                            '-'  /
+   '--------------------------------------------------------------------------------------------------------------------'
 ```
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -97,22 +97,22 @@ o-------------------------------------------------------------------------------
 </p>
 
 ```text
-  ________________________________________________________________________________________________________________________
- /                                                                                                                         \
-|    _________________________________________________________________________________________________________________      |
-|   |                                                                                                                 |     |
-|   |                           S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                             |     |
-|   |_________________________________________________________________________________________________________________|     |
-|                                                                                                                           |
- \_________________________________________________________________________________________________________________________/
+  _______________________________________________________________________________________________________________________
+ /                                                                                                                        \
+|    ________________________________________________________________________________________________________________      |
+|   |                                                                                                                |     |
+|   |                             S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                          |     |
+|   |________________________________________________________________________________________________________________|     |
+|                                                                                                                          |
+ \________________________________________________________________________________________________________________________/
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
-<br><br>
 <a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/I.A_RL_Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="I.A_RL_Model" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+<br><br>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
