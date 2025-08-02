@@ -3,37 +3,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
 
 ```text
-===============================================================================================================================
-|                                                        About Me                                                             |
-===============================================================================================================================
+=========================================================================================================================
+|                                                        About Me                                                       |
+=========================================================================================================================
 ```
 <p align="center">
   Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-572-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                80 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.51 % 
-🌆 Daytime                98 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.10 % 
-🌃 Evening                118 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.98 % 
-🌙 Night                  399 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.41 % 
-```
-
-
-
- Last Updated on 02/08/2025 00:15:06 UTC
 <!--END_SECTION:waka-->
 
 ```text
-+-----------------------------------------------------------------------------------------------------------------------------+
-|                                        ♫   S k i l l s ,   S t a t s   &   M u s i c   ⚙                                   |
-+-----------------------------------------------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------------------+
+|                                        ♫   S k i l l s ,   S t a t s   &   M u s i c   ⚙                             |
++-----------------------------------------------------------------------------------------------------------------------+
 ```
 
 <div align="center">
@@ -57,9 +41,9 @@
 </div>
 
 ```text
-o----------------------------------------------------------------------------------------------------------------------------o
-|                                                   Tooling & Abilities                                                      |
-o----------------------------------------------------------------------------------------------------------------------------o
+o-------------------------------------------------------------------------------------------------------------------------o
+|                                                   Tooling & Abilities                                                   |
+o-------------------------------------------------------------------------------------------------------------------------o
 ```
 
 <div align="center">
@@ -76,7 +60,7 @@ o-------------------------------------------------------------------------------
 </div>
 
 ```text
-<//>----------------------------------------------- Knowledge of Languages -----------------------------------------------<\/>
+<//>-------------------------------------------- Knowledge of Languages --------------------------------------------<\/>
 ```
 
 <div align="center">
@@ -92,17 +76,17 @@ o-------------------------------------------------------------------------------
 </p>
 
 ```text
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
-|                                               Some interesting repositories                                                 |
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=-=+
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+|                                               Some interesting repositories                                             |
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=+
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Lies-Of-P-Cheat-Learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies-Of-P-Cheat-Learn&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies-Of-P-Cheat-Learn" width="400"/></a>
-<br><br>
+<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
 <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
+<br><br>
+<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
