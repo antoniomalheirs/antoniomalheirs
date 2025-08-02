@@ -3,39 +3,40 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
 
 ```text
-========================================================================================================================
-|                                                       About Me                                                       |
-========================================================================================================================
+                                        ___       ___           ___           ___           ___     
+                                      /  /\     /  /\         /  /\         /  /\         /  /\    
+                                      /  /:/_   /  /::\       /  /::\       /  /::\       /  /::\   
+                                    /  /:/ /\ /  /:/\:\     /  /:/\:\     /  /:/\:\     /  /:/\:\  
+                                    /  /:/ /:/ /  /:/~/::\   /  /:/  \:\   /  /:/~/::\   /  /:/  \:\ 
+                                  /__/:/ /:/ /__/:/ /:/\:\ /__/:/ \__\:\ /__/:/ /:/\:\ /__/:/ \__\:\:
+                                  \__\/ /:/  \  \:\/:/__\/ \  \:\ /  /:/ \  \:\/:/__\/ \  \:\ /  /:/
+                                    /  /:/    \  \::/       \  \:\  /:/   \  \::/       \  \:\  /:/ 
+                                    /  /:/      \  \:\        \  \:\/:/     \  \:\        \  \:\/:/  
+                                  /  /:/        \  \:\        \  \::/       \  \:\        \  \::/   
+                                  \__\/          \__\/         \__\/         \__\/         \__\/    
+===============================================================================================================================
+|                                                           About Me                                                          |
+===============================================================================================================================
 ```
 <p align="center">
   Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-572-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                80 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.25 % 
-🌆 Daytime                98 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.78 % 
-🌃 Evening                134 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.85 % 
-🌙 Night                  399 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.12 % 
-```
-
-
-
- Last Updated on 02/08/2025 00:23:42 UTC
 <!--END_SECTION:waka-->
 
 ```text
-+----------------------------------------------------------------------------------------------------------------------+
-|                                       ♫   S k i l l s ,   S t a t s   &   M u s i c   ⚙                            |
-+----------------------------------------------------------------------------------------------------------------------+
+   .------------------------------------------------------------------------------------------------------------------------.
+  /  .-.                                                                                                               .-.   \.
+ |  /   \                                                                                                             /   \   |
+ | |  .-. |                                                                                                           | .-. | |
+ | | |   | |                         ♫    S K I L L S   ,   S T A T S   &   M U S I C    ⚙                            | |   | |
+ | | |   | |                                                                                                          | |   | |
+ | |  '-' |                                                                                                           | '-' | |
+ |  \   /                                                                                                              \   /  |
+  \  '-'                                                                                                                '-'  /
+   '------------------------------------------------------------------------------------------------------------------------'
 ```
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -57,11 +58,12 @@
 </div>
 
 ```text
-o----------------------------------------------------------------------------------------------------------------------o
-|                                                  Tooling & Abilities                                                 |
-o----------------------------------------------------------------------------------------------------------------------o
+o----------------------------------------------------------------------------------------------------------------------------o
+|  [+]                                                                                                                  [+]  |
+|  [+]                                      T O O L I N G   &   A B I L I T I E S                                       [+]  |
+|  [+]                                                                                                                  [+]  |
+o----------------------------------------------------------------------------------------------------------------------------o
 ```
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -76,9 +78,12 @@ o-------------------------------------------------------------------------------
 </div>
 
 ```text
-<//>--------------------------------------------- Knowledge of Languages -------------------------------------------<\/>
+</////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
+|                                                                                                                             |
+|                                             K N O W L E D G E   O F   L A N G U A G E S                                     |
+|                                                                                                                             |
+</////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 ```
-
 <div align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
@@ -92,17 +97,22 @@ o-------------------------------------------------------------------------------
 </p>
 
 ```text
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
-|                                              Some interesting repositories                                           |
-+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-+
+  ___________________________________________________________________________________________________________________________
+ /                                                                                                                            \
+|    ____________________________________________________________________________________________________________________      |
+|   |                                                                                                                    |     |
+|   |                                      S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                     |     |
+|   |____________________________________________________________________________________________________________________|     |
+|                                                                                                                              |
+ \____________________________________________________________________________________________________________________________/
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Brute_force_learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_force_learning&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_force_learning" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
