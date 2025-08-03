@@ -23,6 +23,22 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-695-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                84 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.40 % 
+🌆 Daytime                98 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.30 % 
+🌃 Evening                156 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.17 % 
+🌙 Night                  399 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.14 % 
+```
+
+
+
+ Last Updated on 03/08/2025 13:02:15 UTC
 <!--END_SECTION:waka-->
 
 ```text
