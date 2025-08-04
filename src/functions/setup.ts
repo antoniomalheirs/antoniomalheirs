@@ -2,7 +2,7 @@ import {ContributionDay, Language} from '../Types';
 import {UserStats} from '../config';
 
 const statsTemplate = (username: string) =>
-	`https://raw.githubusercontent.com/${username}/stats/main/github-user-stats.json`;
+	`https://raw.githubusercontent.com/${username}/${username}/main/github-user-stats.json`;
 
 export async function getUsersStatsFromGithub(usernames: string[]) {
 	const stats: UserStats[] = [];
