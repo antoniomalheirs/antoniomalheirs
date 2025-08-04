@@ -50,6 +50,9 @@
       <td style="border: none; vertical-align: top; padding-left: 10px;">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=7" alt="Spotify Recently Played"/>
       </td>
+      <td style="border: none; vertical-align: top; padding: 10px;">
+        <img src="./public/top-languages.gif" alt="Dynamic Top Languages">
+      </td>
     </tr>
   </table>
 </div>
@@ -109,11 +112,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
 <a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
