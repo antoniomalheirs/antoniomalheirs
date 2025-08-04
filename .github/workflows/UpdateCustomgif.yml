@@ -1,28 +1,40 @@
-name: GitHub Profile Stats
+name: Generate GitHub Stats GIFs
 
 on:
   schedule:
-    # run everyday at 12:00 UTC
+    # Executa todos os dias às 12:00 UTC
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
-  # Give the default GITHUB_TOKEN write permission to commit and push the
-  # added or changed files to the repository.
+  # Permissão de escrita para que as actions possam commitar os arquivos gerados
   contents: write
 
 jobs:
-  Collect-GitHub-Stats:
+  Generate-Stats-and-GIFs:
     runs-on: ubuntu-latest
     concurrency:
       group: stats-concurrency
       cancel-in-progress: true
     steps:
-      - uses: actions/checkout@v3
+      # Passo 1: Faz o checkout do código do seu repositório
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-      - name: profile-stats
+      # Passo 2: Roda a primeira action para gerar o arquivo JSON com as estatísticas
+      - name: Generate Stats File
         uses: LukeHagar/stats-action@main
+        with:
+          # O arquivo será salvo em 'generated/stats.json'
+          output_path: generatedStats/stats.json
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      # 👇 PASSO 3: RODA A SEGUNDA ACTION PARA GERAR OS GIFS
+      - name: Generate Remotion GIFs
+        uses: lukeHagar/github-stats-remotion@main # <--- Action do repositório que você mostrou
+        with:
+          # Informa a esta action onde encontrar o arquivo JSON gerado no passo anterior
+          stats_path: generatedStats/stats.json
+          # (Opcional) Você pode precisar definir outros parâmetros aqui
+          # como o nome do arquivo de saída do GIF, se a action permitir.
