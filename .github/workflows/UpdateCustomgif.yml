@@ -1,11 +1,9 @@
-# Arquivo: .github/workflows/render-gifs.yml
-
-name: Generate Stats and Render GIFs
+name: Animated Profile Gifs
 
 on:
   schedule:
     # Executa às 12:00 UTC (9:00 no seu fuso horário)
-    - cron: "0 11 * * *"
+    - cron: "30 11 * * *"
   workflow_dispatch:
 
 permissions:
@@ -34,7 +32,7 @@ jobs:
       - name: Commit Stats File
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Update user stats data"
+          commit_message: "📊 Update user stats json data"
           file_pattern: github-user-stats.json
 
       # 4. Configura o Node.js
