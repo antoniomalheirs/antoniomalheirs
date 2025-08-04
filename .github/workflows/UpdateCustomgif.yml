@@ -48,19 +48,19 @@ jobs:
           cd remotion-project
           
           # Copia os dados para a pasta onde o Remotion espera encontrá-los
-          cp github-user-stats.json input.json
+          cp ../github-user-stats.json ../input.json
           
           # Renderiza cada GIF individualmente com o comando correto
           # Adicionamos o 'src/index.ts' que estava faltando
-          npx remotion render src/index.ts stats out/stats.gif --props ./input.json
-          npx remotion render src/index.ts languages out/languages.gif --props ./input.json
-          npx remotion render src/index.ts readme out/readme.gif --props ./input.json
-          npx remotion render src/index.ts main-stats out/main-stats.gif --props ./input.json
-          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ./input.json
-          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ./input.json
-          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ./input.json
-          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ./input.json
-          npx remotion render src/index.ts top-languages out/top-languages.gif --props ./input.json
+          npx remotion render src/index.ts stats out/stats.gif --props .-/input.json
+          npx remotion render src/index.ts languages out/languages.gif --props ../input.json
+          npx remotion render src/index.ts readme out/readme.gif --props ../input.json
+          npx remotion render src/index.ts main-stats out/main-stats.gif --props ../input.json
+          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ../input.json
+          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ../input.json
+          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ../input.json
+          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ../input.json
+          npx remotion render src/index.ts top-languages out/top-languages.gif --props ../input.json
           
           # Copia todos os GIFs gerados de volta para o repositório principal
           mkdir -p ../public
