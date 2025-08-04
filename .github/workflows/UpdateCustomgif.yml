@@ -1,9 +1,10 @@
-# Nome do arquivo: render-gifs.yml
+# Arquivo: .github/workflows/render-gifs.yml
 
 name: Generate Stats and Render GIFs
 
 on:
   schedule:
+    # Executa às 12:00 UTC (9 da manhã no seu fuso horário)
     - cron: "0 12 * * *"
   workflow_dispatch:
 
@@ -23,21 +24,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Gera o arquivo de estatísticas que será buscado pela URL
+      # 2. Gera o arquivo de estatísticas (o "prato pronto")
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3. Faz o commit APENAS do arquivo de estatísticas
-      # Isto garante que a URL do arquivo estará disponível no passo de renderização
+      # 3. FAZ O COMMIT deste arquivo.
+      # Isto é CRUCIAL para que ele exista na URL que seu código corrigido vai buscar.
       - name: Commit Stats File
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📊 Update user stats data"
           file_pattern: github-user-stats.json
 
-      # 4. Configura o Node.js e Yarn
+      # 4. Configura o Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -51,13 +52,14 @@ jobs:
       # 6. Renderiza os GIFs
       - name: Render All GIFs
         run: |
-          # O código-fonte corrigido buscará o JSON pela URL correta.
-          # Passamos o input.json para o código saber qual usuário usar na URL.
+          # Criamos o "pedido inicial" (input.json) para evitar o TypeError
           echo '{"usernames": ["${{ github.repository_owner }}"]}' > input.json
           
+          # Executamos o Remotion, passando o "pedido inicial"
+          # O código vai usar o username para montar a URL correta (que você corrigiu)
+          # e buscar o arquivo que commitamos no passo 3.
           npx remotion render src/index.ts stats out/stats.gif --props ./input.json
-          # Adicione outras linhas de renderização se necessário
-
+          
           mkdir -p ./public
           cp out/*.gif ./public/
 
@@ -66,4 +68,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🚀 Render new profile GIFs"
-          file_pattern: public/*.gif input.json # Commita os GIFs e o input.json
+          file_pattern: public/*.gif input.json
