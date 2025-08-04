@@ -23,22 +23,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-695-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                84 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.40 % 
-🌆 Daytime                98 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.30 % 
-🌃 Evening                156 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.17 % 
-🌙 Night                  399 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.14 % 
-```
-
-
-
- Last Updated on 03/08/2025 13:02:15 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -130,11 +114,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
 <a href="https://github.com/antoniomalheirs/Brute_force_learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_force_learning&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_force_learning" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Lies-Of-P-Cheat-Learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies-Of-P-Cheat-Learn&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies-Of-P-Cheat-Learn" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
