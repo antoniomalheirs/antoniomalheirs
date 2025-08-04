@@ -77,15 +77,15 @@ o-------------------------------------------------------------------------------
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding: 0 10px;">
         <h4>Programming Languages</h4>
-        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=7" alt="Programming Languages"/>
+        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=5" alt="Programming Languages"/>
         <h4>Web & Backend Development</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=7" alt="Web & Backend Development"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=5" alt="Web & Backend Development"/>
       </td>
       <td style="border: none; vertical-align: top; padding: 0 10px;">
         <h4>Tools & Platforms</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=6" alt="Tools & Platforms"/>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=5" alt="Tools & Platforms"/>
         <h4>Other Skills</h4>
-        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=8" alt="Other Skills"/>
+        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=5" alt="Other Skills"/>
       </td>
       <td style="border: none; vertical-align: top; padding: 10px;">
         <img src="./public/top-languages.gif" alt="Dynamic Top Languages">
@@ -183,6 +183,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
