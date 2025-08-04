@@ -61,6 +61,9 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
       <td style="border: none; vertical-align: top; padding-left: 10px;">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=7" alt="Spotify Recently Played"/>
       </td>
+      <td style="border: none; vertical-align: top; padding: 10px;">
+        <img src="./public/top-languages.gif" alt="Dynamic Top Languages">
+      </td>
     </tr>
   </table>
 </div>
@@ -180,6 +183,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
