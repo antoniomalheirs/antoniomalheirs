@@ -24,4 +24,4 @@ jobs:
       - name: Move stats file to a specific folder
         run: |
           mkdir -p assets
-          mv stats.json assets/stats.json
+          mv github-user-stats.json assets/github-user-stats.json
