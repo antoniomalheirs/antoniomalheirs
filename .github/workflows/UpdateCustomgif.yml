@@ -52,7 +52,7 @@ jobs:
           
           # Renderiza cada GIF individualmente com o comando correto
           # Adicionamos o 'src/index.ts' que estava faltando
-          npx remotion render src/index.ts stats out/stats.gif --props .-/input.json
+          npx remotion render src/index.ts stats out/stats.gif --props ../input.json
           npx remotion render src/index.ts languages out/languages.gif --props ../input.json
           npx remotion render src/index.ts readme out/readme.gif --props ../input.json
           npx remotion render src/index.ts main-stats out/main-stats.gif --props ../input.json
