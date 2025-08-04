@@ -7,7 +7,6 @@ on:
   workflow_dispatch:
 
 permissions:
-  # Permissão de escrita para que as actions possam commitar os arquivos gerados
   contents: write
 
 jobs:
@@ -17,24 +16,49 @@ jobs:
       group: stats-concurrency
       cancel-in-progress: true
     steps:
-      # Passo 1: Faz o checkout do código do seu repositório
-      - name: Checkout Repo
+      # Passo 1: Faz o checkout do seu repositório principal
+      - name: Checkout Main Repo
         uses: actions/checkout@v3
 
-      # Passo 2: Roda a primeira action para gerar o arquivo JSON com as estatísticas
+      # Passo 2: Gera o arquivo JSON com as estatísticas
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         with:
-          # O arquivo será salvo em 'generated/stats.json'
-          output_path: generatedStats/stats.json
+          output_path: generated/stats.json
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 👇 PASSO 3: RODA A SEGUNDA ACTION PARA GERAR OS GIFS
-      - name: Generate Remotion GIFs
-        uses: lukeHagar/github-stats-remotion@main # <--- Action do repositório que você mostrou
+      # --- INÍCIO DA CORREÇÃO ---
+
+      # Passo 3: Faz o checkout do repositório do Remotion para uma pasta separada
+      - name: Checkout Remotion Project
+        uses: actions/checkout@v3
         with:
-          # Informa a esta action onde encontrar o arquivo JSON gerado no passo anterior
-          stats_path: generatedStats/stats.json
-          # (Opcional) Você pode precisar definir outros parâmetros aqui
-          # como o nome do arquivo de saída do GIF, se a action permitir.
+          repository: lukeHagar/github-stats-remotion
+          path: remotion-project # Baixa o projeto para a pasta 'remotion-project'
+
+      # Passo 4: Configura o ambiente Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # Use a versão do Node.js exigida pelo projeto Remotion
+          cache: 'npm'
+          cache-dependency-path: 'remotion-project/package-lock.json'
+
+      # Passo 5: Instala as dependências e renderiza o vídeo
+      - name: Install Dependencies and Render GIF
+        run: |
+          # Copia o arquivo de stats para dentro do projeto Remotion
+          cp generated/stats.json remotion-project/
+          
+          # Entra na pasta do projeto, instala dependências e roda o build
+          cd remotion-project
+          npm install
+          npm run build # Este comando irá renderizar o vídeo/gif
+          
+          # Copia o GIF gerado para uma pasta no seu repositório principal
+          cp out/stats.gif ../public/github-stats.gif
+        env:
+          # (Opcional) Passa a localização do arquivo de stats como variável de ambiente
+          STATS_FILE_PATH: 'stats.json'
+
