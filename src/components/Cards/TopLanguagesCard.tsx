@@ -8,7 +8,7 @@ export function TopLanguagesCard({ userStats }: { userStats: UserStats }) {
 
   return (
     <div
-      className="bg-[#282a36] text-[#f8f8f2] rounded-s-lg rounded-e-lg p-4 shadow-lg text-white"
+      className="bg-[#282a36] text-[#f8f8f2] rounded-xl p-4 shadow-lg text-white"
       style={fadeInAndSlideUp(frame)}
     >
       <h3 className="text-l font-semibold mb-2 opacity-80">Top Languages</h3>
@@ -20,8 +20,8 @@ export function TopLanguagesCard({ userStats }: { userStats: UserStats }) {
             style={fadeInAndSlideUp(frame - (index * 2))}
           >
             <div className={`w-4 h-4 rounded-full mr-2`} style={{ backgroundColor: `hsl(${index * 60}, 70%, 50%)` }}></div>
-            <span className="text-sm flex-grow">{lang.languageName}</span>
-            <span className="text-sm font-semibold">{formatBytes(lang.value)}</span>
+            <span className="text-xs flex-grow">{lang.languageName}</span>
+            <span className="text-xs font-semibold">{formatBytes(lang.value)}</span>
           </div>
         ))}
       </div>
