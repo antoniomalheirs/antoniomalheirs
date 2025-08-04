@@ -1,14 +1,11 @@
 name: Generate Stats and Render GIFs
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
-  # Permissão para o workflow commitar os arquivos gerados
   contents: write
 
 concurrency:
@@ -20,39 +17,56 @@ jobs:
     name: Generate Data and Render Video
     runs-on: ubuntu-latest
     steps:
-      # Passo 1: Faz o checkout do SEU repositório (que contém o projeto Remotion)
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # 👇 PASSO NOVO: Executa a action externa para gerar o 'stats.json'
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # Passo 3: Configura o ambiente Node.js
+      - name: Checkout Remotion Project
+        uses: actions/checkout@v4
+        with:
+          repository: lukeHagar/github-stats-remotion
+          path: remotion-project
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'yarn' # REMOVA ESTA LINHA
+          cache: 'yarn'
 
-      # (Opcional) O FFmpeg já vem instalado no ubuntu-latest, mas manter não prejudica
-      - name: Install FFmpeg (if needed)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-
-      # Passo 5: Instala as dependências do seu projeto com Yarn
       - name: Install Dependencies
-        uses: borales/actions-yarn@v5
-        with:
-          cmd: install # Executa 'yarn install'
-          # 👇 Adicionado para prevenir o mesmo erro de conflito que vimos com o npm
-          args: --legacy-peer-deps
+        run: |
+          cd remotion-project
+          yarn install --legacy-peer-deps
 
-      # Passo 6: Renderiza o vídeo usando o script 'render' do seu package.json
-      - name: Render Video
-        uses: borales/actions-yarn@v5
+      # PASSO CORRIGIDO
+      - name: Render All GIFs
+        run: |
+          cd remotion-project
+          
+          # Copia os dados para a pasta onde o Remotion espera encontrá-los
+          cp ..github-user-stats.json ./input.json
+          
+          # Renderiza cada GIF individualmente com o comando correto
+          # Adicionamos o 'src/index.ts' que estava faltando
+          npx remotion render src/index.ts stats out/stats.gif --props ./input.json
+          npx remotion render src/index.ts languages out/languages.gif --props ./input.json
+          npx remotion render src/index.ts readme out/readme.gif --props ./input.json
+          npx remotion render src/index.ts main-stats out/main-stats.gif --props ./input.json
+          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ./input.json
+          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ./input.json
+          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ./input.json
+          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ./input.json
+          npx remotion render src/index.ts top-languages out/top-languages.gif --props ./input.json
+          
+          # Copia todos os GIFs gerados de volta para o repositório principal
+          mkdir -p ../public
+          cp out/*.gif ../public/
+
+      - name: Auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          cmd: render # Executa 'yarn render'
+          commit_message: "📊 Update stats and rendered GIFs"
