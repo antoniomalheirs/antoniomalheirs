@@ -3,13 +3,13 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
     "repoViews": 1841,
-    "linesOfCodeChanged": 3746223,
-    "linesAdded": 2224797,
-    "linesDeleted": 1520966,
-    "linesChanged": 460,
-    "totalCommits": 745,
+    "linesOfCodeChanged": 3746269,
+    "linesAdded": 2224818,
+    "linesDeleted": 1520986,
+    "linesChanged": 465,
+    "totalCommits": 749,
     "totalPullRequests": 0,
-    "codeByteTotal": 36040208,
+    "codeByteTotal": 36040195,
     "topLanguages": [
         {
             "languageName": "Shell",
@@ -84,7 +84,7 @@
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 335348
+            "value": 335335
         },
         {
             "languageName": "Python",
@@ -94,16 +94,16 @@
     ],
     "forkCount": 0,
     "starCount": 5,
-    "totalContributions": 571,
+    "totalContributions": 577,
     "contributionsCollection": {
-        "totalCommitContributions": 542,
+        "totalCommitContributions": 548,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
         "totalRepositoryContributions": 25,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 571,
+            "totalContributions": 577,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7520,7 +7520,7 @@
                             "date": "2025-08-03"
                         },
                         {
-                            "contributionCount": 128,
+                            "contributionCount": 134,
                             "date": "2025-08-04"
                         }
                     ]
@@ -7530,5 +7530,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1754336310243
+    "fetchedAt": 1754336904485
 }
