@@ -35,7 +35,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-
+          cache: 'yarn' # REMOVA ESTA LINHA
 
       # (Opcional) O FFmpeg já vem instalado no ubuntu-latest, mas manter não prejudica
       - name: Install FFmpeg (if needed)
