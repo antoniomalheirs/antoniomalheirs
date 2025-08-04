@@ -1,55 +1,58 @@
-name: Generate GitHub Stats and GIFs
+name: Generate Stats and Render GIFs
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
+  # Permissão para o workflow commitar os arquivos gerados
   contents: write
 
-jobs:
-  Generate-Stats-and-GIFs:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: stats-gif-concurrency
-      cancel-in-progress: true
-    steps:
-      - name: Checkout Main Repo
-        uses: actions/checkout@v3
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
+jobs:
+  render:
+    name: Generate Data and Render Video
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Faz o checkout do SEU repositório (que contém o projeto Remotion)
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # 👇 PASSO NOVO: Executa a action externa para gerar o 'stats.json'
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Checkout Remotion Project
-        uses: actions/checkout@v3
-        with:
-          repository: lukeHagar/github-stats-remotion
-          path: remotion-project
-
+      # Passo 3: Configura o ambiente Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
-          cache-dependency-path: 'remotion-project/package.json'
+          cache: 'yarn'
 
-      # Passo 6 CORRIGIDO
-      - name: Install Dependencies and Render GIF
+      # (Opcional) O FFmpeg já vem instalado no ubuntu-latest, mas manter não prejudica
+      - name: Install FFmpeg (if needed)
         run: |
-          cp github-user-stats.json remotion-project/
-          cd remotion-project
-          npm install --legacy-peer-deps
-          
-          # CORREÇÃO: O script correto para renderizar provavelmente é 'render', não 'build'.
-          npm run render
-          
-          mkdir -p ../public
-          cp out/stats.gif ../public/github-stats.gif
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
-      - name: Commit All Generated Files
-        uses: stefanzweifel/git-auto-commit-action@v5
+      # Passo 5: Instala as dependências do seu projeto com Yarn
+      - name: Install Dependencies
+        uses: borales/actions-yarn@v5
         with:
-          commit_message: "📊 Update daily stats and GIFs"
+          cmd: install # Executa 'yarn install'
+          # 👇 Adicionado para prevenir o mesmo erro de conflito que vimos com o npm
+          args: --legacy-peer-deps
+
+      # Passo 6: Renderiza o vídeo usando o script 'render' do seu package.json
+      - name: Render Video
+        uses: borales/actions-yarn@v5
+        with:
+          cmd: render # Executa 'yarn render'
