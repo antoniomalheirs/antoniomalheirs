@@ -37,15 +37,17 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
 <!--END_SECTION:waka-->
 
 ```text
+
    .--------------------------------------------------------------------------------------------------------------------.
   /  .-.                                                                                                           .-.   \
  |  /   \                                                                                                         /   \   |
  | | .-. |                                                                                                       | .-. |  |
- | | | | |                                ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                       | |  | | |
+ | | | | |                                ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                        | || |  |
  | | '-' |                                                                                                       | '-' |  |
  |  \   /                                                                                                         \   /   |
   \  '-'                                                                                                           '-'   /
    '--------------------------------------------------------------------------------------------------------------------'
+
 ```
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -184,6 +186,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
