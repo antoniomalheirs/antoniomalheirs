@@ -4,7 +4,7 @@ name: Generate Stats and Render GIFs
 
 on:
   schedule:
-    # Executa às 12:00 UTC (9 da manhã no seu fuso horário)
+    # Executa às 12:00 UTC (9:00 no seu fuso horário)
     - cron: "0 12 * * *"
   workflow_dispatch:
 
@@ -24,14 +24,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Gera o arquivo de estatísticas (o "prato pronto")
+      # 2. Gera o arquivo de estatísticas
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3. FAZ O COMMIT deste arquivo.
-      # Isto é CRUCIAL para que ele exista na URL que seu código corrigido vai buscar.
+      # 3. Faz o commit do arquivo de estatísticas para que ele exista na URL
       - name: Commit Stats File
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -52,7 +51,6 @@ jobs:
       # 6. Renderiza os GIFs
       - name: Render All GIFs
         run: |
-          
           # Renderiza cada composição de GIF
           npx remotion render src/index.ts stats out/stats.gif --props ./input.json
           npx remotion render src/index.ts languages out/languages.gif --props ./input.json
