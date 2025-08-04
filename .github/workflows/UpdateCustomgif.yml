@@ -17,55 +17,45 @@ jobs:
     name: Generate Data and Render Video
     runs-on: ubuntu-latest
     steps:
+      # Passo 1: Faz o checkout do SEU repositório (que contém o projeto Remotion)
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Generate Stats File
-        uses: LukeHagar/stats-action@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Checkout Remotion Project
-        uses: actions/checkout@v4
-        with:
-          repository: lukeHagar/github-stats-remotion
-          path: remotion-project
-
+      # Passo 2: Configura o ambiente Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'yarn'
 
-      - name: Install Dependencies
+      # Passo 3: Cria o arquivo input.json que o Remotion espera
+      - name: Create Input File for Remotion
         run: |
-          cd remotion-project
-          yarn install --legacy-peer-deps
+          echo '{"usernames": ["${{ github.repository_owner }}"]}' > input.json
 
-      # PASSO CORRIGIDO
+      # Passo 4: Instala as dependências
+      - name: Install Dependencies
+        run: yarn install --legacy-peer-deps
+
+      # Passo 5: Renderiza todos os GIFs
       - name: Render All GIFs
         run: |
-          cd remotion-project
-          
-          # Copia os dados para a pasta onde o Remotion espera encontrá-los
-          cp ../github-user-stats.json ../input.json
-          
-          # Renderiza cada GIF individualmente com o comando correto
-          # Adicionamos o 'src/index.ts' que estava faltando
-          npx remotion render src/index.ts stats out/stats.gif --props ../input.json
-          npx remotion render src/index.ts languages out/languages.gif --props ../input.json
-          npx remotion render src/index.ts readme out/readme.gif --props ../input.json
-          npx remotion render src/index.ts main-stats out/main-stats.gif --props ../input.json
-          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ../input.json
-          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ../input.json
-          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ../input.json
-          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ../input.json
-          npx remotion render src/index.ts top-languages out/top-languages.gif --props ../input.json
-          
-          # Copia todos os GIFs gerados de volta para o repositório principal
-          mkdir -p ../public
-          cp out/*.gif ../public/
+          # Renderiza cada GIF individualmente, passando o input.json
+          npx remotion render src/index.ts stats out/stats.gif --props ./input.json
+          npx remotion render src/index.ts languages out/languages.gif --props ./input.json
+          npx remotion render src/index.ts readme out/readme.gif --props ./input.json
+          npx remotion render src/index.ts main-stats out/main-stats.gif --props ./input.json
+          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ./input.json
+          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ./input.json
+          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ./input.json
+          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ./input.json
+          npx remotion render src/index.ts top-languages out/top-languages.gif --props ./input.json
 
+          # Copia todos os GIFs gerados para a pasta public
+          mkdir -p ./public
+          cp out/*.gif ./public/
+
+      # Passo 6: Faz o commit de todos os arquivos gerados
       - name: Auto commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
