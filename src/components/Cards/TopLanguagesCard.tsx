@@ -8,7 +8,7 @@ export function TopLanguagesCard({ userStats }: { userStats: UserStats }) {
 
   return (
     <div
-      className="bg-[#282a36] text-[#f8f8f2] rounded-s-lg p-4 shadow-lg text-white w-full h-full"
+      className="bg-[#282a36] text-[#f8f8f2] rounded-s-lg rounded-e-lg p-4 shadow-lg text-white"
       style={fadeInAndSlideUp(frame)}
     >
       <h3 className="text-l font-semibold mb-2 opacity-80">Top Languages</h3>
