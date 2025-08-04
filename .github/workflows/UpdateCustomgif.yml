@@ -48,7 +48,7 @@ jobs:
           cd remotion-project
           
           # Copia os dados para a pasta onde o Remotion espera encontrá-los
-          cp ..github-user-stats.json ./input.json
+          cp ./github-user-stats.json ./input.json
           
           # Renderiza cada GIF individualmente com o comando correto
           # Adicionamos o 'src/index.ts' que estava faltando
