@@ -2,12 +2,10 @@ name: Generate GitHub Stats and GIFs
 
 on:
   schedule:
-    # Executa todos os dias às 12:00 UTC
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
-  # Permissão de escrita para que as actions possam commitar os arquivos gerados
   contents: write
 
 jobs:
@@ -17,24 +15,20 @@ jobs:
       group: stats-gif-concurrency
       cancel-in-progress: true
     steps:
-      # Passo 1: Faz o checkout do seu repositório principal
       - name: Checkout Main Repo
         uses: actions/checkout@v3
 
-      # Passo 2: Gera o arquivo 'stats.json' na raiz do repositório
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # Passo 4: Faz o checkout do projeto Remotion para uma pasta separada
       - name: Checkout Remotion Project
         uses: actions/checkout@v3
         with:
           repository: lukeHagar/github-stats-remotion
           path: remotion-project
 
-      # Passo 5: Configura o ambiente Node.js para o Remotion
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -42,22 +36,20 @@ jobs:
           cache: 'npm'
           cache-dependency-path: 'remotion-project/package.json'
 
-      # Passo 6: Instala dependências, renderiza o GIF e copia para o repositório
+      # Passo 6 CORRIGIDO
       - name: Install Dependencies and Render GIF
         run: |
-          # Copia o arquivo de stats da pasta 'generated' para dentro do projeto Remotion
           cp github-user-stats.json remotion-project/
-          
-          # Entra na pasta do projeto Remotion
           cd remotion-project
-          
-          # Instala as dependências e renderiza o vídeo/gif com 'sudo'
           npm install --legacy-peer-deps
-          npm run build
           
-          # Cria a pasta 'public' no seu repositório principal (se não existir)
-          # O comando 'cp' abaixo pode falhar se 'sudo npm run build' criar arquivos como root
+          # CORREÇÃO: O script correto para renderizar provavelmente é 'render', não 'build'.
+          npm run render
+          
           mkdir -p ../public
-          
-          # Copia o GIF gerado para a pasta 'public'
-          sudo cp out/stats.gif ../public/github-stats.gif
+          cp out/stats.gif ../public/github-stats.gif
+
+      - name: Commit All Generated Files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Update daily stats and GIFs"
