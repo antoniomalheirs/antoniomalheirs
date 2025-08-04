@@ -16,47 +16,48 @@ concurrency:
 
 jobs:
   render:
-    name: Generate Data and Render GIFs
+    name: Generate Data, Commit, and Render GIFs
     runs-on: ubuntu-latest
     steps:
-      # 1. Faz o checkout do seu projeto
+      # 1. Faz o checkout do seu repositório
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Gera o arquivo de estatísticas que o seu código irá buscar via URL
-      # O nome do arquivo padrão é 'github-user-stats.json'
+      # 2. Gera o arquivo de estatísticas que será buscado pela URL
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3. Faz o commit APENAS do arquivo de estatísticas.
-      # Isso é crucial para que a URL do arquivo esteja disponível para o próximo passo.
+      # 3. Faz o commit APENAS do arquivo de estatísticas
+      # Isto garante que a URL do arquivo estará disponível no passo de renderização
       - name: Commit Stats File
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📊 Update user stats data"
           file_pattern: github-user-stats.json
 
-      # 4. Configura o ambiente Node.js e Yarn
+      # 4. Configura o Node.js e Yarn
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'yarn'
 
-      # 5. Instala as dependências do projeto
+      # 5. Instala as dependências
       - name: Install Dependencies
         run: yarn install --legacy-peer-deps
 
-      # 6. Renderiza todos os GIFs
+      # 6. Renderiza os GIFs
       - name: Render All GIFs
         run: |
-          # O código-fonte agora buscará o JSON pela URL corrigida
-          # e não precisamos mais passar o --props
-          npx remotion render src/index.ts stats out/stats.gif
-          # ... adicione outras linhas npx remotion render se precisar ...
+          # O código-fonte corrigido buscará o JSON pela URL correta.
+          # Passamos o input.json para o código saber qual usuário usar na URL.
+          echo '{"usernames": ["${{ github.repository_owner }}"]}' > input.json
           
+          npx remotion render src/index.ts stats out/stats.gif --props ./input.json
+          # Adicione outras linhas de renderização se necessário
+
           mkdir -p ./public
           cp out/*.gif ./public/
 
@@ -65,4 +66,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🚀 Render new profile GIFs"
-          file_pattern: public/*.gif
+          file_pattern: public/*.gif input.json # Commita os GIFs e o input.json
