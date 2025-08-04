@@ -53,10 +53,16 @@ jobs:
       - name: Render All GIFs
         run: |
           
-          # Executamos o Remotion, passando o "pedido inicial"
-          # O código vai usar o username para montar a URL correta (que você corrigiu)
-          # e buscar o arquivo que commitamos no passo 3.
+          # Renderiza cada composição de GIF
           npx remotion render src/index.ts stats out/stats.gif --props ./input.json
+          npx remotion render src/index.ts languages out/languages.gif --props ./input.json
+          npx remotion render src/index.ts readme out/readme.gif --props ./input.json
+          npx remotion render src/index.ts main-stats out/main-stats.gif --props ./input.json
+          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ./input.json
+          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ./input.json
+          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ./input.json
+          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ./input.json
+          npx remotion render src/index.ts top-languages out/top-languages.gif --props ./input.json
           
           mkdir -p ./public
           cp out/*.gif ./public/
