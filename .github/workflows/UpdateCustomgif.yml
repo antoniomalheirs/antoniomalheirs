@@ -1,3 +1,5 @@
+# Nome do arquivo: render-gifs.yml
+
 name: Generate Stats and Render GIFs
 
 on:
@@ -14,49 +16,53 @@ concurrency:
 
 jobs:
   render:
-    name: Generate Data and Render Video
+    name: Generate Data and Render GIFs
     runs-on: ubuntu-latest
     steps:
-      # Passo 1: Faz o checkout do SEU repositório (que contém o projeto Remotion)
-      - name: Checkout Repo
+      # 1. Faz o checkout do seu projeto
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Passo 2: Configura o ambiente Node.js
+      # 2. Gera o arquivo de estatísticas que o seu código irá buscar via URL
+      # O nome do arquivo padrão é 'github-user-stats.json'
+      - name: Generate Stats File
+        uses: LukeHagar/stats-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # 3. Faz o commit APENAS do arquivo de estatísticas.
+      # Isso é crucial para que a URL do arquivo esteja disponível para o próximo passo.
+      - name: Commit Stats File
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Update user stats data"
+          file_pattern: github-user-stats.json
+
+      # 4. Configura o ambiente Node.js e Yarn
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'yarn'
 
-      # Passo 3: Cria o arquivo input.json que o Remotion espera
-      - name: Create Input File for Remotion
-        run: |
-          echo '{"usernames": ["${{ github.repository_owner }}"]}' > input.json
-
-      # Passo 4: Instala as dependências
+      # 5. Instala as dependências do projeto
       - name: Install Dependencies
         run: yarn install --legacy-peer-deps
 
-      # Passo 5: Renderiza todos os GIFs
+      # 6. Renderiza todos os GIFs
       - name: Render All GIFs
         run: |
-          # Renderiza cada GIF individualmente, passando o input.json
-          npx remotion render src/index.ts stats out/stats.gif --props ./input.json
-          npx remotion render src/index.ts languages out/languages.gif --props ./input.json
-          npx remotion render src/index.ts readme out/readme.gif --props ./input.json
-          npx remotion render src/index.ts main-stats out/main-stats.gif --props ./input.json
-          npx remotion render src/index.ts issue-tracking out/issue-tracking.gif --props ./input.json
-          npx remotion render src/index.ts code-metrics out/code-metrics.gif --props ./input.json
-          npx remotion render src/index.ts activity-overview out/activity-overview.gif --props ./input.json
-          npx remotion render src/index.ts commit-streak out/commit-streak.gif --props ./input.json
-          npx remotion render src/index.ts top-languages out/top-languages.gif --props ./input.json
-
-          # Copia todos os GIFs gerados para a pasta public
+          # O código-fonte agora buscará o JSON pela URL corrigida
+          # e não precisamos mais passar o --props
+          npx remotion render src/index.ts stats out/stats.gif
+          # ... adicione outras linhas npx remotion render se precisar ...
+          
           mkdir -p ./public
           cp out/*.gif ./public/
 
-      # Passo 6: Faz o commit de todos os arquivos gerados
-      - name: Auto commit
+      # 7. Faz o commit final dos GIFs gerados
+      - name: Commit Rendered GIFs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Update stats and rendered GIFs"
+          commit_message: "🚀 Render new profile GIFs"
+          file_pattern: public/*.gif
