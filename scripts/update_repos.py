@@ -77,18 +77,19 @@ o-------------------------------------------------------------------------------
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding: 0 10px;">
         <h4>Programming Languages</h4>
-        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=5" alt="Programming Languages"/>
-        <h4>Web & Backend Development</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=5" alt="Web & Backend Development"/>
+        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=4" alt="Programming Languages"/>
+        <h5>Web & Backend Development</h5>
+        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=4" alt="Web & Backend Development"/>
       </td>
       <td style="border: none; vertical-align: top; padding: 0 10px;">
         <h4>Tools & Platforms</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=5" alt="Tools & Platforms"/>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=4" alt="Tools & Platforms"/>
         <h4>Other Skills</h4>
-        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=5" alt="Other Skills"/>
+        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=4" alt="Other Skills"/>
       </td>
-      <td style="border: none; vertical-align: top; padding: 10px;">
-        <img src="./public/top-languages.gif" alt="Dynamic Top Languages">
+      <td style="border: none; vertical-align: top; padding: 0 10px;">
+        <img src="./public/top-languages.gif" height="270" alt="Dynamic Top Languages">
+        <img src="./public/stats.gif" height="270" alt="Dynamic Top Stats">
       </td>
     </tr>
   </table>
