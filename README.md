@@ -3,17 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
 
 ```text
- .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.
-| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
-| |  _______     | || |  _________   | || |      __      | || |  _________   | || | ____    ____ | || |  _________   | |
-| | |_   __ \    | || | |_   ___  |  | || |     /  \     | || | |  ____   \  | || ||_   \  /   _|| || | |_   ___  |  | |
-| |   | |__) |   | || |   | |_  \_|  | || |    / /\ \    | || | | |     \  | | || |  |   \/   |  | || |   | |_  \_|  | |
-| |   |  __ /    | || |   |  _|  _   | || |   / ____ \   | || | | |      | | | || |  | |\  /| |  | || |   |  _|  _   | |
-| |  _| |  \ \_  | || |  _| |___/ |  | || | _/ /    \ \_ | || | | |_____/  | | || | _| |_\/_| |_ | || |  _| |___/ |  | |
-| | |____| |___| | || | |_________|  | || ||____|  |____|| || | |_________/  | || ||_____||_____|| || | |_________|  | |
-| |              | || |              | || |              | || |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
+ .----------------.   .----------------.   .----------------.   .----------------.   .----------------.   .---------------.
+| .--------------. | | .--------------. | | .--------------. | | .--------------. | | .--------------. | | .-------------. |
+| |  _______     | | | |  _________   | | | |      __      | | | |  _________   | | | | ____    ____ | | | |  _________  | |
+| | |_   __ \    | | | | |_   ___  |  | | | |     /  \     | | | | |  ____   \  | | | ||_   \  /   _|| | | | |_   ___  | | |
+| |   | |__) |   | | | |   | |_  \_|  | | | |    / /\ \    | | | | | |     \  | | | | |  |   \/   |  | | | |   | |_  \_| | |
+| |   |  __ /    | | | |   |  _|  _   | | | |   / ____ \   | | | | | |      | | | | | |  | |\  /| |  | | | |   |  _|  _  | |
+| |  _| |  \ \_  | | | |  _| |___/ |  | | | | _/ /    \ \_ | | | | | |_____/  | | | | | _| |_\/_| |_ | | | |  _| |___/ | | |
+| | |____| |___| | | | | |_________|  | | | ||____|  |____|| | | | |_________/  | | | ||_____||_____|| | | | |_________| | |
+| |              | | | |              | | | |              | | | |              | | | |              | | | |             | |
+| '--------------' | | '--------------' | | '--------------' | | '--------------' | | '--------------' | | '-------------' |
+ '----------------'   '----------------'   '----------------'   '----------------'   '----------------'   '---------------'
 ============================================================================================================================
 |                                                        About Me                                                          |
 ============================================================================================================================
@@ -23,34 +23,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-695-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                84 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.21 % 
-🌆 Daytime                98 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.08 % 
-🌃 Evening                168 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.43 % 
-🌙 Night                  399 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.27 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       7 repos             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.92 % 
-Shell                    3 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.54 % 
-JavaScript               2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.69 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 % 
-EJS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 % 
-```
-
-
-
-
- Last Updated on 04/08/2025 02:15:59 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -142,11 +114,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Lies-Of-P-Cheat-Learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies-Of-P-Cheat-Learn&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies-Of-P-Cheat-Learn" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/I.A_RL_Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=I.A_RL_Model&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="I.A_RL_Model" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
