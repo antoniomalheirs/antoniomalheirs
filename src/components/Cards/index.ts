@@ -60,7 +60,7 @@ export const cards: CardConfig[] = [
   {
     id: 'top-languages',
     component: TopLanguagesCard,
-    height: 232,
+    height: 280,
   },
 
 ]; 
