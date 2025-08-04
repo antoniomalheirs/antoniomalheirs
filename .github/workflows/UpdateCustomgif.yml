@@ -1,27 +1,63 @@
-name: Generate GitHub Stats File
+name: Generate GitHub Stats and GIFs
 
 on:
   schedule:
+    # Executa todos os dias às 12:00 UTC
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
-
+  # Permissão de escrita para que as actions possam commitar os arquivos gerados
   contents: write
 
 jobs:
-  Generate-Stats-File:
+  Generate-Stats-and-GIFs:
     runs-on: ubuntu-latest
+    concurrency:
+      group: stats-gif-concurrency
+      cancel-in-progress: true
     steps:
-      - name: Checkout Repo
+      # Passo 1: Faz o checkout do seu repositório principal
+      - name: Checkout Main Repo
         uses: actions/checkout@v3
 
+      # Passo 2: Gera o arquivo 'stats.json' na raiz do repositório
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          
-      - name: Move stats file to a specific folder
+
+      # Passo 4: Faz o checkout do projeto Remotion para uma pasta separada
+      - name: Checkout Remotion Project
+        uses: actions/checkout@v3
+        with:
+          repository: lukeHagar/github-stats-remotion
+          path: remotion-project
+
+      # Passo 5: Configura o ambiente Node.js para o Remotion
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: 'remotion-project/package.json'
+
+      # Passo 6: Instala dependências, renderiza o GIF e copia para o repositório
+      - name: Install Dependencies and Render GIF
         run: |
-          mkdir -p assets
-          mv github-user-stats.json assets/github-user-stats.json
+          # Copia o arquivo de stats da pasta 'generated' para dentro do projeto Remotion
+          cp github-user-stats.json remotion-project/
+          
+          # Entra na pasta do projeto Remotion
+          cd remotion-project
+          
+          # Instala as dependências e renderiza o vídeo/gif com 'sudo'
+          sudo npm install
+          sudo npm run build
+          
+          # Cria a pasta 'public' no seu repositório principal (se não existir)
+          # O comando 'cp' abaixo pode falhar se 'sudo npm run build' criar arquivos como root
+          mkdir -p ../public
+          
+          # Copia o GIF gerado para a pasta 'public'
+          sudo cp out/stats.gif ../public/github-stats.gif
