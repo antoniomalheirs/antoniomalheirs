@@ -2,7 +2,7 @@ name: Update Pinned Repositories
 on:
   schedule:
     # Roda a cada 12 horas
-    - cron: '0 */12 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
     # Adiciona um botão para rodar manualmente na aba Actions
 jobs:
@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'CI: Atualiza repositórios aleatórios no README'
+          commit_message: '🔄 Update pinned repositories on README'
           file_pattern: README.md
