@@ -1,8 +1,8 @@
-name: GitHub-Profile-3D-Contrib-Auto-Commit
+name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Executa a cada 24 horas
+    - cron: "55 11 * * *" # Executa a cada 24 horas
   workflow_dispatch:
 
 jobs:
@@ -22,8 +22,5 @@ jobs:
       - name: Commitar Alterações Automaticamente
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "✨ Gerado novo gráfico de contribuições 3D"
-          # O file_pattern deve corresponder ao nome do arquivo que a action 3D-contrib cria.
-          # Geralmente é um SVG, mas pode variar dependendo da configuração.
-          # Usar *.svg é uma boa prática se o nome do arquivo não for fixo.
+          commit_message: "✨ Generated new 3D contribution graph"
           file_pattern: "*.svg"
