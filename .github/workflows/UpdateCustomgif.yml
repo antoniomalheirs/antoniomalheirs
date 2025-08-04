@@ -23,42 +23,37 @@ jobs:
       # Passo 2: Gera o arquivo JSON com as estatísticas
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
-        with:
-          output_path: generated/stats.json
+        # CORREÇÃO: Bloco 'with:' removido. A action criará 'stats.json' na raiz.
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # --- INÍCIO DA CORREÇÃO ---
-
-      # Passo 3: Faz o checkout do repositório do Remotion para uma pasta separada
+      # Passo 3: Faz o checkout do repositório do Remotion
       - name: Checkout Remotion Project
         uses: actions/checkout@v3
         with:
           repository: lukeHagar/github-stats-remotion
-          path: remotion-project # Baixa o projeto para a pasta 'remotion-project'
+          path: remotion-project
 
       # Passo 4: Configura o ambiente Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18' # Use a versão do Node.js exigida pelo projeto Remotion
+          node-version: '18'
           cache: 'npm'
-          cache-dependency-path: 'remotion-project/package-lock.json'
+          # CORREÇÃO: Usando 'package.json' para o caminho do cache
+          cache-dependency-path: 'remotion-project/package.json'
 
       # Passo 5: Instala as dependências e renderiza o vídeo
       - name: Install Dependencies and Render GIF
         run: |
-          # Copia o arquivo de stats para dentro do projeto Remotion
-          cp generated/stats.json remotion-project/
+          # CORREÇÃO: Copia o arquivo da raiz, não da pasta 'generated'
+          cp stats.json remotion-project/
           
-          # Entra na pasta do projeto, instala dependências e roda o build
           cd remotion-project
           npm install
-          npm run build # Este comando irá renderizar o vídeo/gif
+          npm run build
           
+          # Garante que a pasta de destino exista
+          mkdir -p ../public
           # Copia o GIF gerado para uma pasta no seu repositório principal
           cp out/stats.gif ../public/github-stats.gif
-        env:
-          # (Opcional) Passa a localização do arquivo de stats como variável de ambiente
-          STATS_FILE_PATH: 'stats.json'
-
