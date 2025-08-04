@@ -52,8 +52,6 @@ jobs:
       # 6. Renderiza os GIFs
       - name: Render All GIFs
         run: |
-          # Criamos o "pedido inicial" (input.json) para evitar o TypeError
-          echo '{"usernames": ["${{ github.repository_owner }}"]}' > input.json
           
           # Executamos o Remotion, passando o "pedido inicial"
           # O código vai usar o username para montar a URL correta (que você corrigiu)
