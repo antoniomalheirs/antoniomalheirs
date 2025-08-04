@@ -1,59 +1,27 @@
-name: Generate GitHub Stats GIFs
+name: Generate GitHub Stats File
 
 on:
   schedule:
-    # Executa todos os dias às 12:00 UTC
     - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
+
   contents: write
 
 jobs:
-  Generate-Stats-and-GIFs:
+  Generate-Stats-File:
     runs-on: ubuntu-latest
-    concurrency:
-      group: stats-concurrency
-      cancel-in-progress: true
     steps:
-      # Passo 1: Faz o checkout do seu repositório principal
-      - name: Checkout Main Repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # Passo 2: Gera o arquivo JSON com as estatísticas
       - name: Generate Stats File
         uses: LukeHagar/stats-action@main
-        # CORREÇÃO: Bloco 'with:' removido. A action criará 'stats.json' na raiz.
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      # Passo 3: Faz o checkout do repositório do Remotion
-      - name: Checkout Remotion Project
-        uses: actions/checkout@v3
-        with:
-          repository: lukeHagar/github-stats-remotion
-          path: remotion-project
-
-      # Passo 4: Configura o ambiente Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-          # CORREÇÃO: Usando 'package.json' para o caminho do cache
-          cache-dependency-path: 'remotion-project/package.json'
-
-      # Passo 5: Instala as dependências e renderiza o vídeo
-      - name: Install Dependencies and Render GIF
+          
+      - name: Move stats file to a specific folder
         run: |
-          # CORREÇÃO: Copia o arquivo da raiz, não da pasta 'generated'
-          cp stats.json remotion-project/
-          
-          cd remotion-project
-          npm install
-          npm run build
-          
-          # Garante que a pasta de destino exista
-          mkdir -p ../public
-          # Copia o GIF gerado para uma pasta no seu repositório principal
-          cp out/stats.gif ../public/github-stats.gif
+          mkdir -p assets
+          mv stats.json assets/stats.json
