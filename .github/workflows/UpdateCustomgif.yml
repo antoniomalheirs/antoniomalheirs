@@ -52,8 +52,8 @@ jobs:
           cd remotion-project
           
           # Instala as dependências e renderiza o vídeo/gif com 'sudo'
-          sudo npm install
-          sudo npm run build
+          npm install --legacy-peer-deps
+          npm run build
           
           # Cria a pasta 'public' no seu repositório principal (se não existir)
           # O comando 'cp' abaixo pode falhar se 'sudo npm run build' criar arquivos como root
