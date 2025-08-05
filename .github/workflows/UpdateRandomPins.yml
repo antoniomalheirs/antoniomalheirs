@@ -1,16 +1,19 @@
 name: Update Pinned Repositories
+
 on:
   schedule:
     # Roda a cada 12 horas
     - cron: '0 12 * * *'
   workflow_dispatch:
     # Adiciona um botão para rodar manualmente na aba Actions
+
 jobs:
   update-readme:
     name: Update Pinned Repos
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -23,9 +26,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update script
-        run: python scripts/update_repos.py
-              sed -i 's|ID|${{ secrets.ID_DISCORD }}|g' README.md
+      - name: Run update script and replace Discord ID
+        run: |
+          python scripts/update_repos.py
+            sed -i 's|ID|${{ secrets.ID_DISCORD }}|g' README.md
       
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
