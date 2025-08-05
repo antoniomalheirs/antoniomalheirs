@@ -23,6 +23,34 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2024%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1736-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                90 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.63 % 
+🌆 Daytime                234 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.44 % 
+🌃 Evening                200 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.18 % 
+🌙 Night                  519 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.76 % 
+```
+
+
+**I Mostly Code in C#** 
+
+```text
+C#                       7 repos             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.92 % 
+Shell                    3 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.54 % 
+JavaScript               2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.69 % 
+Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 % 
+EJS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 % 
+```
+
+
+
+
+ Last Updated on 04/08/2025 20:17:40 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -62,25 +90,34 @@ o-------------------------------------------------------------------------------
 o--------------------------------------------------------------------------------------------------------------------------o
 ```
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none; vertical-align: top; padding: 0 10px;">
-        <h4>Programming Languages</h4>
-        <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=5" alt="Programming Languages"/>
-        <h4>Web & Backend Development</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=5" alt="Web & Backend Development"/>
-      </td>
-      <td style="border: none; vertical-align: top; padding: 0 10px;">
-        <h4>Tools & Platforms</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux,kali,ubuntu,debian&perline=5" alt="Tools & Platforms"/>
-        <h4>Other Skills</h4>
-        <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=5" alt="Other Skills"/>
-      </td>
-      <td style="border: none; vertical-align: top; padding: 10px;">
-        <img src="./public/top-languages.gif" alt="Dynamic Top Languages">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; height: 100%;">
+    <tr style="border: none;">
+      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div>
+          <h4>Programming Languages</h4>
+          <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=4" alt="Programming Languages"/>
+        </div>
+        <div style="margin-top: 20px;">
+          <h5>Web & Backend Development</h5>
+          <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=4" alt="Web & Backend Development"/>
+        </div>
       </td>
-    </tr>
-  </table>
+      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div>
+          <h4>Tools & Platforms</h4>
+          <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux&perline=4" alt="Tools & Platforms"/>
+        </div>
+        <div style="margin-top: 20px;">
+          <h4>Other Skills</h4>
+          <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=4" alt="Other Skills"/>
+        </div>
+      </td>
+      <td width="33.33%" style="border: none; vertical-align: top; padding: 0 10px; display: flex; flex-direction: column; align-items: center;">
+        <img src="./public/top-languages.gif" height="200" alt="Dynamic Top Languages">
+        <img src="./public/stats.gif" height="200" alt="Dynamic Top Stats">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ```text
@@ -112,11 +149,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
