@@ -7,8 +7,6 @@ GITHUB_USERNAME = "antoniomalheirs"
 NUM_REPOS = 4
 CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=false&show_icons=true"
 
-# --- Template do README (VERSÃO FINAL COM BANNERS LARGOS E CENTRALIZADOS) ---
-# Este template está com a indentação e a estrutura corrigidas para funcionar perfeitamente.
 README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
@@ -71,18 +69,18 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="410" alt="GitHub Stats">
+      <td style="border: none; vertical-align: top; ">
+        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" card_width="400" alt="GitHub Stats_Profile">
         <br> 
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" card_width="350" alt="GitHub Streak">
       </td>
-      <td style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false&include_all_commits=true" width="390" alt="Top Languages">
+      <td style="border: none; vertical-align: top; ">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=320&count=7" alt="Spotify Recently Played"/>
+      </td> 
+      <td style="border: none; vertical-align: top; ">
+        <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false&include_all_commits=true" card_width="400" alt="GitHub Stats_Profile_Two">
         <br>
-        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" width="400"  alt="antoniomalheirs" />
-      </td>
-      <td style="border: none; vertical-align: top; padding-left: 10px;">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=7" alt="Spotify Recently Played"/>
+        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" card_width="350" alt="GitHub Streak_Week" />
       </td>
     </tr>
   </table>
@@ -98,29 +96,31 @@ o-------------------------------------------------------------------------------
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; height: 100%;">
     <tr style="border: none;">
-      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
-        <div>
+      <td width="21.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
           <h4>Programming Languages</h4>
           <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=4" alt="Programming Languages"/>
         </div>
-        <div style="margin-top: 20px;">
-          <h5>Web & Backend Development</h5>
+        <div align="center" style="margin-top: 20px;">
+          <h4>Web & Backend Development</h4>
           <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=4" alt="Web & Backend Development"/>
         </div>
       </td>
-      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
-        <div>
+      <td width="33.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
+          <img src="./public/top-languages.gif" width="460" height="215" alt="Dynamic Top Languages">
+          <img src="./public/stats.gif" width="420" height="215" alt="Dynamic Top Stats">
+        </div>
+      </td>
+      <td width="21.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
           <h4>Tools & Platforms</h4>
           <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux&perline=4" alt="Tools & Platforms"/>
         </div>
-        <div style="margin-top: 20px;">
+        <div align="center" style="margin-top: 20px;">
           <h4>Other Skills</h4>
           <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=4" alt="Other Skills"/>
         </div>
-      </td>
-      <td width="33.33%" style="border: none; vertical-align: top; padding: 0 10px; display: flex; flex-direction: column; align-items: center;">
-        <img src="./public/top-languages.gif" height="200" alt="Dynamic Top Languages">
-        <img src="./public/stats.gif" height="200" alt="Dynamic Top Stats">
       </td>
     </tr>
   </table>
@@ -215,6 +215,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
