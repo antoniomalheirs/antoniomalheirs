@@ -108,8 +108,8 @@ o-------------------------------------------------------------------------------
       </td>
       <td width="33.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
         <div align="center">
-          <img src="./public/top-languages.gif" width="460" height="215" alt="Dynamic Top Languages">
-          <img src="./public/stats.gif" width="420" height="215" alt="Dynamic Top Stats">
+          <img src="./public/top-languages.gif" width="420" height="230" alt="Dynamic Top Languages">
+          <img src="./public/stats.gif" width="380" height="230" alt="Dynamic Top Stats">
         </div>
       </td>
       <td width="21.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
@@ -215,6 +215,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
