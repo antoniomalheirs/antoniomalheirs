@@ -18,14 +18,37 @@
 |                                                        About Me                                                          |
 ============================================================================================================================
 ```
-<p align="center">
-  Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
-</p>
+<div align="left">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td height="55.00%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <ul>
+          <li><b>Bacharel em Ciência da Computação</b>
+            <ul>
+              <li>Faculdade Adamantinense Integrada (FAI)</li>
+            </ul>
+          </li>
+          <li><b>Técnico em Redes de Computadores e Infraestrutura</b>
+            <ul>
+              <li>Etec Prof. Eudécio Luiz Vicente - Centro Paula Souza</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td height="45.00%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+          <a href="https://www.instagram.com/malheirosan" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" alt="Instagram" height="100" width="100" /></a>
+          <a href="https://discord.com/users/1347413134205517894" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/discord.png" alt="Discord" height="100" width="100" /></a>
+          <a href="https://t.me/unkandata" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" alt="Telegram" height="100" width="100" /></a>
+          <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/linkedin.png" alt="Linkedin" height="100" width="100" /></a>
+      </td> 
+    </tr>
+  </table>
+</div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2024%20mins-red)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1736-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1736-red)
 
 **I'm a Night 🦉** 
 
@@ -55,11 +78,11 @@ EJS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
    .--------------------------------------------------------------------------------------------------------------------.
- |  /   \                                                                                                         /   \  |
+  | /   \                                                                                                         /   \  |
  | | .-. |                                                                                                       | .-. | |
- | | | | |                                ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                        | || | |
+ | | | | |                               ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                         | || | |
  | | '-' |                                                                                                       | '-' | |
- |  \   /                                                                                                         \   /  |
+  | \   /                                                                                                         \   /  |
    '--------------------------------------------------------------------------------------------------------------------'
 ```
 <div align="center">
@@ -85,7 +108,7 @@ EJS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```text
 o--------------------------------------------------------------------------------------------------------------------------o
 |  [+]                                                                                                                [+]  |
-|  [+]                                    T O O L I N G   &   A B I L I T I E S                                       [+]  |
+|  [+]                                        T O O L I N G   &   A B I L I T I E S                                   [+]  |
 |  [+]                                                                                                                [+]  |
 o--------------------------------------------------------------------------------------------------------------------------o
 ```
@@ -143,17 +166,17 @@ o-------------------------------------------------------------------------------
    _____________________________________________________________________________________________________________________
  /     ______________________________________________________________________________________________________________    \ 
 |   //                                                                                                               |    |
-|  |                              S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                          |    |
+|  |                                 S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                       |    |
 |  |________________________________________________________________________________________________________________/     |
  \_______________________________________________________________________________________________________________________/
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
-<br><br>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
+   <a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
+   <a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+   <br><br>
+   <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
+   <a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
