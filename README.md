@@ -89,17 +89,17 @@ EJS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="410" alt="GitHub Stats">
+        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" card_width="350" alt="GitHub Stats_Profile">
         <br> 
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="400" alt="GitHub Streak">
-      </td>
-      <td style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false&include_all_commits=true" width="390" alt="Top Languages">
-        <br>
-        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" width="400"  alt="antoniomalheirs" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" card_width="350" alt="GitHub Streak">
       </td>
       <td style="border: none; vertical-align: top; padding-left: 10px;">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=7" alt="Spotify Recently Played"/>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=340&count=7" alt="Spotify Recently Played"/>
+      </td> 
+      <td style="border: none; vertical-align: top; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false&include_all_commits=true" card_width="340" alt="GitHub Stats_Profile_Two">
+        <br>
+        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" card_width="340" alt="GitHub Streak_Week" />
       </td>
     </tr>
   </table>
