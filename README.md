@@ -52,7 +52,7 @@
    .--------------------------------------------------------------------------------------------------------------------.
   | /   \                                                                                                         /   \  |
  | | .-. |                                                                                                       | .-. | |
- | | | | |                              ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                          | || | |
+ | | | | |                               ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                         | || | |
  | | '-' |                                                                                                       | '-' | |
   | \   /                                                                                                         \   /  |
    '--------------------------------------------------------------------------------------------------------------------'
@@ -118,7 +118,7 @@ o-------------------------------------------------------------------------------
 ```text
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 |                                                                                                                          |
-|                                            K N O W L E D G E   O F   L A N G U A G E S                                   |
+|                                           K N O W L E D G E   O F   L A N G U A G E S                                    |
 |                                                                                                                          |
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 ```
@@ -138,17 +138,17 @@ o-------------------------------------------------------------------------------
    _____________________________________________________________________________________________________________________
  /     ______________________________________________________________________________________________________________    \ 
 |   //                                                                                                               |    |
-|  |                                  S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                      |    |
+|  |                                S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                        |    |
 |  |________________________________________________________________________________________________________________/     |
  \_______________________________________________________________________________________________________________________/
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_Bot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_Bot" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
