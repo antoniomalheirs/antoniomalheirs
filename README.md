@@ -37,7 +37,7 @@
       </td>
       <td height="45.00%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
           <a href="https://www.instagram.com/malheirosan" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" alt="Instagram" height="100" width="100" /></a>
-          <a href="https://discord.com/users/ID" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/discord.png" alt="Discord" height="100" width="100" /></a>
+          <a href="https://discord.com/users/1347413134205517894" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/discord.png" alt="Discord" height="100" width="100" /></a>
           <a href="https://t.me/unkandata" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" alt="Telegram" height="100" width="100" /></a>
           <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/linkedin.png" alt="Linkedin" height="100" width="100" /></a>
       </td> 
@@ -144,11 +144,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="E-commerce_shop" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Discord_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_Bot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_Bot" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sound_And_Emoji_IOS" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
