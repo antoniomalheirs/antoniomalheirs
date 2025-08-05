@@ -25,6 +25,7 @@ jobs:
 
       - name: Run update script
         run: python scripts/update_repos.py
+          sed -i 's|ID|${{ secrets.ID_DISCORD }}|g' README.md
       
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
