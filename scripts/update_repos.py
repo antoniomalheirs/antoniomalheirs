@@ -29,9 +29,32 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
 |                                                        About Me                                                          |
 ============================================================================================================================
 ```
-<p align="center">
-  Graduated in Computer Science from Faculdade Adamantinense Integrada - FAI, Technician in Computer Networks/Infras from Etec Prof. Eudécio Luiz Vicente - Center Paula Souza.
-</p>
+<div align="left">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td height="55.00%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <ul>
+          <li><b>Bacharel em Ciência da Computação</b>
+            <ul>
+              <li>Faculdade Adamantinense Integrada (FAI)</li>
+            </ul>
+          </li>
+          <li><b>Técnico em Redes de Computadores e Infraestrutura</b>
+            <ul>
+              <li>Etec Prof. Eudécio Luiz Vicente - Centro Paula Souza</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td height="45.00%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+          <a href="https://www.instagram.com/malheirosan" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" alt="Instagram" height="100" width="100" /></a>
+          <a href="https://discord.com/users/ID" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/discord.png" alt="Discord" height="100" width="100" /></a>
+          <a href="https://t.me/unkandata" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" alt="Telegram" height="100" width="100" /></a>
+          <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/linkedin.png" alt="Linkedin" height="100" width="100" /></a>
+      </td> 
+    </tr>
+  </table>
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -192,6 +215,7 @@ if __name__ == "__main__":
         f.write(final_readme)
 
     print("README.md reescrito com sucesso a partir do template final!")
+
 
 
 
