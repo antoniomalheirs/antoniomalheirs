@@ -115,29 +115,31 @@ o-------------------------------------------------------------------------------
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; height: 100%;">
     <tr style="border: none;">
-      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
-        <div>
+      <td width="21.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
           <h4>Programming Languages</h4>
           <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=4" alt="Programming Languages"/>
         </div>
-        <div style="margin-top: 20px;">
-          <h5>Web & Backend Development</h5>
+        <div align="center" style="margin-top: 20px;">
+          <h4>Web & Backend Development</h4>
           <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=4" alt="Web & Backend Development"/>
         </div>
       </td>
-      <td width="21.33%" style="border: none; padding: 10px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
-        <div>
+      <td width="33.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
+          <img src="./public/top-languages.gif" width="460" height="215" alt="Dynamic Top Languages">
+          <img src="./public/stats.gif" width="420" height="215" alt="Dynamic Top Stats">
+        </div>
+      </td>
+      <td width="21.33%" style="border: none; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+        <div align="center">
           <h4>Tools & Platforms</h4>
           <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux&perline=4" alt="Tools & Platforms"/>
         </div>
-        <div style="margin-top: 20px;">
+        <div align="center" style="margin-top: 20px;">
           <h4>Other Skills</h4>
           <img src="https://skillicons.dev/icons?i=discordjs,bots,unity,arduino,&perline=4" alt="Other Skills"/>
         </div>
-      </td>
-      <td width="33.33%" style="border: none; vertical-align: top; padding: 0 10px; display: flex; flex-direction: column; align-items: center;">
-        <img src="./public/top-languages.gif" height="200" alt="Dynamic Top Languages">
-        <img src="./public/stats.gif" height="200" alt="Dynamic Top Stats">
       </td>
     </tr>
   </table>
