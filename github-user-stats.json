@@ -2,14 +2,14 @@
     "name": "Antônio Malheiros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
-    "repoViews": 2139,
-    "linesOfCodeChanged": 3747058,
-    "linesAdded": 2225178,
-    "linesDeleted": 1521379,
-    "linesChanged": 501,
-    "totalCommits": 788,
+    "repoViews": 2253,
+    "linesOfCodeChanged": 3748918,
+    "linesAdded": 2226567,
+    "linesDeleted": 1521837,
+    "linesChanged": 514,
+    "totalCommits": 814,
     "totalPullRequests": 0,
-    "codeByteTotal": 36042157,
+    "codeByteTotal": 36062321,
     "topLanguages": [
         {
             "languageName": "Shell",
@@ -49,7 +49,7 @@
         {
             "languageName": "C++",
             "color": "#f34b7d",
-            "value": 33515
+            "value": 53679
         },
         {
             "languageName": "ShaderLab",
@@ -94,16 +94,16 @@
     ],
     "forkCount": 0,
     "starCount": 7,
-    "totalContributions": 615,
+    "totalContributions": 640,
     "contributionsCollection": {
-        "totalCommitContributions": 586,
+        "totalCommitContributions": 611,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
         "totalRepositoryContributions": 25,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 615,
+            "totalContributions": 640,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7524,8 +7524,12 @@
                             "date": "2025-08-04"
                         },
                         {
-                            "contributionCount": 24,
+                            "contributionCount": 28,
                             "date": "2025-08-05"
+                        },
+                        {
+                            "contributionCount": 21,
+                            "date": "2025-08-06"
                         }
                     ]
                 }
@@ -7534,5 +7538,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1754420912541
+    "fetchedAt": 1754457850769
 }
