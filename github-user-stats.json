@@ -2,14 +2,14 @@
     "name": "Antônio Malheiros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
-    "repoViews": 2493,
-    "linesOfCodeChanged": 3748950,
-    "linesAdded": 2226584,
-    "linesDeleted": 1521850,
-    "linesChanged": 516,
-    "totalCommits": 816,
+    "repoViews": 2617,
+    "linesOfCodeChanged": 3751041,
+    "linesAdded": 2228507,
+    "linesDeleted": 1522002,
+    "linesChanged": 532,
+    "totalCommits": 832,
     "totalPullRequests": 0,
-    "codeByteTotal": 36062321,
+    "codeByteTotal": 36071657,
     "topLanguages": [
         {
             "languageName": "Shell",
@@ -27,14 +27,14 @@
             "value": 186521
         },
         {
+            "languageName": "C#",
+            "color": "#178600",
+            "value": 33915014
+        },
+        {
             "languageName": "Batchfile",
             "color": "#C1F12E",
             "value": 9368
-        },
-        {
-            "languageName": "C#",
-            "color": "#178600",
-            "value": 33905698
         },
         {
             "languageName": "Java",
@@ -89,21 +89,21 @@
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 18166
+            "value": 18186
         }
     ],
     "forkCount": 0,
     "starCount": 7,
-    "totalContributions": 642,
+    "totalContributions": 659,
     "contributionsCollection": {
-        "totalCommitContributions": 613,
+        "totalCommitContributions": 629,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
-        "totalRepositoryContributions": 25,
+        "totalRepositoryContributions": 26,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 642,
+            "totalContributions": 659,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7528,8 +7528,12 @@
                             "date": "2025-08-05"
                         },
                         {
-                            "contributionCount": 23,
+                            "contributionCount": 32,
                             "date": "2025-08-06"
+                        },
+                        {
+                            "contributionCount": 8,
+                            "date": "2025-08-07"
                         }
                     ]
                 }
@@ -7538,5 +7542,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1754480667051
+    "fetchedAt": 1754567088483
 }
