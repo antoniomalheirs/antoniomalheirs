@@ -2,12 +2,12 @@
     "name": "Antônio Malheiros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
-    "repoViews": 280,
-    "linesOfCodeChanged": 3770909,
-    "linesAdded": 2244331,
-    "linesDeleted": 1525966,
-    "linesChanged": 612,
-    "totalCommits": 913,
+    "repoViews": 262,
+    "linesOfCodeChanged": 3770999,
+    "linesAdded": 2244362,
+    "linesDeleted": 1526021,
+    "linesChanged": 616,
+    "totalCommits": 917,
     "totalPullRequests": 0,
     "codeByteTotal": 36160623,
     "topLanguages": [
@@ -77,11 +77,6 @@
             "value": 426
         },
         {
-            "languageName": "Jupyter Notebook",
-            "color": "#DA5B0B",
-            "value": 1181762
-        },
-        {
             "languageName": "TypeScript",
             "color": "#3178c6",
             "value": 335335
@@ -90,20 +85,25 @@
             "languageName": "Python",
             "color": "#3572A5",
             "value": 18186
+        },
+        {
+            "languageName": "Jupyter Notebook",
+            "color": "#DA5B0B",
+            "value": 1181762
         }
     ],
     "forkCount": 0,
-    "starCount": 7,
-    "totalContributions": 741,
+    "starCount": 32,
+    "totalContributions": 745,
     "contributionsCollection": {
-        "totalCommitContributions": 710,
+        "totalCommitContributions": 714,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
         "totalRepositoryContributions": 27,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 741,
+            "totalContributions": 745,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7600,7 +7600,7 @@
                             "date": "2025-08-21"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 6,
                             "date": "2025-08-22"
                         }
                     ]
@@ -7610,5 +7610,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1755862810218
+    "fetchedAt": 1755883647353
 }
