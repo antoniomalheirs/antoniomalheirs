@@ -3,11 +3,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
     "repoViews": 363,
-    "linesOfCodeChanged": 3788530,
-    "linesAdded": 2254789,
-    "linesDeleted": 1533083,
-    "linesChanged": 658,
-    "totalCommits": 959,
+    "linesOfCodeChanged": 3788616,
+    "linesAdded": 2254818,
+    "linesDeleted": 1533136,
+    "linesChanged": 662,
+    "totalCommits": 963,
     "totalPullRequests": 0,
     "codeByteTotal": 36169029,
     "topLanguages": [
@@ -94,16 +94,16 @@
     ],
     "forkCount": 0,
     "starCount": 32,
-    "totalContributions": 787,
+    "totalContributions": 791,
     "contributionsCollection": {
-        "totalCommitContributions": 756,
+        "totalCommitContributions": 760,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
         "totalRepositoryContributions": 27,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 787,
+            "totalContributions": 791,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7636,8 +7636,16 @@
                             "date": "2025-08-29"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 4,
                             "date": "2025-08-30"
+                        }
+                    ]
+                },
+                {
+                    "contributionDays": [
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-08-31"
                         }
                     ]
                 }
@@ -7646,5 +7654,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1756553957517
+    "fetchedAt": 1756640366367
 }
