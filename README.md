@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                426 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.79 % 
-🌆 Daytime                280 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.26 % 
-🌃 Evening                230 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.00 % 
-🌙 Night                  597 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.94 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       9 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.00 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-Shell                    3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-```
-
-
-
-
- Last Updated on 15/09/2025 13:00:48 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Clippy_Revenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clippy_Revenge&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clippy_Revenge" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400"/></a>
 <br><br>
 <a href="https://github.com/antoniomalheirs/Clash_of_Clans_Attackbase_Finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clash_of_Clans_Attackbase_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clash_of_Clans_Attackbase_Finder" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
