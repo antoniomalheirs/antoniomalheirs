@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                434 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.16 % 
-🌆 Daytime                280 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.17 % 
-🌃 Evening                230 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.93 % 
-🌙 Night                  597 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.74 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       9 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.00 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-Shell                    3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-```
-
-
-
-
- Last Updated on 16/09/2025 12:59:59 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Clash_of_Clans_Attackbase_Finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clash_of_Clans_Attackbase_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clash_of_Clans_Attackbase_Finder" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
