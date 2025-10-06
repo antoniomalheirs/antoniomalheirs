@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                586 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.61 % 
-🌆 Daytime                280 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.54 % 
-🌃 Evening                230 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.59 % 
-🌙 Night                  597 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.26 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       9 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.00 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-Shell                    3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 % 
-```
-
-
-
-
- Last Updated on 05/10/2025 12:54:55 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Clippy_Revenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clippy_Revenge&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clippy_Revenge" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Brute_Force_Methods"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_Force_Methods&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_Force_Methods" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Clippy_Revenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clippy_Revenge&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clippy_Revenge" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
