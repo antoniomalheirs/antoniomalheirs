@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                690 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.40 % 
-🌆 Daytime                280 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.58 % 
-🌃 Evening                230 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.80 % 
-🌙 Night                  597 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.22 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       10 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.26 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.68 % 
-Shell                    3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.68 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.23 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.23 % 
-```
-
-
-
-
- Last Updated on 18/10/2025 12:56:28 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sound_And_Emoji_IOS" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Brute_Force_Methods"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_Force_Methods&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_Force_Methods" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sound_And_Emoji_IOS" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
