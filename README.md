@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2019%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                874 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.12 % 
-🌆 Daytime                280 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.13 % 
-🌃 Evening                230 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.61 % 
-🌙 Night                  597 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.14 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       10 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.26 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.68 % 
-Shell                    3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.68 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.23 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.23 % 
-```
-
-
-
-
- Last Updated on 10/11/2025 13:05:05 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -173,12 +145,6 @@ o-------------------------------------------------------------------------------
  \________________________________________________________________________________________________________________________/
 ```
 
-<div align="center">
-<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
-<br><br>
-<a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Brute_Force_Methods"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_Force_Methods&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_Force_Methods" width="400"/></a>
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
