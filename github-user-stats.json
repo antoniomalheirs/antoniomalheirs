@@ -2,14 +2,14 @@
     "name": "Antônio Malheiros",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79883711?v=4",
     "username": "antoniomalheirs",
-    "repoViews": 297,
-    "linesOfCodeChanged": 3862066,
-    "linesAdded": 2323305,
-    "linesDeleted": 1537790,
-    "linesChanged": 971,
-    "totalCommits": 1273,
+    "repoViews": 351,
+    "linesOfCodeChanged": 3890906,
+    "linesAdded": 2351798,
+    "linesDeleted": 1538117,
+    "linesChanged": 991,
+    "totalCommits": 1294,
     "totalPullRequests": 0,
-    "codeByteTotal": 36321807,
+    "codeByteTotal": 36708045,
     "topLanguages": [
         {
             "languageName": "Shell",
@@ -24,7 +24,12 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 249993
+            "value": 251111
+        },
+        {
+            "languageName": "TypeScript",
+            "color": "#3178c6",
+            "value": 720455
         },
         {
             "languageName": "C#",
@@ -77,11 +82,6 @@
             "value": 426
         },
         {
-            "languageName": "TypeScript",
-            "color": "#3178c6",
-            "value": 335335
-        },
-        {
             "languageName": "Python",
             "color": "#3572A5",
             "value": 18186
@@ -98,17 +98,17 @@
         }
     ],
     "forkCount": 0,
-    "starCount": 33,
-    "totalContributions": 1104,
+    "starCount": 35,
+    "totalContributions": 1127,
     "contributionsCollection": {
-        "totalCommitContributions": 1070,
+        "totalCommitContributions": 1091,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 1,
-        "totalRepositoryContributions": 30,
+        "totalRepositoryContributions": 32,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 1104,
+            "totalContributions": 1127,
             "weeks": [
                 {
                     "contributionDays": [
@@ -7989,8 +7989,12 @@
                             "date": "2025-11-13"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 17,
                             "date": "2025-11-14"
+                        },
+                        {
+                            "contributionCount": 6,
+                            "date": "2025-11-15"
                         }
                     ]
                 }
@@ -7999,5 +8003,5 @@
     },
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1763120443237
+    "fetchedAt": 1763206775753
 }
