@@ -9,27 +9,27 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 248,
-  "linesOfCodeChanged": 3974050,
-  "linesAdded": 2403259,
-  "linesDeleted": 1570791,
-  "commitCount": 1174,
-  "totalCommits": 1479,
-  "totalPullRequests": 0,
+  "repoViews": 394,
+  "linesOfCodeChanged": 4001123,
+  "linesAdded": 2429848,
+  "linesDeleted": 1571275,
+  "commitCount": 1208,
+  "totalCommits": 1553,
+  "totalPullRequests": 23,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 37502956,
+  "codeByteTotal": 37560837,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 34066604,
-      "percentage": 90.84
+      "percentage": 90.7
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 1231387,
-      "percentage": 3.28
+      "value": 1289268,
+      "percentage": 3.43
     },
     {
       "languageName": "Jupyter Notebook",
@@ -148,14 +148,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 1312,
+  "totalContributions": 1409,
   "contributionStats": {
-    "longestStreak": 131,
-    "currentStreak": 131,
+    "longestStreak": 133,
+    "currentStreak": 133,
     "mostActiveDay": "Monday",
-    "averagePerDay": 0.75,
-    "averagePerWeek": 5.25,
-    "averagePerMonth": 22.52,
+    "averagePerDay": 0.81,
+    "averagePerWeek": 5.64,
+    "averagePerMonth": 24.17,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -387,7 +387,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 82
+        "contributions": 179
       }
     ]
   },
@@ -422,13 +422,13 @@
         "languageName": "C#",
         "color": "#178600",
         "value": 34037114,
-        "percentage": 90.83
+        "percentage": 90.69
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 1231387,
-        "percentage": 3.29
+        "value": 1289268,
+        "percentage": 3.44
       },
       {
         "languageName": "Jupyter Notebook",
@@ -574,23 +574,23 @@
       "pentesting",
       "profile-readme"
     ],
-    "contributionsThisYear": 1001,
+    "contributionsThisYear": 1098,
     "contributionsLastYear": 189,
-    "yearOverYearGrowth": 429.63,
+    "yearOverYearGrowth": 480.95,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1276,
+    "totalCommitContributions": 1350,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 32,
-    "totalPullRequestContributions": 0,
+    "totalPullRequestContributions": 23,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1312,
+      "totalContributions": 1409,
       "weeks": [
         {
           "contributionDays": [
@@ -8591,8 +8591,12 @@
               "date": "2025-12-09"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 56,
               "date": "2025-12-10"
+            },
+            {
+              "contributionCount": 41,
+              "date": "2025-12-11"
             }
           ]
         }
@@ -8677,7 +8681,7 @@
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2025-12-08T06:08:58Z",
+      "updatedAt": "2025-12-11T07:41:37Z",
       "createdAt": "2025-11-16T21:46:30Z"
     },
     {
@@ -8763,5 +8767,5 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1765366973628
+  "fetchedAt": 1765453425039
 }
