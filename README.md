@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1290 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.29 % 
-🌆 Daytime                1004 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.68 % 
-🌃 Evening                2333 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.46 % 
-🌙 Night                  3291 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.56 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       10 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.30 % 
-TypeScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 % 
-```
-
-
-
-
- Last Updated on 15/12/2025 13:14:08 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="E-commerce_shop" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
