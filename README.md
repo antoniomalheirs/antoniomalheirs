@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1306 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.46 % 
-🌆 Daytime                1004 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.65 % 
-🌃 Evening                2333 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.41 % 
-🌙 Night                  3291 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.48 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       10 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.30 % 
-TypeScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 % 
-Batchfile                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 % 
-```
-
-
-
-
- Last Updated on 17/12/2025 13:27:02 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Clippy_Revenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clippy_Revenge&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clippy_Revenge" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Brute_Force_Methods"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Brute_Force_Methods&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Brute_Force_Methods" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
