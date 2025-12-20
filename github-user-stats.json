@@ -9,81 +9,81 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 662,
-  "linesOfCodeChanged": 4005622,
-  "linesAdded": 2432711,
-  "linesDeleted": 1572911,
-  "commitCount": 1268,
-  "totalCommits": 1642,
+  "repoViews": 679,
+  "linesOfCodeChanged": 4259436,
+  "linesAdded": 2684140,
+  "linesDeleted": 1575296,
+  "commitCount": 1282,
+  "totalCommits": 1657,
   "totalPullRequests": 44,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 37569187,
+  "codeByteTotal": 45720241,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 34066604,
-      "percentage": 90.68
+      "percentage": 74.51
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 1294348,
-      "percentage": 3.45
+      "value": 9320105,
+      "percentage": 20.39
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1181762,
-      "percentage": 3.15
+      "percentage": 2.58
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 251111,
-      "percentage": 0.67
-    },
-    {
-      "languageName": "Java",
-      "color": "#b07219",
-      "value": 158748,
-      "percentage": 0.42
+      "value": 345327,
+      "percentage": 0.76
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 156954,
-      "percentage": 0.42
+      "value": 186737,
+      "percentage": 0.41
+    },
+    {
+      "languageName": "Java",
+      "color": "#b07219",
+      "value": 160046,
+      "percentage": 0.35
     },
     {
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 139455,
-      "percentage": 0.37
+      "percentage": 0.31
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 128593,
-      "percentage": 0.34
+      "percentage": 0.28
     },
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 53679,
-      "percentage": 0.14
+      "percentage": 0.12
     },
     {
       "languageName": "Objective-C",
       "color": "#438eff",
       "value": 46343,
-      "percentage": 0.12
+      "percentage": 0.1
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 18186,
-      "percentage": 0.05
+      "percentage": 0.04
     },
     {
       "languageName": "ShaderLab",
@@ -95,7 +95,7 @@
       "languageName": "Shell",
       "color": "#89e051",
       "value": 13788,
-      "percentage": 0.04
+      "percentage": 0.03
     },
     {
       "languageName": "Objective-C++",
@@ -141,21 +141,21 @@
     }
   ],
   "forkCount": 0,
-  "starCount": 35,
-  "starsGiven": 3,
+  "starCount": 36,
+  "starsGiven": 4,
   "followers": 8,
   "following": 8,
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 1519,
+  "totalContributions": 1536,
   "contributionStats": {
-    "longestStreak": 140,
-    "currentStreak": 140,
+    "longestStreak": 142,
+    "currentStreak": 142,
     "mostActiveDay": "Friday",
-    "averagePerDay": 0.86,
-    "averagePerWeek": 6.05,
-    "averagePerMonth": 25.94,
+    "averagePerDay": 0.87,
+    "averagePerWeek": 6.12,
+    "averagePerMonth": 26.21,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -387,33 +387,33 @@
       },
       {
         "month": "2025-12",
-        "contributions": 289
+        "contributions": 306
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 32,
-    "publicRepos": 26,
-    "privateRepos": 6,
+    "totalRepos": 34,
+    "publicRepos": 27,
+    "privateRepos": 7,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 32,
-    "activeRepos": 31,
-    "reposWithStars": 27,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 1.09
+    "originalRepos": 34,
+    "activeRepos": 33,
+    "reposWithStars": 28,
+    "reposCreatedThisYear": 10,
+    "averageStarsPerRepo": 1.06
   },
   "computedStats": {
-    "totalRepos": 32,
-    "publicRepos": 26,
-    "privateRepos": 6,
+    "totalRepos": 34,
+    "publicRepos": 27,
+    "privateRepos": 7,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 32,
-    "activeRepos": 31,
-    "reposWithStars": 27,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 1.09,
+    "originalRepos": 34,
+    "activeRepos": 33,
+    "reposWithStars": 28,
+    "reposCreatedThisYear": 10,
+    "averageStarsPerRepo": 1.06,
     "languageCount": 20,
     "primaryLanguage": "C#",
     "primaryLanguageThisYear": "C#",
@@ -422,61 +422,61 @@
         "languageName": "C#",
         "color": "#178600",
         "value": 34037114,
-        "percentage": 90.67
+        "percentage": 74.49
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 1294348,
-        "percentage": 3.45
+        "value": 9320105,
+        "percentage": 20.4
       },
       {
         "languageName": "Jupyter Notebook",
         "color": "#DA5B0B",
         "value": 1181762,
-        "percentage": 3.15
+        "percentage": 2.59
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 251111,
-        "percentage": 0.67
-      },
-      {
-        "languageName": "Java",
-        "color": "#b07219",
-        "value": 158748,
-        "percentage": 0.42
+        "value": 345327,
+        "percentage": 0.76
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 156954,
-        "percentage": 0.42
+        "value": 186737,
+        "percentage": 0.41
+      },
+      {
+        "languageName": "Java",
+        "color": "#b07219",
+        "value": 160046,
+        "percentage": 0.35
       },
       {
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 139455,
-        "percentage": 0.37
+        "percentage": 0.31
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 128593,
-        "percentage": 0.34
+        "percentage": 0.28
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 53679,
-        "percentage": 0.14
+        "percentage": 0.12
       },
       {
         "languageName": "Objective-C",
         "color": "#438eff",
         "value": 46343,
-        "percentage": 0.12
+        "percentage": 0.1
       }
     ],
     "totalTopics": 18,
@@ -574,23 +574,23 @@
       "pentesting",
       "profile-readme"
     ],
-    "contributionsThisYear": 1208,
+    "contributionsThisYear": 1225,
     "contributionsLastYear": 189,
-    "yearOverYearGrowth": 539.15,
+    "yearOverYearGrowth": 548.15,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1439,
+    "totalCommitContributions": 1454,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
-    "totalRepositoryContributions": 32,
+    "totalRepositoryContributions": 34,
     "totalPullRequestContributions": 44,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1519,
+      "totalContributions": 1536,
       "weeks": [
         {
           "contributionDays": [
@@ -8631,8 +8631,12 @@
               "date": "2025-12-18"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2025-12-19"
+            },
+            {
+              "contributionCount": 13,
+              "date": "2025-12-20"
             }
           ]
         }
@@ -8706,6 +8710,19 @@
       ],
       "updatedAt": "2025-11-19T03:39:10Z",
       "createdAt": "2024-01-11T06:42:21Z"
+    },
+    {
+      "name": "Alphafitv2",
+      "description": null,
+      "stars": 1,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2025-12-20T04:42:08Z",
+      "createdAt": "2025-12-20T03:58:41Z"
     },
     {
       "name": "alphit____",
@@ -8783,25 +8800,9 @@
       ],
       "updatedAt": "2025-08-22T17:14:06Z",
       "createdAt": "2025-07-22T05:28:40Z"
-    },
-    {
-      "name": "Lies_Of_P_Trainer",
-      "description": "A basic external Cheat Trainer for Lies of P with a command-line interface (CMD version). Developed for educational purposes, it allows basic memory manipulation features like health editing, stamina locking, and more—ideal for reverse engineering practice and game hacking fundamentals.",
-      "stars": 1,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "C#",
-      "topics": [
-        "game-hacking",
-        "learning"
-      ],
-      "updatedAt": "2025-08-22T17:14:03Z",
-      "createdAt": "2024-03-26T06:22:42Z"
     }
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1766144556470
+  "fetchedAt": 1766230785271
 }
