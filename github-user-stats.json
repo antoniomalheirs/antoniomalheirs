@@ -9,45 +9,45 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 675,
-  "linesOfCodeChanged": 4281616,
-  "linesAdded": 2701031,
-  "linesDeleted": 1580585,
-  "commitCount": 1313,
-  "totalCommits": 1688,
+  "repoViews": 682,
+  "linesOfCodeChanged": 4316329,
+  "linesAdded": 2704298,
+  "linesDeleted": 1612031,
+  "commitCount": 1321,
+  "totalCommits": 1696,
   "totalPullRequests": 44,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 46259169,
+  "codeByteTotal": 45127688,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 34066604,
-      "percentage": 73.64
+      "percentage": 75.49
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 9847335,
-      "percentage": 21.29
+      "value": 8714466,
+      "percentage": 19.31
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1181762,
-      "percentage": 2.55
+      "percentage": 2.62
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 342269,
-      "percentage": 0.74
+      "percentage": 0.76
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 201493,
-      "percentage": 0.44
+      "value": 202881,
+      "percentage": 0.45
     },
     {
       "languageName": "Java",
@@ -59,7 +59,7 @@
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 139455,
-      "percentage": 0.3
+      "percentage": 0.31
     },
     {
       "languageName": "HTML",
@@ -148,14 +148,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 1567,
+  "totalContributions": 1575,
   "contributionStats": {
-    "longestStreak": 143,
-    "currentStreak": 143,
+    "longestStreak": 144,
+    "currentStreak": 144,
     "mostActiveDay": "Friday",
     "averagePerDay": 0.89,
-    "averagePerWeek": 6.24,
-    "averagePerMonth": 26.73,
+    "averagePerWeek": 6.26,
+    "averagePerMonth": 26.85,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -387,7 +387,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 337
+        "contributions": 345
       }
     ]
   },
@@ -422,31 +422,31 @@
         "languageName": "C#",
         "color": "#178600",
         "value": 34037114,
-        "percentage": 73.63
+        "percentage": 75.47
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 9847335,
-        "percentage": 21.3
+        "value": 8714466,
+        "percentage": 19.32
       },
       {
         "languageName": "Jupyter Notebook",
         "color": "#DA5B0B",
         "value": 1181762,
-        "percentage": 2.56
+        "percentage": 2.62
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 342269,
-        "percentage": 0.74
+        "percentage": 0.76
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 201493,
-        "percentage": 0.44
+        "value": 202881,
+        "percentage": 0.45
       },
       {
         "languageName": "Java",
@@ -458,13 +458,13 @@
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 139455,
-        "percentage": 0.3
+        "percentage": 0.31
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 128593,
-        "percentage": 0.28
+        "percentage": 0.29
       },
       {
         "languageName": "C++",
@@ -574,23 +574,23 @@
       "pentesting",
       "profile-readme"
     ],
-    "contributionsThisYear": 1256,
+    "contributionsThisYear": 1264,
     "contributionsLastYear": 189,
-    "yearOverYearGrowth": 564.55,
+    "yearOverYearGrowth": 568.78,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1485,
+    "totalCommitContributions": 1493,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 34,
     "totalPullRequestContributions": 44,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1567,
+      "totalContributions": 1575,
       "weeks": [
         {
           "contributionDays": [
@@ -8643,8 +8643,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 10,
+              "contributionCount": 14,
               "date": "2025-12-21"
+            },
+            {
+              "contributionCount": 4,
+              "date": "2025-12-22"
             }
           ]
         }
@@ -8812,5 +8816,5 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1766317234093
+  "fetchedAt": 1766403743442
 }
