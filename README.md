@@ -146,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Alphafitv2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Alphafitv2&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Alphafitv2" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
