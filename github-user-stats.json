@@ -9,45 +9,51 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 283,
-  "linesOfCodeChanged": 4516573,
-  "linesAdded": 2859650,
-  "linesDeleted": 1656923,
-  "commitCount": 1583,
-  "totalCommits": 1959,
+  "repoViews": 296,
+  "linesOfCodeChanged": 4418851,
+  "linesAdded": 2802494,
+  "linesDeleted": 1616357,
+  "commitCount": 548,
+  "totalCommits": 1967,
   "totalPullRequests": 44,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 47880373,
+  "codeByteTotal": 48377744,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 34066604,
-      "percentage": 71.15
+      "percentage": 70.42
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 11449812,
-      "percentage": 23.91
+      "value": 11536351,
+      "percentage": 23.85
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1181762,
-      "percentage": 2.47
+      "percentage": 2.44
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 354813,
-      "percentage": 0.74
+      "value": 661251,
+      "percentage": 1.37
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 203858,
-      "percentage": 0.43
+      "value": 253857,
+      "percentage": 0.52
+    },
+    {
+      "languageName": "EJS",
+      "color": "#a91e50",
+      "value": 194250,
+      "percentage": 0.4
     },
     {
       "languageName": "Java",
@@ -56,16 +62,10 @@
       "percentage": 0.33
     },
     {
-      "languageName": "EJS",
-      "color": "#a91e50",
-      "value": 139455,
-      "percentage": 0.29
-    },
-    {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 132238,
-      "percentage": 0.28
+      "percentage": 0.27
     },
     {
       "languageName": "C++",
@@ -130,7 +130,7 @@
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 1871,
+      "value": 1471,
       "percentage": 0
     },
     {
@@ -148,14 +148,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 1845,
+  "totalContributions": 1853,
   "contributionStats": {
-    "longestStreak": 182,
-    "currentStreak": 182,
+    "longestStreak": 183,
+    "currentStreak": 183,
     "mostActiveDay": "Friday",
     "averagePerDay": 1.03,
-    "averagePerWeek": 7.18,
-    "averagePerMonth": 30.77,
+    "averagePerWeek": 7.21,
+    "averagePerMonth": 30.88,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -391,7 +391,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 167
+        "contributions": 175
       }
     ]
   },
@@ -402,7 +402,7 @@
     "archivedRepos": 1,
     "forkedRepos": 0,
     "originalRepos": 35,
-    "activeRepos": 5,
+    "activeRepos": 8,
     "reposWithStars": 28,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 1.06
@@ -414,7 +414,7 @@
     "archivedRepos": 1,
     "forkedRepos": 0,
     "originalRepos": 35,
-    "activeRepos": 5,
+    "activeRepos": 8,
     "reposWithStars": 28,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 1.06,
@@ -425,26 +425,32 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 10490799,
-        "percentage": 98.35
+        "value": 10577338,
+        "percentage": 90.95
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 103801,
-        "percentage": 0.97
+        "value": 595831,
+        "percentage": 5.12
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 47010,
-        "percentage": 0.44
+        "value": 236611,
+        "percentage": 2.03
+      },
+      {
+        "languageName": "EJS",
+        "color": "#a91e50",
+        "value": 194250,
+        "percentage": 1.67
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 13453,
-        "percentage": 0.13
+        "percentage": 0.12
       },
       {
         "languageName": "Shell",
@@ -456,7 +462,7 @@
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 3793,
-        "percentage": 0.04
+        "percentage": 0.03
       },
       {
         "languageName": "Dockerfile",
@@ -560,23 +566,23 @@
       "pentesting",
       "profile-readme"
     ],
-    "contributionsThisYear": 167,
+    "contributionsThisYear": 175,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": -87.78,
+    "yearOverYearGrowth": -87.2,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1762,
+    "totalCommitContributions": 1770,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 35,
     "totalPullRequestContributions": 44,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1845,
+      "totalContributions": 1853,
       "weeks": [
         {
           "contributionDays": [
@@ -8813,8 +8819,12 @@
               "date": "2026-01-28"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 8,
               "date": "2026-01-29"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-30"
             }
           ]
         }
@@ -8881,12 +8891,12 @@
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
-      "primaryLanguage": "CSS",
+      "primaryLanguage": "EJS",
       "topics": [
         "discord",
         "discord-bot"
       ],
-      "updatedAt": "2025-11-19T03:39:10Z",
+      "updatedAt": "2026-01-30T01:12:50Z",
       "createdAt": "2024-01-11T06:42:21Z"
     },
     {
@@ -8942,7 +8952,7 @@
         "music-bot",
         "discord"
       ],
-      "updatedAt": "2025-08-27T08:39:22Z",
+      "updatedAt": "2026-01-30T00:41:13Z",
       "createdAt": "2025-08-20T04:22:09Z"
     },
     {
@@ -8982,5 +8992,5 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1769687706599
+  "fetchedAt": 1769773933322
 }
