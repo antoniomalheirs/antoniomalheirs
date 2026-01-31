@@ -9,39 +9,39 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 296,
-  "linesOfCodeChanged": 4418851,
-  "linesAdded": 2802494,
-  "linesDeleted": 1616357,
-  "commitCount": 548,
-  "totalCommits": 1967,
+  "repoViews": 301,
+  "linesOfCodeChanged": 4444009,
+  "linesAdded": 2817168,
+  "linesDeleted": 1626841,
+  "commitCount": 549,
+  "totalCommits": 1973,
   "totalPullRequests": 44,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 48377744,
+  "codeByteTotal": 48555975,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
-      "value": 34066604,
-      "percentage": 70.42
+      "value": 34244835,
+      "percentage": 70.53
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 11536351,
-      "percentage": 23.85
+      "percentage": 23.76
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1181762,
-      "percentage": 2.44
+      "percentage": 2.43
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 661251,
-      "percentage": 1.37
+      "percentage": 1.36
     },
     {
       "languageName": "CSS",
@@ -148,14 +148,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 1853,
+  "totalContributions": 1859,
   "contributionStats": {
-    "longestStreak": 183,
-    "currentStreak": 183,
+    "longestStreak": 185,
+    "currentStreak": 185,
     "mostActiveDay": "Friday",
     "averagePerDay": 1.03,
-    "averagePerWeek": 7.21,
-    "averagePerMonth": 30.88,
+    "averagePerWeek": 7.23,
+    "averagePerMonth": 30.97,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -391,7 +391,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 175
+        "contributions": 181
       }
     ]
   },
@@ -402,7 +402,7 @@
     "archivedRepos": 1,
     "forkedRepos": 0,
     "originalRepos": 35,
-    "activeRepos": 8,
+    "activeRepos": 9,
     "reposWithStars": 28,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 1.06
@@ -414,7 +414,7 @@
     "archivedRepos": 1,
     "forkedRepos": 0,
     "originalRepos": 35,
-    "activeRepos": 8,
+    "activeRepos": 9,
     "reposWithStars": 28,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 1.06,
@@ -426,31 +426,37 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 10577338,
-        "percentage": 90.95
+        "percentage": 89.05
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 595831,
-        "percentage": 5.12
+        "percentage": 5.02
+      },
+      {
+        "languageName": "C#",
+        "color": "#178600",
+        "value": 248456,
+        "percentage": 2.09
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 236611,
-        "percentage": 2.03
+        "percentage": 1.99
       },
       {
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 194250,
-        "percentage": 1.67
+        "percentage": 1.64
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 13453,
-        "percentage": 0.12
+        "percentage": 0.11
       },
       {
         "languageName": "Shell",
@@ -566,23 +572,23 @@
       "pentesting",
       "profile-readme"
     ],
-    "contributionsThisYear": 175,
+    "contributionsThisYear": 181,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": -87.2,
+    "yearOverYearGrowth": -86.76,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1770,
+    "totalCommitContributions": 1776,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 35,
     "totalPullRequestContributions": 44,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1853,
+      "totalContributions": 1859,
       "weeks": [
         {
           "contributionDays": [
@@ -8823,8 +8829,12 @@
               "date": "2026-01-29"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2026-01-30"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-31"
             }
           ]
         }
@@ -8992,5 +9002,5 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1769773933322
+  "fetchedAt": 1769859923510
 }
