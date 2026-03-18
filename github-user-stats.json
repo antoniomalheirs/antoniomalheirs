@@ -9,39 +9,39 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 402,
-  "linesOfCodeChanged": 5025207,
-  "linesAdded": 3210288,
-  "linesDeleted": 1814919,
-  "commitCount": 1905,
-  "totalCommits": 2314,
+  "repoViews": 397,
+  "linesOfCodeChanged": 5039301,
+  "linesAdded": 3224313,
+  "linesDeleted": 1814988,
+  "commitCount": 1911,
+  "totalCommits": 2320,
   "totalPullRequests": 64,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 51210973,
+  "codeByteTotal": 51361655,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 35561694,
-      "percentage": 69.44
+      "percentage": 69.24
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 12296375,
-      "percentage": 24.01
+      "percentage": 23.94
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1181762,
-      "percentage": 2.31
+      "percentage": 2.3
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 684893,
-      "percentage": 1.34
+      "value": 685523,
+      "percentage": 1.33
     },
     {
       "languageName": "C++",
@@ -52,8 +52,8 @@
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 294108,
-      "percentage": 0.57
+      "value": 301758,
+      "percentage": 0.59
     },
     {
       "languageName": "EJS",
@@ -66,6 +66,12 @@
       "color": "#b07219",
       "value": 186329,
       "percentage": 0.36
+    },
+    {
+      "languageName": "Astro",
+      "color": "#ff5a03",
+      "value": 142402,
+      "percentage": 0.28
     },
     {
       "languageName": "HTML",
@@ -166,14 +172,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 2227,
+  "totalContributions": 2235,
   "contributionStats": {
     "longestStreak": 230,
     "currentStreak": 230,
     "mostActiveDay": "Friday",
     "averagePerDay": 1.21,
-    "averagePerWeek": 8.44,
-    "averagePerMonth": 36.19,
+    "averagePerWeek": 8.47,
+    "averagePerMonth": 36.3,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -417,34 +423,34 @@
       },
       {
         "month": "2026-03",
-        "contributions": 202
+        "contributions": 210
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 43,
+    "totalRepos": 45,
     "publicRepos": 33,
-    "privateRepos": 10,
+    "privateRepos": 12,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 43,
-    "activeRepos": 21,
+    "originalRepos": 45,
+    "activeRepos": 23,
     "reposWithStars": 28,
-    "reposCreatedThisYear": 10,
-    "averageStarsPerRepo": 0.88
+    "reposCreatedThisYear": 12,
+    "averageStarsPerRepo": 0.84
   },
   "computedStats": {
-    "totalRepos": 43,
+    "totalRepos": 45,
     "publicRepos": 33,
-    "privateRepos": 10,
+    "privateRepos": 12,
     "archivedRepos": 1,
     "forkedRepos": 0,
-    "originalRepos": 43,
-    "activeRepos": 21,
+    "originalRepos": 45,
+    "activeRepos": 23,
     "reposWithStars": 28,
-    "reposCreatedThisYear": 10,
-    "averageStarsPerRepo": 0.88,
-    "languageCount": 23,
+    "reposCreatedThisYear": 12,
+    "averageStarsPerRepo": 0.84,
+    "languageCount": 24,
     "primaryLanguage": "C#",
     "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
@@ -452,43 +458,49 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 11337362,
-        "percentage": 76.62
+        "percentage": 75.85
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 1648645,
-        "percentage": 11.14
+        "percentage": 11.03
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 619473,
-        "percentage": 4.19
+        "value": 620103,
+        "percentage": 4.15
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 436652,
-        "percentage": 2.95
+        "percentage": 2.92
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 276862,
-        "percentage": 1.87
+        "value": 284512,
+        "percentage": 1.9
       },
       {
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 194250,
-        "percentage": 1.31
+        "percentage": 1.3
+      },
+      {
+        "languageName": "Astro",
+        "color": "#ff5a03",
+        "value": 142402,
+        "percentage": 0.95
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 138036,
-        "percentage": 0.93
+        "percentage": 0.92
       },
       {
         "languageName": "Java",
@@ -500,13 +512,7 @@
         "languageName": "C",
         "color": "#555555",
         "value": 27652,
-        "percentage": 0.19
-      },
-      {
-        "languageName": "Python",
-        "color": "#3572A5",
-        "value": 19473,
-        "percentage": 0.13
+        "percentage": 0.18
       }
     ],
     "totalTopics": 31,
@@ -625,23 +631,23 @@
       "webapp",
       "whatsapp-bot-baileys-nodejs"
     ],
-    "contributionsThisYear": 553,
+    "contributionsThisYear": 561,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": -59.55,
+    "yearOverYearGrowth": -58.96,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 2116,
+    "totalCommitContributions": 2122,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
-    "totalRepositoryContributions": 43,
+    "totalRepositoryContributions": 45,
     "totalPullRequestContributions": 64,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 2227,
+      "totalContributions": 2235,
       "weeks": [
         {
           "contributionDays": [
@@ -9094,8 +9100,12 @@
               "date": "2026-03-16"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 9,
               "date": "2026-03-17"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-03-18"
             }
           ]
         }
@@ -9263,5 +9273,5 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1773749065978
+  "fetchedAt": 1773835539388
 }
