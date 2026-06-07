@@ -46,34 +46,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%202%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2621 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.85 % 
-🌆 Daytime                1126 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.11 % 
-🌃 Evening                2519 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.84 % 
-🌙 Night                  3873 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.20 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-C#                       12 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
-TypeScript               10 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.83 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-Astro                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.17 % 
-```
-
-
-
-
- Last Updated on 06/06/2026 14:18:16 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -174,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-<a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400"/></a>
 <br><br>
-<a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400"/></a>
-<a href="https://github.com/antoniomalheirs/Osint_Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Osint_Tool&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Osint_Tool" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400"/></a>
+<a href="https://github.com/antoniomalheirs/Forensic_Redact_Breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Redact_Breaker&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Redact_Breaker" width="400"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=footer"/>
