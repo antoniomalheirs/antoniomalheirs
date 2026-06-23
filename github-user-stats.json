@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 814,
-  "linesOfCodeChanged": 161183,
-  "linesAdded": 103978,
-  "linesDeleted": 57205,
-  "commitCount": 1604,
-  "totalCommits": 2494,
+  "repoViews": 798,
+  "linesOfCodeChanged": 161487,
+  "linesAdded": 104122,
+  "linesDeleted": 57365,
+  "commitCount": 1608,
+  "totalCommits": 2498,
   "totalPullRequests": 74,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 37080198,
@@ -153,21 +153,21 @@
     }
   ],
   "forkCount": 0,
-  "starCount": 49,
+  "starCount": 51,
   "starsGiven": 4,
   "followers": 8,
   "following": 8,
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 2619,
+  "totalContributions": 2623,
   "contributionStats": {
-    "longestStreak": 326,
-    "currentStreak": 326,
+    "longestStreak": 327,
+    "currentStreak": 327,
     "mostActiveDay": "Friday",
     "averagePerDay": 1.35,
     "averagePerWeek": 9.44,
-    "averagePerMonth": 40.44,
+    "averagePerMonth": 40.48,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -423,7 +423,7 @@
       },
       {
         "month": "2026-06",
-        "contributions": 67
+        "contributions": 71
       }
     ],
     "yearlyBreakdown": [
@@ -449,7 +449,7 @@
       },
       {
         "year": "2026",
-        "contributions": 945
+        "contributions": 949
       }
     ],
     "peakDay": {
@@ -467,7 +467,7 @@
     "activeRepos": 24,
     "reposWithStars": 29,
     "reposCreatedThisYear": 14,
-    "averageStarsPerRepo": 1.08
+    "averageStarsPerRepo": 1.13
   },
   "computedStats": {
     "totalRepos": 48,
@@ -479,7 +479,7 @@
     "activeRepos": 24,
     "reposWithStars": 29,
     "reposCreatedThisYear": 14,
-    "averageStarsPerRepo": 1.08,
+    "averageStarsPerRepo": 1.13,
     "languageCount": 22,
     "primaryLanguage": "C#",
     "primaryLanguageThisYear": "JavaScript",
@@ -655,23 +655,23 @@
       "security-audit",
       "webapp"
     ],
-    "contributionsThisYear": 945,
+    "contributionsThisYear": 949,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": -30.87,
+    "yearOverYearGrowth": -30.58,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 2494,
+    "totalCommitContributions": 2498,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 47,
     "totalPullRequestContributions": 74,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 2619,
+      "totalContributions": 2623,
       "weeks": [
         {
           "contributionDays": [
@@ -9568,8 +9568,12 @@
               "date": "2026-06-21"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2026-06-22"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-06-23"
             }
           ]
         }
@@ -9631,6 +9635,24 @@
       "createdAt": "2024-01-11T06:42:21Z"
     },
     {
+      "name": "Forensic_Brute_Force",
+      "nameWithOwner": "antoniomalheirs/Forensic_Brute_Force",
+      "description": "High-performance cryptographic auditing and forensic framework built in C++17. Features native GPU acceleration (CUDA/OpenCL) for analyzing 16+ hash algorithms and security protocols.",
+      "stars": 2,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "C++",
+      "topics": [
+        "cybersecurity",
+        "password-decryption",
+        "learning-hacking"
+      ],
+      "updatedAt": "2026-06-23T05:49:29Z",
+      "createdAt": "2023-08-29T05:45:26Z"
+    },
+    {
       "name": "SystemPersist_UIPlugin",
       "nameWithOwner": "antoniomalheirs/SystemPersist_UIPlugin",
       "description": "A KernelSU / KernelSU Next and Magisk-compatible module designed for HyperOS. It replaces the system’s Notification Panel, Quick Settings, and persist configurations with modified versions to enable advanced customization and behavior enhancements. Ideal for users seeking deeper UI modifications without altering the system partition.",
@@ -9647,6 +9669,24 @@
       ],
       "updatedAt": "2025-08-22T17:14:08Z",
       "createdAt": "2024-10-26T04:47:22Z"
+    },
+    {
+      "name": "Windows10-11-Reverse_Shell",
+      "nameWithOwner": "antoniomalheirs/Windows10-11-Reverse_Shell",
+      "description": "This repository contains a set of penetration testing scripts designed strictly for educational and research purposes. It includes batch-based automation for file system manipulation (folder deletion), process termination, and the creation of reverse shells on Windows environments",
+      "stars": 2,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Batchfile",
+      "topics": [
+        "cybersecurity",
+        "learning-hacking",
+        "pentesting"
+      ],
+      "updatedAt": "2026-06-23T05:49:24Z",
+      "createdAt": "2025-07-22T05:28:40Z"
     },
     {
       "name": "AndroidAuto_Systemizer",
@@ -9680,7 +9720,7 @@
         "customization",
         "profile-readme"
       ],
-      "updatedAt": "2026-06-21T14:43:43Z",
+      "updatedAt": "2026-06-22T17:22:23Z",
       "createdAt": "2023-07-22T07:31:09Z"
     },
     {
@@ -9713,44 +9753,13 @@
       ],
       "updatedAt": "2025-08-22T17:14:04Z",
       "createdAt": "2023-07-13T04:52:54Z"
-    },
-    {
-      "name": "Assault_Cube_Trainer_with_Esp",
-      "nameWithOwner": "antoniomalheirs/Assault_Cube_Trainer_with_Esp",
-      "description": "Basic Cheat Trainer for AssaultCube – A Windows Forms-based trainer featuring One Hit Kill, Freeze Enemies, ESP (Wallhack), and more. Designed for local gameplay and educational purposes, it allows memory manipulation to explore game hacking concepts with a simple and intuitive GUI.",
-      "stars": 1,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "C#",
-      "topics": [
-        "game-hacking",
-        "learning"
-      ],
-      "updatedAt": "2025-08-22T17:14:05Z",
-      "createdAt": "2023-07-18T02:02:52Z"
-    },
-    {
-      "name": "Clipping_algorithm",
-      "nameWithOwner": "antoniomalheirs/Clipping_algorithm",
-      "description": null,
-      "stars": 1,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "C#",
-      "topics": [],
-      "updatedAt": "2025-08-22T17:14:14Z",
-      "createdAt": "2023-08-04T06:00:39Z"
     }
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1782144753052,
+  "fetchedAt": 1782223225696,
   "schemaVersion": 2,
-  "generatedAt": "2026-06-22T16:12:33.052Z",
+  "generatedAt": "2026-06-23T14:00:25.696Z",
   "profile": {
     "name": "Antônio Malheiros",
     "login": "antoniomalheirs",
@@ -9766,15 +9775,15 @@
     "following": 8
   },
   "profileContributions": {
-    "totalContributions": 2619,
-    "totalCommitContributions": 2494,
+    "totalContributions": 2623,
+    "totalCommitContributions": 2498,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 47,
     "totalPullRequestContributions": 74,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 2619,
+      "totalContributions": 2623,
       "weeks": [
         {
           "contributionDays": [
@@ -18671,20 +18680,24 @@
               "date": "2026-06-21"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2026-06-22"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-06-23"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 326,
-      "currentStreak": 326,
+      "longestStreak": 327,
+      "currentStreak": 327,
       "mostActiveDay": "Friday",
       "averagePerDay": 1.35,
       "averagePerWeek": 9.44,
-      "averagePerMonth": 40.44,
+      "averagePerMonth": 40.48,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -18940,7 +18953,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 67
+          "contributions": 71
         }
       ],
       "yearlyBreakdown": [
@@ -18966,7 +18979,7 @@
         },
         {
           "year": "2026",
-          "contributions": 945
+          "contributions": 949
         }
       ],
       "peakDay": {
@@ -18992,7 +19005,7 @@
         "nameWithOwner": "antoniomalheirs/antoniomalheirs",
         "owner": "antoniomalheirs",
         "counts": {
-          "commits": 1572,
+          "commits": 1576,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -19478,7 +19491,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOJ-ZpuA",
@@ -19494,9 +19507,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2023-07-22T07:31:09Z",
-      "updatedAt": "2026-06-21T14:43:43Z",
-      "pushedAt": "2026-06-21T14:43:39Z",
-      "defaultBranchOid": "7ef59321d6e2df9972df9dd962053627449bdf58",
+      "updatedAt": "2026-06-22T17:22:23Z",
+      "pushedAt": "2026-06-22T17:22:19Z",
+      "defaultBranchOid": "dbdd3a6bc2aee0bc38aeec2732c2c7ca77ee5c52",
       "stars": 1,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -19537,13 +19550,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1572,
+        "commits": 1576,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOKVzY6Q",
@@ -19587,7 +19600,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOJ6-mNg",
@@ -19634,7 +19647,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDOJ8t5fA",
@@ -19681,7 +19694,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDOND65Nw",
@@ -19735,7 +19748,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDOPt0v-g",
@@ -19791,7 +19804,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOKDQ6Ow",
@@ -19835,7 +19848,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOPZuplQ",
@@ -19883,7 +19896,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDOLDccIg",
@@ -19942,7 +19955,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOK_Ufjg",
@@ -19990,7 +20003,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOPg7HAA",
@@ -20038,7 +20051,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOLWqWhw",
@@ -20088,7 +20101,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144733290
+      "metadataFetchedAt": 1782223203412
     },
     {
       "id": "R_kgDORpzBKA",
@@ -20144,7 +20157,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOJ7xvEg",
@@ -20188,7 +20201,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOKMuhmg",
@@ -20204,10 +20217,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2023-08-29T05:45:26Z",
-      "updatedAt": "2026-03-14T00:39:54Z",
+      "updatedAt": "2026-06-23T05:49:29Z",
       "pushedAt": "2026-03-14T00:39:51Z",
       "defaultBranchOid": "c7bd579f560d9b6c4b009d2c5acce7e0642c4351",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "primaryLanguage": "C++",
       "topics": [
@@ -20248,7 +20261,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDORNSnqA",
@@ -20296,7 +20309,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDORNf4iw",
@@ -20356,7 +20369,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOJ7WO2w",
@@ -20403,7 +20416,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOKNmj_g",
@@ -20447,7 +20460,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOKzTGUg",
@@ -20491,7 +20504,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOLlka5Q",
@@ -20538,7 +20551,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDORPMM2g",
@@ -20598,7 +20611,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOKDOkjA",
@@ -20642,7 +20655,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDORQn0Jw",
@@ -20686,7 +20699,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDORghEow",
@@ -20754,7 +20767,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOSMvhbw",
@@ -20798,7 +20811,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDORhTR_A",
@@ -20842,7 +20855,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOKj58BQ",
@@ -20886,7 +20899,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOJ7aqhw",
@@ -20930,7 +20943,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDORlsAag",
@@ -20986,7 +20999,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDOKGaz1g",
@@ -21030,7 +21043,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOM_wOBg",
@@ -21084,7 +21097,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144738751
+      "metadataFetchedAt": 1782223209439
     },
     {
       "id": "R_kgDONGESeA",
@@ -21138,7 +21151,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     },
     {
       "id": "R_kgDOKVXCww",
@@ -21230,7 +21243,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144732272
+      "metadataFetchedAt": 1782223202338
     },
     {
       "id": "R_kgDOPQmnvQ",
@@ -21246,10 +21259,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-07-22T05:28:40Z",
-      "updatedAt": "2025-08-22T17:14:06Z",
+      "updatedAt": "2026-06-23T05:49:24Z",
       "pushedAt": "2025-08-06T19:40:01Z",
       "defaultBranchOid": "f69c8466df3b6c8c864b23776f9885102d146773",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "primaryLanguage": "Batchfile",
       "topics": [
@@ -21278,11 +21291,11 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782144736865
+      "metadataFetchedAt": 1782223207429
     }
   ],
   "repoMetrics": {
-    "starCount": 49,
+    "starCount": 51,
     "forkCount": 0,
     "codeByteTotal": 37080198,
     "topLanguages": [
@@ -21502,17 +21515,17 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 1604,
-      "linesAdded": 103978,
-      "linesDeleted": 57205,
-      "linesOfCodeChanged": 161183,
+      "totalCommits": 1608,
+      "linesAdded": 104122,
+      "linesDeleted": 57365,
+      "linesOfCodeChanged": 161487,
       "reposCompleted": 9,
       "reposPending": 0,
       "reposFailed": 27
     },
     "traffic": {
-      "repoViews": 814,
-      "repoViewUniques": 314,
+      "repoViews": 798,
+      "repoViewUniques": 306,
       "reposCompleted": 36,
       "reposPending": 0,
       "reposFailed": 0
@@ -21527,7 +21540,7 @@
       "activeRepos": 24,
       "reposWithStars": 29,
       "reposCreatedThisYear": 14,
-      "averageStarsPerRepo": 1.08
+      "averageStarsPerRepo": 1.13
     },
     "computedStats": {
       "totalRepos": 48,
@@ -21539,7 +21552,7 @@
       "activeRepos": 24,
       "reposWithStars": 29,
       "reposCreatedThisYear": 14,
-      "averageStarsPerRepo": 1.08,
+      "averageStarsPerRepo": 1.13,
       "languageCount": 22,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "JavaScript",
@@ -21715,9 +21728,9 @@
         "security-audit",
         "webapp"
       ],
-      "contributionsThisYear": 945,
+      "contributionsThisYear": 949,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": -30.87,
+      "yearOverYearGrowth": -30.58,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
@@ -21728,9 +21741,9 @@
     "readmeSummary": {
       "name": "Antônio Malheiros",
       "username": "antoniomalheirs",
-      "totalContributions": 2619,
-      "currentStreak": 326,
-      "longestStreak": 326,
+      "totalContributions": 2623,
+      "currentStreak": 327,
+      "longestStreak": 327,
       "topLanguages": [
         {
           "languageName": "C#",
@@ -21763,10 +21776,10 @@
           "percentage": 0.56
         }
       ],
-      "starsReceived": 49,
+      "starsReceived": 51,
       "forksReceived": 0,
       "activeRepos": 24,
-      "refreshedAt": "2026-06-22T16:12:33.052Z",
+      "refreshedAt": "2026-06-23T14:00:25.696Z",
       "complete": false
     },
     "cards": [
@@ -21778,7 +21791,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "326 days"
+        "value": "327 days"
       },
       {
         "id": "languages",
@@ -21794,7 +21807,7 @@
       {
         "id": "stars",
         "label": "Stars received",
-        "value": "49"
+        "value": "51"
       }
     ],
     "timeline": [
@@ -21820,7 +21833,7 @@
       },
       {
         "period": "2026",
-        "contributions": 945
+        "contributions": 949
       }
     ],
     "highlights": [
@@ -21855,7 +21868,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "2.6K",
-          "supportingText": "326 day longest streak"
+          "supportingText": "327 day longest streak"
         },
         {
           "id": "repositories",
@@ -21880,9 +21893,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1782144726993,
-    "finishedAt": 1782144753052,
-    "durationMs": 26059,
+    "startedAt": 1782223196900,
+    "finishedAt": 1782223225696,
+    "durationMs": 28796,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -21905,13 +21918,13 @@
         "limit": 5000,
         "remaining": 4978,
         "used": 22,
-        "resetAt": "2026-06-22T17:12:07Z"
+        "resetAt": "2026-06-23T14:59:57Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4966,
-        "used": 34,
-        "resetAt": "2026-06-22T17:12:31.000Z"
+        "remaining": 4964,
+        "used": 36,
+        "resetAt": "2026-06-23T15:00:23.000Z"
       }
     },
     "warnings": [
@@ -21931,12 +21944,12 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2021-03-02T01:17:21Z",
-    "repoViews": 814,
-    "linesOfCodeChanged": 161183,
-    "linesAdded": 103978,
-    "linesDeleted": 57205,
-    "commitCount": 1604,
-    "totalCommits": 2494,
+    "repoViews": 798,
+    "linesOfCodeChanged": 161487,
+    "linesAdded": 104122,
+    "linesDeleted": 57365,
+    "commitCount": 1608,
+    "totalCommits": 2498,
     "totalPullRequests": 74,
     "totalPullRequestReviews": 0,
     "codeByteTotal": 37080198,
@@ -22075,21 +22088,21 @@
       }
     ],
     "forkCount": 0,
-    "starCount": 49,
+    "starCount": 51,
     "starsGiven": 4,
     "followers": 8,
     "following": 8,
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 2,
-    "totalContributions": 2619,
+    "totalContributions": 2623,
     "contributionStats": {
-      "longestStreak": 326,
-      "currentStreak": 326,
+      "longestStreak": 327,
+      "currentStreak": 327,
       "mostActiveDay": "Friday",
       "averagePerDay": 1.35,
       "averagePerWeek": 9.44,
-      "averagePerMonth": 40.44,
+      "averagePerMonth": 40.48,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -22345,7 +22358,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 67
+          "contributions": 71
         }
       ],
       "yearlyBreakdown": [
@@ -22371,7 +22384,7 @@
         },
         {
           "year": "2026",
-          "contributions": 945
+          "contributions": 949
         }
       ],
       "peakDay": {
@@ -22389,7 +22402,7 @@
       "activeRepos": 24,
       "reposWithStars": 29,
       "reposCreatedThisYear": 14,
-      "averageStarsPerRepo": 1.08
+      "averageStarsPerRepo": 1.13
     },
     "computedStats": {
       "totalRepos": 48,
@@ -22401,7 +22414,7 @@
       "activeRepos": 24,
       "reposWithStars": 29,
       "reposCreatedThisYear": 14,
-      "averageStarsPerRepo": 1.08,
+      "averageStarsPerRepo": 1.13,
       "languageCount": 22,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "JavaScript",
@@ -22577,23 +22590,23 @@
         "security-audit",
         "webapp"
       ],
-      "contributionsThisYear": 945,
+      "contributionsThisYear": 949,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": -30.87,
+      "yearOverYearGrowth": -30.58,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 2494,
+      "totalCommitContributions": 2498,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 1,
       "totalRepositoryContributions": 47,
       "totalPullRequestContributions": 74,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 2619,
+        "totalContributions": 2623,
         "weeks": [
           {
             "contributionDays": [
@@ -31490,8 +31503,12 @@
                 "date": "2026-06-21"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 4,
                 "date": "2026-06-22"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-06-23"
               }
             ]
           }
@@ -31553,6 +31570,24 @@
         "createdAt": "2024-01-11T06:42:21Z"
       },
       {
+        "name": "Forensic_Brute_Force",
+        "nameWithOwner": "antoniomalheirs/Forensic_Brute_Force",
+        "description": "High-performance cryptographic auditing and forensic framework built in C++17. Features native GPU acceleration (CUDA/OpenCL) for analyzing 16+ hash algorithms and security protocols.",
+        "stars": 2,
+        "forks": 0,
+        "isArchived": false,
+        "isFork": false,
+        "isPrivate": false,
+        "primaryLanguage": "C++",
+        "topics": [
+          "cybersecurity",
+          "password-decryption",
+          "learning-hacking"
+        ],
+        "updatedAt": "2026-06-23T05:49:29Z",
+        "createdAt": "2023-08-29T05:45:26Z"
+      },
+      {
         "name": "SystemPersist_UIPlugin",
         "nameWithOwner": "antoniomalheirs/SystemPersist_UIPlugin",
         "description": "A KernelSU / KernelSU Next and Magisk-compatible module designed for HyperOS. It replaces the system’s Notification Panel, Quick Settings, and persist configurations with modified versions to enable advanced customization and behavior enhancements. Ideal for users seeking deeper UI modifications without altering the system partition.",
@@ -31569,6 +31604,24 @@
         ],
         "updatedAt": "2025-08-22T17:14:08Z",
         "createdAt": "2024-10-26T04:47:22Z"
+      },
+      {
+        "name": "Windows10-11-Reverse_Shell",
+        "nameWithOwner": "antoniomalheirs/Windows10-11-Reverse_Shell",
+        "description": "This repository contains a set of penetration testing scripts designed strictly for educational and research purposes. It includes batch-based automation for file system manipulation (folder deletion), process termination, and the creation of reverse shells on Windows environments",
+        "stars": 2,
+        "forks": 0,
+        "isArchived": false,
+        "isFork": false,
+        "isPrivate": false,
+        "primaryLanguage": "Batchfile",
+        "topics": [
+          "cybersecurity",
+          "learning-hacking",
+          "pentesting"
+        ],
+        "updatedAt": "2026-06-23T05:49:24Z",
+        "createdAt": "2025-07-22T05:28:40Z"
       },
       {
         "name": "AndroidAuto_Systemizer",
@@ -31602,7 +31655,7 @@
           "customization",
           "profile-readme"
         ],
-        "updatedAt": "2026-06-21T14:43:43Z",
+        "updatedAt": "2026-06-22T17:22:23Z",
         "createdAt": "2023-07-22T07:31:09Z"
       },
       {
@@ -31635,41 +31688,10 @@
         ],
         "updatedAt": "2025-08-22T17:14:04Z",
         "createdAt": "2023-07-13T04:52:54Z"
-      },
-      {
-        "name": "Assault_Cube_Trainer_with_Esp",
-        "nameWithOwner": "antoniomalheirs/Assault_Cube_Trainer_with_Esp",
-        "description": "Basic Cheat Trainer for AssaultCube – A Windows Forms-based trainer featuring One Hit Kill, Freeze Enemies, ESP (Wallhack), and more. Designed for local gameplay and educational purposes, it allows memory manipulation to explore game hacking concepts with a simple and intuitive GUI.",
-        "stars": 1,
-        "forks": 0,
-        "isArchived": false,
-        "isFork": false,
-        "isPrivate": false,
-        "primaryLanguage": "C#",
-        "topics": [
-          "game-hacking",
-          "learning"
-        ],
-        "updatedAt": "2025-08-22T17:14:05Z",
-        "createdAt": "2023-07-18T02:02:52Z"
-      },
-      {
-        "name": "Clipping_algorithm",
-        "nameWithOwner": "antoniomalheirs/Clipping_algorithm",
-        "description": null,
-        "stars": 1,
-        "forks": 0,
-        "isArchived": false,
-        "isFork": false,
-        "isPrivate": false,
-        "primaryLanguage": "C#",
-        "topics": [],
-        "updatedAt": "2025-08-22T17:14:14Z",
-        "createdAt": "2023-08-04T06:00:39Z"
       }
     ],
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1782144753052
+    "fetchedAt": 1782223225696
   }
 }
