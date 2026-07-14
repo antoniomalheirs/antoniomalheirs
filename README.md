@@ -19,9 +19,9 @@
 ============================================================================================================================
 ```
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="60%" style="border: none; padding: 10px; text-align: left; vertical-align: middle;">
+      <td width="60%" align="left" valign="middle" style="border: none; padding: 10px;">
         <ul>
           <li><b>Bacharel em Ciência da Computação</b>
             <ul>
@@ -36,7 +36,7 @@
           </li>
         </ul>
       </td>
-      <td width="40%" style="border: none; padding: 20px; text-align: center; vertical-align: middle;">
+      <td width="40%" align="center" valign="middle" style="border: none; padding: 20px;">
           <a href="https://www.instagram.com/malheirosan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/instagram.png" alt="Instagram" width="80" style="margin: 5px;"/></a>
           <a href="https://discord.com/users/ID" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/discord.png" alt="Discord" width="80" style="margin: 5px;"/></a>
           <br>
@@ -60,17 +60,17 @@
    '----------------------------------------------------------------------------------------------------------------------'
 ```
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="33%" style="border: none; vertical-align: middle; text-align: center; padding: 10px;">
+      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
         <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="350" alt="GitHub Stats_Profile">
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="350" alt="GitHub Streak">
       </td>
-      <td width="33%" style="border: none; vertical-align: middle; text-align: center; padding: 10px;">
+      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=320&count=7" alt="Spotify Recently Played"/>
       </td> 
-      <td width="33%" style="border: none; vertical-align: middle; text-align: center; padding: 10px;">
+      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false" width="350" alt="GitHub Stats_Profile_Two">
         <br><br>
         <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" width="350" alt="GitHub Streak_Week" />
@@ -87,21 +87,21 @@ o-------------------------------------------------------------------------------
 o--------------------------------------------------------------------------------------------------------------------------o
 ```
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="30%" style="border: none; text-align: center; vertical-align: middle; padding: 15px;">
+      <td width="30%" align="center" valign="middle" style="border: none; padding: 15px;">
         <h4>Programming Languages</h4>
         <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,py,bash&perline=4" alt="Programming Languages"/>
         <br><br>
         <h4>Web & Backend Development</h4>
         <img src="https://skillicons.dev/icons?i=nodejs,npm,express,tailwind,mongodb,mysql,firebase,sqlite&perline=4" alt="Web & Backend Development"/>
       </td>
-      <td width="40%" style="border: none; text-align: center; vertical-align: middle; padding: 15px;">
+      <td width="40%" align="center" valign="middle" style="border: none; padding: 15px;">
         <img src="./public/top-languages.gif" width="420" height="230" alt="Dynamic Top Languages">
         <br><br>
         <img src="./public/stats.gif" width="380" height="230" alt="Dynamic Top Stats">
       </td>
-      <td width="30%" style="border: none; text-align: center; vertical-align: middle; padding: 15px;">
+      <td width="30%" align="center" valign="middle" style="border: none; padding: 15px;">
         <h4>Tools & Platforms</h4>
         <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,gcp,vscode,visualstudio,linux&perline=4" alt="Tools & Platforms"/>
         <br><br>
@@ -141,11 +141,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Lies_Of_P_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies_Of_P_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies_Of_P_Trainer" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/AndroidAuto_Systemizer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=AndroidAuto_Systemizer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="AndroidAuto_Systemizer" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
