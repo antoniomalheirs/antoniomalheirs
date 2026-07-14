@@ -44,6 +44,11 @@
           <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/linkedin.png" alt="Linkedin" width="80" style="margin: 5px;"/></a>
       </td> 
     </tr>
+    <tr style="border: none;">
+      <td colspan="2" style="border: none; padding: 0; line-height: 0;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="915" height="1" alt="" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -141,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Forensic_Redact_Breaker"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Redact_Breaker&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Redact_Breaker" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Clippy_Revenge"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clippy_Revenge&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clippy_Revenge" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Lies_Of_P_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies_Of_P_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies_Of_P_Trainer" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
