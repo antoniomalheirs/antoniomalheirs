@@ -53,6 +53,11 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
           <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/linkedin.png" alt="Linkedin" width="80" style="margin: 5px;"/></a>
       </td> 
     </tr>
+    <tr style="border: none;">
+      <td colspan="2" style="border: none; padding: 0; line-height: 0;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="800" height="1" alt="" />
+      </td>
+    </tr>
   </table>
 </div>
 
