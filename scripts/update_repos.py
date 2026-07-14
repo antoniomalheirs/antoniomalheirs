@@ -71,18 +71,18 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
-        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="350" alt="GitHub Stats_Profile">
+      <td width="38%" align="center" valign="middle" style="border: none; padding: 10px;">
+        <img src="https://github-stats-alpha.vercel.app/api?username=antoniomalheirs&cc=292C34&tc=CD6D73&ic=91B674&bc=292C34" width="100%" alt="GitHub Stats_Profile">
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="350" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniomalheirs&theme=onedark&hide_border=true" width="100%" alt="GitHub Streak">
       </td>
-      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=320&count=7" alt="Spotify Recently Played"/>
+      <td width="24%" align="center" valign="middle" style="border: none; padding: 10px;">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeca09&width=300&count=5" width="100%" alt="Spotify Recently Played"/>
       </td> 
-      <td width="33%" align="center" valign="middle" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false" width="350" alt="GitHub Stats_Profile_Two">
+      <td width="38%" align="center" valign="middle" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniomalheirs&show_icons=true&theme=onedark&hide_border=true&hide_title=false" width="100%" alt="GitHub Stats_Profile_Two">
         <br><br>
-        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" width="350" alt="GitHub Streak_Week" />
+        <img src="https://streak-stats.demolab.com/?user=antoniomalheirs&theme=onedark&hide_border=true&mode=weekly" width="100%" alt="GitHub Streak_Week" />
       </td>
     </tr>
   </table>
