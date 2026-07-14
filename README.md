@@ -46,7 +46,7 @@
     </tr>
     <tr style="border: none;">
       <td colspan="2" style="border: none; padding: 0; line-height: 0;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="900" height="1" alt="" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="890" height="1" alt="" />
       </td>
     </tr>
   </table>
@@ -146,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400" style="margin: 5px;"/></a>
-  <br/>
   <a href="https://github.com/antoniomalheirs/Osint_Tool"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Osint_Tool&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Osint_Tool" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="E-commerce_shop" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Clash_of_Clans_Attackbase_Finder"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clash_of_Clans_Attackbase_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clash_of_Clans_Attackbase_Finder" width="400" style="margin: 5px;"/></a>
+  <br/>
+  <a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
