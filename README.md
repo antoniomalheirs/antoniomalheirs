@@ -14,9 +14,9 @@
 | |              | | | |              | | | |              | | | |              | | | |              | | | |             | |
 | '--------------' | | '--------------' | | '--------------' | | '--------------' | | '--------------' | | '-------------' |
  '----------------'   '----------------'   '----------------'   '----------------'   '----------------'   '---------------'
-============================================================================================================================
-|                                                        About Me                                                          |
-============================================================================================================================
+====================================================================================
+|                                     About Me                                     |
+====================================================================================
 ```
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -51,13 +51,13 @@
 <!--END_SECTION:waka-->
 
 ```text
-   .----------------------------------------------------------------------------------------------------------------------.
-  | /   \                                                                                                           /   \ |
- | | .-. |                                                                                                         | .-. | |
- | | | | |                                 ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙                         | || | |
- | | '-' |                                                                                                         | '-' | |
-  | \   /                                                                                                           \   / |
-   '----------------------------------------------------------------------------------------------------------------------'
+   .------------------------------------------------------------------------------.
+  | /   \                                                                  /   \ |
+ | | .-. |                                                                | .-. | |
+ | | | | |         ♫    S K I L L S,  S T A T S  &  M U S I C    ⚙          | || | |
+ | | '-' |                                                                | '-' | |
+  | \   /                                                                  \   / |
+   '------------------------------------------------------------------------------'
 ```
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -80,11 +80,11 @@
 </div>
 
 ```text
-o--------------------------------------------------------------------------------------------------------------------------o
-|  [+]                                                                                                                [+]  |
-|  [+]                                        T O O L I N G   &   A B I L I T I E S                                   [+]  |
-|  [+]                                                                                                                [+]  |
-o--------------------------------------------------------------------------------------------------------------------------o
+o----------------------------------------------------------------------------------o
+|  [+]                                                                        [+]  |
+|  [+]                T O O L I N G   &   A B I L I T I E S                   [+]  |
+|  [+]                                                                        [+]  |
+o----------------------------------------------------------------------------------o
 ```
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -113,11 +113,11 @@ o-------------------------------------------------------------------------------
 </div>
 
 ```text
-<//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
-|                                                                                                                          |
-|                                           K N O W L E D G E   O F   L A N G U A G E S                                    |
-|                                                                                                                          |
-<//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
+<//////////////////////////////////////////////////////////////////////////////////>
+|                                                                                  |
+|                   K N O W L E D G E   O F   L A N G U A G E S                    |
+|                                                                                  |
+<//////////////////////////////////////////////////////////////////////////////////>
 ```
 <div align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
@@ -132,20 +132,20 @@ o-------------------------------------------------------------------------------
 </p>
 
 ```text
-   ______________________________________________________________________________________________________________________
- /     _______________________________________________________________________________________________________________    \ 
-|   //                                                                                                                |    |
-|  |                                S O M E   I N T E R E S T I N G   R E P O S I T O R I E S                         |    |
-|  |_________________________________________________________________________________________________________________/     |
- \________________________________________________________________________________________________________________________/
+   _____________________________________________________________________________
+ /     _______________________________________________________________________    \ 
+|   //                                                                        |    |
+|  |         S O M E   I N T E R E S T I N G   R E P O S I T O R I E S        |    |
+|  |__________________________________________________________________________/    |
+ \_________________________________________________________________________________/
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Osint_Tool"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Osint_Tool&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Osint_Tool" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
