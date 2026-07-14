@@ -46,7 +46,7 @@
     </tr>
     <tr style="border: none;">
       <td colspan="2" style="border: none; padding: 0; line-height: 0;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="860" height="1" alt="" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="800" height="1" alt="" />
       </td>
     </tr>
   </table>
