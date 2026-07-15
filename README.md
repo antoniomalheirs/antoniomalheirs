@@ -38,7 +38,7 @@
       </td>
       <td width="40%" align="center" valign="middle" style="border: none; padding: 20px;">
           <a href="https://www.instagram.com/malheirosan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/instagram.png" alt="Instagram" width="80" style="margin: 5px;"/></a>
-          <a href="https://discord.com/users/ID" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/discord.png" alt="Discord" width="80" style="margin: 5px;"/></a>
+          <a href="https://discord.com/users/1347413134205517894" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/discord.png" alt="Discord" width="80" style="margin: 5px;"/></a>
           <br>
           <a href="https://t.me/unkandata" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/telegram.png" alt="Telegram" width="80" style="margin: 5px;"/></a>
           <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/social/linkedin.png" alt="Linkedin" width="80" style="margin: 5px;"/></a>
@@ -146,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Imoveis_Android_API_APP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Imoveis_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Imoveis_Android_API_APP" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
