@@ -146,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
+  <a href="https://github.com/antoniomalheirs/Windows10-11-Reverse_Shell"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Windows10-11-Reverse_Shell&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Windows10-11-Reverse_Shell" width="400" style="margin: 5px;"/></a>
   <a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/antoniomalheirs"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=antoniomalheirs&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="antoniomalheirs" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
