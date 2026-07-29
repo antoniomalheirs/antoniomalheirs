@@ -53,56 +53,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2993 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.01 % 
-🌆 Daytime                1212 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.34 % 
-🌃 Evening                2534 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.71 % 
-🌙 Night                  3947 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.94 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 12 mins (62.99%)
-
-✍️ 1,219 lines written by AI, 61 lines written by hand (95.23% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 172 AI Prompts
-
-Gemini                   866 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.19 % 
-Opus                     316 lines           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.88 % 
-Antigravity-Desktop      88 lines            ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.93 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.23% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 7.3% of changed lines were hand-edited
-```
-
-**I Mostly Code in C#** 
-
-```text
-TypeScript               11 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.00 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
-Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
-Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 % 
-Astro                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 % 
-```
-
-
-
-
- Last Updated on 28/07/2026 14:49:53 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -196,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/EloWeb"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=EloWeb&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="EloWeb" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Guardian"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Guardian&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Guardian" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Forensic_Hex_Dumper"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Hex_Dumper&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Hex_Dumper" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Lies_Of_P_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies_Of_P_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies_Of_P_Trainer" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/EloWeb"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=EloWeb&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="EloWeb" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
