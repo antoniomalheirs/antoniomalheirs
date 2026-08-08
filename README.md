@@ -146,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/OutlastTrials-Hud-UI-Mod"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=OutlastTrials-Hud-UI-Mod&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="OutlastTrials-Hud-UI-Mod" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Forensic_Hex_Dumper"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Hex_Dumper&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Hex_Dumper" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Sorting_algorithms"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Sorting_algorithms&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sorting_algorithms" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Pokedex_Android_API_APP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Pokedex_Android_API_APP&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pokedex_Android_API_APP" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Blur_And_StatusBar_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Blur_And_StatusBar_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Blur_And_StatusBar_IOS" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Markdown_Editor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Markdown_Editor&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Markdown_Editor" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
