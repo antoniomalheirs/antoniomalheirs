@@ -53,59 +53,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%209%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2016%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3105 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.70 % 
-🌆 Daytime                1214 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.22 % 
-🌃 Evening                2536 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.44 % 
-🌙 Night                  3963 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.63 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs (83.66%)
-
-✍️ 157 lines written by AI, 34 lines written by hand (82.2% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 60 AI Prompts
-
-Gemini                   140 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.16 % 
-Opus                     54 lines            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.84 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 82.2% of written lines came from AI
-📝 Concise Prompter — average 161 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 14.91% of changed lines were hand-edited
-```
-
-**I Mostly Code in C#** 
-
-```text
-TypeScript               11 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.00 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
-Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
-Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 % 
-Astro                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 % 
-```
-
-
-
-
- Last Updated on 11/08/2026 13:56:49 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -199,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
+  <a href="https://github.com/antoniomalheirs/Lies_Of_P_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Lies_Of_P_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Lies_Of_P_Trainer" width="400" style="margin: 5px;"/></a>
   <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Unity_basic_game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Unity_basic_game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Unity_basic_game" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sound_And_Emoji_IOS" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/API_implementation"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=API_implementation&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="API_implementation" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/OutlastTrials-Audio-Mod"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=OutlastTrials-Audio-Mod&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="OutlastTrials-Audio-Mod" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/E-commerce_shop"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=E-commerce_shop&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="E-commerce_shop" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
