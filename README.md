@@ -53,42 +53,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%209%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3225 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.32 % 
-🌆 Daytime                1254 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.40 % 
-🌃 Evening                2556 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.24 % 
-🌙 Night                  3963 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.03 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       13 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.49 % 
-TypeScript               11 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.57 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
-Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
-Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.92 % 
-```
-
-
-
-
- Last Updated on 02/09/2026 16:47:22 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -182,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Clipping_algorithm"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Clipping_algorithm&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Clipping_algorithm" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Media_Player_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Media_Player_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Media_Player_App" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Offsets_Finder"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Offsets_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Offsets_Finder" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Python_Game"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Python_Game&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Python_Game" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/OutlastTrials-Hud-UI-Mod"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=OutlastTrials-Hud-UI-Mod&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="OutlastTrials-Hud-UI-Mod" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
