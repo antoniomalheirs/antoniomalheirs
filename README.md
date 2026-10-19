@@ -53,6 +53,60 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%201%20min-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3277 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.81 % 
+🌆 Daytime                1574 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.84 % 
+🌃 Evening                2556 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.47 % 
+🌙 Night                  3968 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.88 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 51 mins (99.55%)
+
+✍️ 715 lines written by AI, 2 lines written by hand (99.72% AI-written)
+
+🔤 1,744,335 Input Tokens, 140,886 Output Tokens
+
+💵 $5.89 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 44 AI Prompts
+
+Gemini                   715 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Opus                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+M                        0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.72% of written lines came from AI
+📝 Concise Prompter — average 221 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       13 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.49 % 
+TypeScript               11 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.57 % 
+JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
+Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
+Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.92 % 
+```
+
+
+
+
+ Last Updated on 19/10/2026 18:55:47 UTC
 <!--END_SECTION:waka-->
 
 ```text
