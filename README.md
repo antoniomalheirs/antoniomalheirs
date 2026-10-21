@@ -53,58 +53,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2057%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%201%20min-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3277 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.79 % 
-🌆 Daytime                1582 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.90 % 
-🌃 Evening                2556 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.45 % 
-🌙 Night                  3968 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.86 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 57 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 1,322 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 28 AI Prompts
-
-M                        0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 162 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       13 repos            ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.49 % 
-TypeScript               11 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.57 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
-Shell                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
-Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.92 % 
-```
-
-
-
-
- Last Updated on 20/10/2026 17:23:37 UTC
 <!--END_SECTION:waka-->
 
 ```text
@@ -198,11 +146,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Forensic_Hex_Dumper"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Hex_Dumper&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Hex_Dumper" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/SystemPersist_UIPlugin"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=SystemPersist_UIPlugin&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="SystemPersist_UIPlugin" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Guardian"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Guardian&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Guardian" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Genius_1980"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Genius_1980&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Genius_1980" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Discord_ManagerBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_ManagerBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_ManagerBot" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Finance_App"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Finance_App&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Finance_App" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
