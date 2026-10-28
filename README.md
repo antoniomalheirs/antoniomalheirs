@@ -147,10 +147,10 @@ o-------------------------------------------------------------------------------
 
 <div align="center">
   <a href="https://github.com/antoniomalheirs/Pc_HardwareMonitor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Pc_HardwareMonitor&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Pc_HardwareMonitor" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/AndroidAuto_Systemizer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=AndroidAuto_Systemizer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="AndroidAuto_Systemizer" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Discord_DashBoard"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_DashBoard&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_DashBoard" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Sound_And_Emoji_IOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Sound_And_Emoji_IOS&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Sound_And_Emoji_IOS" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Forensic_Hex_Dumper"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Hex_Dumper&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Hex_Dumper" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Offsets_Finder"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Offsets_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Offsets_Finder" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
