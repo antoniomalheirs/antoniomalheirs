@@ -9,7 +9,7 @@ CARD_PARAMS = "theme=onedark&hide_border=true&hide_title=false&show_icons=true"
 
 README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B674&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+24+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D86D73&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Anthony+José.!;I'm+25+years+old;I'm+from+Brazil+💻👨‍💻🚀💡🇧🇷✨)](https://git.io/typing-svg)
 
 ```text
  .----------------.   .----------------.   .----------------.   .----------------.   .----------------.   .---------------.
@@ -61,8 +61,12 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
   </table>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+ 
+</div>
 
 ```text
   .--------------------------------------------------------------------------------------------------------------------.
