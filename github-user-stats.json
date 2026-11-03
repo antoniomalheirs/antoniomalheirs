@@ -9,21 +9,21 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 2107,
-  "linesOfCodeChanged": 228145,
-  "linesAdded": 141523,
-  "linesDeleted": 86622,
-  "commitCount": 2171,
-  "totalCommits": 3108,
+  "repoViews": 2237,
+  "linesOfCodeChanged": 2915124,
+  "linesAdded": 2540671,
+  "linesDeleted": 374453,
+  "commitCount": 2420,
+  "totalCommits": 3116,
   "totalPullRequests": 101,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 38086104,
+  "codeByteTotal": 38129240,
   "topLanguages": [
     {
       "languageName": "C#",
       "color": "#7355dd",
       "value": 34322019,
-      "percentage": 90.12
+      "percentage": 90.01
     },
     {
       "languageName": "JavaScript",
@@ -40,8 +40,8 @@
     {
       "languageName": "C++",
       "color": "#f34b7d",
-      "value": 573502,
-      "percentage": 1.51
+      "value": 682101,
+      "percentage": 1.79
     },
     {
       "languageName": "EJS",
@@ -68,15 +68,9 @@
       "percentage": 0.34
     },
     {
-      "languageName": "C",
-      "color": "#555555",
-      "value": 114281,
-      "percentage": 0.3
-    },
-    {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 110801,
+      "value": 111416,
       "percentage": 0.29
     },
     {
@@ -106,14 +100,20 @@
     {
       "languageName": "Cuda",
       "color": "#3A4E3A",
-      "value": 20139,
-      "percentage": 0.05
+      "value": 31884,
+      "percentage": 0.08
     },
     {
       "languageName": "Batchfile",
       "color": "#C1F12E",
-      "value": 19244,
-      "percentage": 0.05
+      "value": 28050,
+      "percentage": 0.07
+    },
+    {
+      "languageName": "C",
+      "color": "#555555",
+      "value": 27652,
+      "percentage": 0.07
     },
     {
       "languageName": "ShaderLab",
@@ -165,21 +165,21 @@
     }
   ],
   "forkCount": 1,
-  "starCount": 72,
+  "starCount": 73,
   "starsGiven": 4,
   "followers": 12,
   "following": 8,
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 3267,
+  "totalContributions": 3275,
   "contributionStats": {
-    "longestStreak": 459,
-    "currentStreak": 459,
+    "longestStreak": 461,
+    "currentStreak": 461,
     "mostActiveDay": "Friday",
-    "averagePerDay": 1.57,
-    "averagePerWeek": 11.02,
-    "averagePerMonth": 47.21,
+    "averagePerDay": 1.58,
+    "averagePerWeek": 11.04,
+    "averagePerMonth": 47.3,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -455,7 +455,7 @@
       },
       {
         "month": "2026-11",
-        "contributions": 6
+        "contributions": 14
       }
     ],
     "yearlyBreakdown": [
@@ -481,7 +481,7 @@
       },
       {
         "year": "2026",
-        "contributions": 1593
+        "contributions": 1601
       }
     ],
     "peakDay": {
@@ -499,7 +499,7 @@
     "activeRepos": 31,
     "reposWithStars": 30,
     "reposCreatedThisYear": 19,
-    "averageStarsPerRepo": 1.42
+    "averageStarsPerRepo": 1.43
   },
   "computedStats": {
     "totalRepos": 53,
@@ -511,7 +511,7 @@
     "activeRepos": 31,
     "reposWithStars": 30,
     "reposCreatedThisYear": 19,
-    "averageStarsPerRepo": 1.42,
+    "averageStarsPerRepo": 1.43,
     "languageCount": 24,
     "primaryLanguage": "C#",
     "primaryLanguageThisYear": "TypeScript",
@@ -520,61 +520,61 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 755018,
-        "percentage": 19.67
+        "percentage": 19.45
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 705702,
-        "percentage": 18.38
+        "percentage": 18.18
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 543082,
-        "percentage": 14.15
+        "value": 651681,
+        "percentage": 16.79
       },
       {
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 477952,
-        "percentage": 12.45
+        "percentage": 12.31
       },
       {
         "languageName": "C#",
         "color": "#7355dd",
         "value": 408970,
-        "percentage": 10.65
+        "percentage": 10.53
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 276100,
-        "percentage": 7.19
+        "percentage": 7.11
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 129648,
-        "percentage": 3.38
-      },
-      {
-        "languageName": "C",
-        "color": "#555555",
-        "value": 114281,
-        "percentage": 2.98
+        "percentage": 3.34
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 110801,
-        "percentage": 2.89
+        "value": 111416,
+        "percentage": 2.87
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 84646,
-        "percentage": 2.2
+        "percentage": 2.18
+      },
+      {
+        "languageName": "Astro",
+        "color": "#ff5a03",
+        "value": 81981,
+        "percentage": 2.11
       }
     ],
     "totalTopics": 30,
@@ -692,23 +692,23 @@
       "the-outlast-trials",
       "webapp"
     ],
-    "contributionsThisYear": 1593,
+    "contributionsThisYear": 1601,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": 16.53,
+    "yearOverYearGrowth": 17.12,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3108,
+    "totalCommitContributions": 3116,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 52,
     "totalPullRequestContributions": 101,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 3267,
+      "totalContributions": 3275,
       "weeks": [
         {
           "contributionDays": [
@@ -10213,8 +10213,12 @@
               "date": "2026-11-01"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 5,
               "date": "2026-11-02"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-11-03"
             }
           ]
         }
@@ -10237,14 +10241,14 @@
         "kernelsu-next",
         "magisk-module"
       ],
-      "updatedAt": "2026-11-02T06:54:18Z",
+      "updatedAt": "2026-11-03T01:17:39Z",
       "createdAt": "2024-10-13T23:21:13Z"
     },
     {
       "name": "AndroidAuto_Systemizer",
       "nameWithOwner": "antoniomalheirs/AndroidAuto_Systemizer",
       "description": "Systemless module that provisions Android Auto as a privileged app (priv-app) in /product via overlay, applying a privileged permission allowlist, RRO, and boot scripts for runtime grants and automotive role, with multi-root compatibility and bootloop mitigation.",
-      "stars": 7,
+      "stars": 8,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
@@ -10255,7 +10259,7 @@
         "kernelsu-module",
         "magisk-module"
       ],
-      "updatedAt": "2026-10-31T06:51:14Z",
+      "updatedAt": "2026-11-03T12:51:08Z",
       "createdAt": "2026-04-23T18:58:44Z"
     },
     {
@@ -10291,7 +10295,7 @@
         "password-decryption",
         "learning-hacking"
       ],
-      "updatedAt": "2026-11-01T19:14:20Z",
+      "updatedAt": "2026-11-03T08:20:14Z",
       "createdAt": "2023-08-29T05:45:26Z"
     },
     {
@@ -10326,7 +10330,7 @@
         "customization",
         "profile-readme"
       ],
-      "updatedAt": "2026-11-02T06:50:14Z",
+      "updatedAt": "2026-11-02T20:58:58Z",
       "createdAt": "2023-07-22T07:31:09Z"
     },
     {
@@ -10396,9 +10400,9 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1793652709198,
+  "fetchedAt": 1793731097464,
   "schemaVersion": 2,
-  "generatedAt": "2026-11-02T20:51:49.198Z",
+  "generatedAt": "2026-11-03T18:38:17.464Z",
   "profile": {
     "name": "Antônio Malheiros",
     "login": "antoniomalheirs",
@@ -10414,15 +10418,15 @@
     "following": 8
   },
   "profileContributions": {
-    "totalContributions": 3267,
-    "totalCommitContributions": 3108,
+    "totalContributions": 3275,
+    "totalCommitContributions": 3116,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 52,
     "totalPullRequestContributions": 101,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 3267,
+      "totalContributions": 3275,
       "weeks": [
         {
           "contributionDays": [
@@ -19927,20 +19931,24 @@
               "date": "2026-11-01"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 5,
               "date": "2026-11-02"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-11-03"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 459,
-      "currentStreak": 459,
+      "longestStreak": 461,
+      "currentStreak": 461,
       "mostActiveDay": "Friday",
-      "averagePerDay": 1.57,
-      "averagePerWeek": 11.02,
-      "averagePerMonth": 47.21,
+      "averagePerDay": 1.58,
+      "averagePerWeek": 11.04,
+      "averagePerMonth": 47.3,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -20216,7 +20224,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 6
+          "contributions": 14
         }
       ],
       "yearlyBreakdown": [
@@ -20242,7 +20250,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1593
+          "contributions": 1601
         }
       ],
       "peakDay": {
@@ -20268,7 +20276,7 @@
         "nameWithOwner": "antoniomalheirs/antoniomalheirs",
         "owner": "antoniomalheirs",
         "counts": {
-          "commits": 2069,
+          "commits": 2073,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -20436,7 +20444,7 @@
         "nameWithOwner": "antoniomalheirs/Forensic_Brute_Force",
         "owner": "antoniomalheirs",
         "counts": {
-          "commits": 22,
+          "commits": 25,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -20688,7 +20696,7 @@
         "nameWithOwner": "antoniomalheirs/Sound_And_Emoji_IOS",
         "owner": "antoniomalheirs",
         "counts": {
-          "commits": 81,
+          "commits": 82,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -20782,10 +20790,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-04-23T18:58:44Z",
-      "updatedAt": "2026-10-31T06:51:14Z",
+      "updatedAt": "2026-11-03T12:51:08Z",
       "pushedAt": "2026-10-31T06:51:11Z",
       "defaultBranchOid": "baf73528ece9dcb2ce2051c24272b6c799da150f",
-      "stars": 7,
+      "stars": 8,
       "forks": 0,
       "primaryLanguage": "Shell",
       "topics": [
@@ -20814,7 +20822,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOJ-ZpuA",
@@ -20830,9 +20838,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2023-07-22T07:31:09Z",
-      "updatedAt": "2026-11-02T06:50:14Z",
-      "pushedAt": "2026-11-01T18:07:34Z",
-      "defaultBranchOid": "8610e24a48df3504944f90e1e7259b58f074f028",
+      "updatedAt": "2026-11-02T20:58:58Z",
+      "pushedAt": "2026-11-02T20:58:54Z",
+      "defaultBranchOid": "0f94af1d41375208a32bb02ef8a68d924b2d5492",
       "stars": 2,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -20873,13 +20881,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 2069,
+        "commits": 2073,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKVzY6Q",
@@ -20923,7 +20931,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOJ6-mNg",
@@ -20970,7 +20978,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652688895
+      "metadataFetchedAt": 1793731060926
     },
     {
       "id": "R_kgDOJ8t5fA",
@@ -21017,7 +21025,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652688895
+      "metadataFetchedAt": 1793731060926
     },
     {
       "id": "R_kgDOND65Nw",
@@ -21071,7 +21079,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOPt0v-g",
@@ -21127,7 +21135,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKDQ6Ow",
@@ -21171,7 +21179,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOPZuplQ",
@@ -21219,7 +21227,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652688895
+      "metadataFetchedAt": 1793731060926
     },
     {
       "id": "R_kgDOLDccIg",
@@ -21279,7 +21287,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOK_Ufjg",
@@ -21327,7 +21335,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOPg7HAA",
@@ -21381,7 +21389,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOLWqWhw",
@@ -21431,7 +21439,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652685072
+      "metadataFetchedAt": 1793731056899
     },
     {
       "id": "R_kgDORpzBKA",
@@ -21487,7 +21495,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOJ7xvEg",
@@ -21531,7 +21539,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOKMuhmg",
@@ -21547,9 +21555,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2023-08-29T05:45:26Z",
-      "updatedAt": "2026-11-01T19:14:20Z",
-      "pushedAt": "2026-11-01T19:23:34Z",
-      "defaultBranchOid": "b4047672e7bcbbb2e99b8f5ac63e5dc984037bf6",
+      "updatedAt": "2026-11-03T08:20:14Z",
+      "pushedAt": "2026-11-03T08:29:29Z",
+      "defaultBranchOid": "fdfa15737eb64c967a3979eb9b83ecfe07ac2a01",
       "stars": 3,
       "forks": 0,
       "primaryLanguage": "C++",
@@ -21562,42 +21570,36 @@
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 235996,
-          "percentage": 67.94
-        },
-        {
-          "languageName": "C",
-          "color": "#555555",
-          "value": 86629,
-          "percentage": 24.94
+          "value": 344595,
+          "percentage": 88.39
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 20139,
-          "percentage": 5.8
+          "value": 31884,
+          "percentage": 8.18
         },
         {
           "languageName": "Batchfile",
           "color": "#C1F12E",
-          "value": 4586,
-          "percentage": 1.32
+          "value": 13392,
+          "percentage": 3.43
         }
       ],
-      "codeByteTotal": 347350,
+      "codeByteTotal": 389871,
       "sources": [
         "profile-contribution",
         "cache",
         "owned"
       ],
       "contributionCounts": {
-        "commits": 22,
+        "commits": 25,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDORNSnqA",
@@ -21645,7 +21647,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDORNf4iw",
@@ -21705,7 +21707,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOJ7WO2w",
@@ -21752,7 +21754,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOTiqpPw",
@@ -21838,7 +21840,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKNmj_g",
@@ -21882,7 +21884,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOKzTGUg",
@@ -21926,7 +21928,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOLlka5Q",
@@ -21973,7 +21975,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652688895
+      "metadataFetchedAt": 1793731060926
     },
     {
       "id": "R_kgDORPMM2g",
@@ -22033,7 +22035,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKDOkjA",
@@ -22077,7 +22079,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOTdBBEw",
@@ -22127,7 +22129,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDORQn0Jw",
@@ -22171,7 +22173,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDORghEow",
@@ -22239,7 +22241,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOSMvhbw",
@@ -22283,7 +22285,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOTpEREA",
@@ -22324,7 +22326,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOTqfH4Q",
@@ -22365,7 +22367,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDORhTR_A",
@@ -22409,7 +22411,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKj58BQ",
@@ -22453,7 +22455,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOJ7aqhw",
@@ -22497,7 +22499,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDORlsAag",
@@ -22553,7 +22555,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKGaz1g",
@@ -22597,7 +22599,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOM_wOBg",
@@ -22613,9 +22615,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-10-13T23:21:13Z",
-      "updatedAt": "2026-11-02T06:54:18Z",
-      "pushedAt": "2026-10-31T06:10:58Z",
-      "defaultBranchOid": "08073fb480797b4e7503befcc92b8c9f992085fc",
+      "updatedAt": "2026-11-03T01:17:39Z",
+      "pushedAt": "2026-11-03T01:17:38Z",
+      "defaultBranchOid": "e9207041f9b9d4dfc933566fe82d844e7f79498a",
       "stars": 29,
       "forks": 1,
       "primaryLanguage": "Shell",
@@ -22628,7 +22630,7 @@
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 71398,
+          "value": 72013,
           "percentage": 99.79
         },
         {
@@ -22638,20 +22640,20 @@
           "percentage": 0.21
         }
       ],
-      "codeByteTotal": 71546,
+      "codeByteTotal": 72161,
       "sources": [
         "profile-contribution",
         "cache",
         "owned"
       ],
       "contributionCounts": {
-        "commits": 81,
+        "commits": 82,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDONGESeA",
@@ -22705,7 +22707,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOKVXCww",
@@ -22797,7 +22799,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652684141
+      "metadataFetchedAt": 1793731056046
     },
     {
       "id": "R_kgDOUAMWTA",
@@ -22847,7 +22849,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652690062
+      "metadataFetchedAt": 1793731063166
     },
     {
       "id": "R_kgDOPQmnvQ",
@@ -22895,19 +22897,19 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1793652688895
+      "metadataFetchedAt": 1793731060926
     }
   ],
   "repoMetrics": {
-    "starCount": 72,
+    "starCount": 73,
     "forkCount": 1,
-    "codeByteTotal": 38086104,
+    "codeByteTotal": 38129240,
     "topLanguages": [
       {
         "languageName": "C#",
         "color": "#7355dd",
         "value": 34322019,
-        "percentage": 90.12
+        "percentage": 90.01
       },
       {
         "languageName": "JavaScript",
@@ -22924,8 +22926,8 @@
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 573502,
-        "percentage": 1.51
+        "value": 682101,
+        "percentage": 1.79
       },
       {
         "languageName": "EJS",
@@ -22952,15 +22954,9 @@
         "percentage": 0.34
       },
       {
-        "languageName": "C",
-        "color": "#555555",
-        "value": 114281,
-        "percentage": 0.3
-      },
-      {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 110801,
+        "value": 111416,
         "percentage": 0.29
       },
       {
@@ -22990,14 +22986,20 @@
       {
         "languageName": "Cuda",
         "color": "#3A4E3A",
-        "value": 20139,
-        "percentage": 0.05
+        "value": 31884,
+        "percentage": 0.08
       },
       {
         "languageName": "Batchfile",
         "color": "#C1F12E",
-        "value": 19244,
-        "percentage": 0.05
+        "value": 28050,
+        "percentage": 0.07
+      },
+      {
+        "languageName": "C",
+        "color": "#555555",
+        "value": 27652,
+        "percentage": 0.07
       },
       {
         "languageName": "ShaderLab",
@@ -23131,20 +23133,20 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 2171,
-      "linesAdded": 141523,
-      "linesDeleted": 86622,
-      "linesOfCodeChanged": 228145,
-      "reposCompleted": 10,
+      "totalCommits": 2420,
+      "linesAdded": 2540671,
+      "linesDeleted": 374453,
+      "linesOfCodeChanged": 2915124,
+      "reposCompleted": 31,
       "reposPending": 0,
-      "reposFailed": 31
+      "reposFailed": 10
     },
     "traffic": {
-      "repoViews": 2107,
-      "repoViewUniques": 753,
-      "reposCompleted": 40,
+      "repoViews": 2237,
+      "repoViewUniques": 805,
+      "reposCompleted": 41,
       "reposPending": 0,
-      "reposFailed": 1
+      "reposFailed": 0
     },
     "repoStats": {
       "totalRepos": 53,
@@ -23156,7 +23158,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.42
+      "averageStarsPerRepo": 1.43
     },
     "computedStats": {
       "totalRepos": 53,
@@ -23168,7 +23170,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.42,
+      "averageStarsPerRepo": 1.43,
       "languageCount": 24,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "TypeScript",
@@ -23177,61 +23179,61 @@
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 755018,
-          "percentage": 19.67
+          "percentage": 19.45
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
           "value": 705702,
-          "percentage": 18.38
+          "percentage": 18.18
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 543082,
-          "percentage": 14.15
+          "value": 651681,
+          "percentage": 16.79
         },
         {
           "languageName": "EJS",
           "color": "#a91e50",
           "value": 477952,
-          "percentage": 12.45
+          "percentage": 12.31
         },
         {
           "languageName": "C#",
           "color": "#7355dd",
           "value": 408970,
-          "percentage": 10.65
+          "percentage": 10.53
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 276100,
-          "percentage": 7.19
+          "percentage": 7.11
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 129648,
-          "percentage": 3.38
-        },
-        {
-          "languageName": "C",
-          "color": "#555555",
-          "value": 114281,
-          "percentage": 2.98
+          "percentage": 3.34
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 110801,
-          "percentage": 2.89
+          "value": 111416,
+          "percentage": 2.87
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 84646,
-          "percentage": 2.2
+          "percentage": 2.18
+        },
+        {
+          "languageName": "Astro",
+          "color": "#ff5a03",
+          "value": 81981,
+          "percentage": 2.11
         }
       ],
       "totalTopics": 30,
@@ -23349,9 +23351,9 @@
         "the-outlast-trials",
         "webapp"
       ],
-      "contributionsThisYear": 1593,
+      "contributionsThisYear": 1601,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": 16.53,
+      "yearOverYearGrowth": 17.12,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
@@ -23362,15 +23364,15 @@
     "readmeSummary": {
       "name": "Antônio Malheiros",
       "username": "antoniomalheirs",
-      "totalContributions": 3267,
-      "currentStreak": 459,
-      "longestStreak": 459,
+      "totalContributions": 3275,
+      "currentStreak": 461,
+      "longestStreak": 461,
       "topLanguages": [
         {
           "languageName": "C#",
           "color": "#7355dd",
           "value": 34322019,
-          "percentage": 90.12
+          "percentage": 90.01
         },
         {
           "languageName": "JavaScript",
@@ -23387,8 +23389,8 @@
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 573502,
-          "percentage": 1.51
+          "value": 682101,
+          "percentage": 1.79
         },
         {
           "languageName": "EJS",
@@ -23397,10 +23399,10 @@
           "percentage": 1.25
         }
       ],
-      "starsReceived": 72,
+      "starsReceived": 73,
       "forksReceived": 1,
       "activeRepos": 31,
-      "refreshedAt": "2026-11-02T20:51:49.198Z",
+      "refreshedAt": "2026-11-03T18:38:17.464Z",
       "complete": false
     },
     "cards": [
@@ -23412,7 +23414,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "459 days"
+        "value": "461 days"
       },
       {
         "id": "languages",
@@ -23423,12 +23425,12 @@
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "36.3 MB"
+        "value": "36.4 MB"
       },
       {
         "id": "stars",
         "label": "Stars received",
-        "value": "72"
+        "value": "73"
       }
     ],
     "timeline": [
@@ -23454,7 +23456,7 @@
       },
       {
         "period": "2026",
-        "contributions": 1593
+        "contributions": 1601
       }
     ],
     "highlights": [
@@ -23474,7 +23476,7 @@
         "id": "top-language",
         "label": "Top language",
         "value": "C#",
-        "detail": "90.12%"
+        "detail": "90.01%"
       }
     ],
     "remotion": {
@@ -23489,7 +23491,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "3.3K",
-          "supportingText": "459 day longest streak"
+          "supportingText": "461 day longest streak"
         },
         {
           "id": "repositories",
@@ -23514,9 +23516,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1793652678592,
-    "finishedAt": 1793652709198,
-    "durationMs": 30606,
+    "startedAt": 1793731050513,
+    "finishedAt": 1793731097464,
+    "durationMs": 46951,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -23529,23 +23531,23 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 50,
+      "completedThisRun": 72,
       "pending": 0,
-      "failedThisRun": 32,
+      "failedThisRun": 10,
       "skippedThisRun": 0
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4981,
-        "used": 19,
-        "resetAt": "2026-11-02T21:51:18Z"
+        "remaining": 4977,
+        "used": 23,
+        "resetAt": "2026-11-03T19:21:37Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4960,
-        "used": 40,
-        "resetAt": "2026-11-02T21:51:47.000Z"
+        "remaining": 4927,
+        "used": 73,
+        "resetAt": "2026-11-03T19:37:54.000Z"
       }
     },
     "warnings": [
@@ -23565,21 +23567,21 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2021-03-02T01:17:21Z",
-    "repoViews": 2107,
-    "linesOfCodeChanged": 228145,
-    "linesAdded": 141523,
-    "linesDeleted": 86622,
-    "commitCount": 2171,
-    "totalCommits": 3108,
+    "repoViews": 2237,
+    "linesOfCodeChanged": 2915124,
+    "linesAdded": 2540671,
+    "linesDeleted": 374453,
+    "commitCount": 2420,
+    "totalCommits": 3116,
     "totalPullRequests": 101,
     "totalPullRequestReviews": 0,
-    "codeByteTotal": 38086104,
+    "codeByteTotal": 38129240,
     "topLanguages": [
       {
         "languageName": "C#",
         "color": "#7355dd",
         "value": 34322019,
-        "percentage": 90.12
+        "percentage": 90.01
       },
       {
         "languageName": "JavaScript",
@@ -23596,8 +23598,8 @@
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 573502,
-        "percentage": 1.51
+        "value": 682101,
+        "percentage": 1.79
       },
       {
         "languageName": "EJS",
@@ -23624,15 +23626,9 @@
         "percentage": 0.34
       },
       {
-        "languageName": "C",
-        "color": "#555555",
-        "value": 114281,
-        "percentage": 0.3
-      },
-      {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 110801,
+        "value": 111416,
         "percentage": 0.29
       },
       {
@@ -23662,14 +23658,20 @@
       {
         "languageName": "Cuda",
         "color": "#3A4E3A",
-        "value": 20139,
-        "percentage": 0.05
+        "value": 31884,
+        "percentage": 0.08
       },
       {
         "languageName": "Batchfile",
         "color": "#C1F12E",
-        "value": 19244,
-        "percentage": 0.05
+        "value": 28050,
+        "percentage": 0.07
+      },
+      {
+        "languageName": "C",
+        "color": "#555555",
+        "value": 27652,
+        "percentage": 0.07
       },
       {
         "languageName": "ShaderLab",
@@ -23721,21 +23723,21 @@
       }
     ],
     "forkCount": 1,
-    "starCount": 72,
+    "starCount": 73,
     "starsGiven": 4,
     "followers": 12,
     "following": 8,
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 2,
-    "totalContributions": 3267,
+    "totalContributions": 3275,
     "contributionStats": {
-      "longestStreak": 459,
-      "currentStreak": 459,
+      "longestStreak": 461,
+      "currentStreak": 461,
       "mostActiveDay": "Friday",
-      "averagePerDay": 1.57,
-      "averagePerWeek": 11.02,
-      "averagePerMonth": 47.21,
+      "averagePerDay": 1.58,
+      "averagePerWeek": 11.04,
+      "averagePerMonth": 47.3,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -24011,7 +24013,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 6
+          "contributions": 14
         }
       ],
       "yearlyBreakdown": [
@@ -24037,7 +24039,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1593
+          "contributions": 1601
         }
       ],
       "peakDay": {
@@ -24055,7 +24057,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.42
+      "averageStarsPerRepo": 1.43
     },
     "computedStats": {
       "totalRepos": 53,
@@ -24067,7 +24069,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.42,
+      "averageStarsPerRepo": 1.43,
       "languageCount": 24,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "TypeScript",
@@ -24076,61 +24078,61 @@
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 755018,
-          "percentage": 19.67
+          "percentage": 19.45
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
           "value": 705702,
-          "percentage": 18.38
+          "percentage": 18.18
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 543082,
-          "percentage": 14.15
+          "value": 651681,
+          "percentage": 16.79
         },
         {
           "languageName": "EJS",
           "color": "#a91e50",
           "value": 477952,
-          "percentage": 12.45
+          "percentage": 12.31
         },
         {
           "languageName": "C#",
           "color": "#7355dd",
           "value": 408970,
-          "percentage": 10.65
+          "percentage": 10.53
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 276100,
-          "percentage": 7.19
+          "percentage": 7.11
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 129648,
-          "percentage": 3.38
-        },
-        {
-          "languageName": "C",
-          "color": "#555555",
-          "value": 114281,
-          "percentage": 2.98
+          "percentage": 3.34
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 110801,
-          "percentage": 2.89
+          "value": 111416,
+          "percentage": 2.87
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 84646,
-          "percentage": 2.2
+          "percentage": 2.18
+        },
+        {
+          "languageName": "Astro",
+          "color": "#ff5a03",
+          "value": 81981,
+          "percentage": 2.11
         }
       ],
       "totalTopics": 30,
@@ -24248,23 +24250,23 @@
         "the-outlast-trials",
         "webapp"
       ],
-      "contributionsThisYear": 1593,
+      "contributionsThisYear": 1601,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": 16.53,
+      "yearOverYearGrowth": 17.12,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 3108,
+      "totalCommitContributions": 3116,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 1,
       "totalRepositoryContributions": 52,
       "totalPullRequestContributions": 101,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 3267,
+        "totalContributions": 3275,
         "weeks": [
           {
             "contributionDays": [
@@ -33769,8 +33771,12 @@
                 "date": "2026-11-01"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 5,
                 "date": "2026-11-02"
+              },
+              {
+                "contributionCount": 3,
+                "date": "2026-11-03"
               }
             ]
           }
@@ -33793,14 +33799,14 @@
           "kernelsu-next",
           "magisk-module"
         ],
-        "updatedAt": "2026-11-02T06:54:18Z",
+        "updatedAt": "2026-11-03T01:17:39Z",
         "createdAt": "2024-10-13T23:21:13Z"
       },
       {
         "name": "AndroidAuto_Systemizer",
         "nameWithOwner": "antoniomalheirs/AndroidAuto_Systemizer",
         "description": "Systemless module that provisions Android Auto as a privileged app (priv-app) in /product via overlay, applying a privileged permission allowlist, RRO, and boot scripts for runtime grants and automotive role, with multi-root compatibility and bootloop mitigation.",
-        "stars": 7,
+        "stars": 8,
         "forks": 0,
         "isArchived": false,
         "isFork": false,
@@ -33811,7 +33817,7 @@
           "kernelsu-module",
           "magisk-module"
         ],
-        "updatedAt": "2026-10-31T06:51:14Z",
+        "updatedAt": "2026-11-03T12:51:08Z",
         "createdAt": "2026-04-23T18:58:44Z"
       },
       {
@@ -33847,7 +33853,7 @@
           "password-decryption",
           "learning-hacking"
         ],
-        "updatedAt": "2026-11-01T19:14:20Z",
+        "updatedAt": "2026-11-03T08:20:14Z",
         "createdAt": "2023-08-29T05:45:26Z"
       },
       {
@@ -33882,7 +33888,7 @@
           "customization",
           "profile-readme"
         ],
-        "updatedAt": "2026-11-02T06:50:14Z",
+        "updatedAt": "2026-11-02T20:58:58Z",
         "createdAt": "2023-07-22T07:31:09Z"
       },
       {
@@ -33952,6 +33958,6 @@
     ],
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1793652709198
+    "fetchedAt": 1793731097464
   }
 }
