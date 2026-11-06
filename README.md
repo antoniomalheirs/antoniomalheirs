@@ -150,11 +150,11 @@ o-------------------------------------------------------------------------------
 ```
 
 <div align="center">
-  <a href="https://github.com/antoniomalheirs/Assault_Cube_Trainer_with_Esp"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Assault_Cube_Trainer_with_Esp&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Assault_Cube_Trainer_with_Esp" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/NetTrack_System"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=NetTrack_System&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="NetTrack_System" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/OutlastTrials-Hud-UI-Mod"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=OutlastTrials-Hud-UI-Mod&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="OutlastTrials-Hud-UI-Mod" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Discord_MusicBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Discord_MusicBot&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Discord_MusicBot" width="400" style="margin: 5px;"/></a>
   <br/>
-  <a href="https://github.com/antoniomalheirs/Forensic_Brute_Force"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Forensic_Brute_Force&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Forensic_Brute_Force" width="400" style="margin: 5px;"/></a>
-  <a href="https://github.com/antoniomalheirs/Hotel_manager_basic"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Hotel_manager_basic&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Hotel_manager_basic" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/AndroidAuto_Systemizer"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=AndroidAuto_Systemizer&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="AndroidAuto_Systemizer" width="400" style="margin: 5px;"/></a>
+  <a href="https://github.com/antoniomalheirs/Offsets_Finder"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=antoniomalheirs&repo=Offsets_Finder&theme=onedark&hide_border=true&hide_title=false&show_icons=true" alt="Offsets_Finder" width="400" style="margin: 5px;"/></a>
 </div>
 
 <br>
