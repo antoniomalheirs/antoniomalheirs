@@ -63,8 +63,8 @@ README_TEMPLATE = """<img width=100% src="https://capsule-render.vercel.app/api?
 
 <div align="center">
 
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 </div>
 
