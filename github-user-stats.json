@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-03-02T01:17:21Z",
-  "repoViews": 2737,
-  "linesOfCodeChanged": 4380582,
-  "linesAdded": 2723613,
-  "linesDeleted": 1656969,
-  "commitCount": 2599,
-  "totalCommits": 3223,
+  "repoViews": 2690,
+  "linesOfCodeChanged": 267460,
+  "linesAdded": 165813,
+  "linesDeleted": 101647,
+  "commitCount": 2277,
+  "totalCommits": 3227,
   "totalPullRequests": 101,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 38388246,
@@ -165,21 +165,21 @@
     }
   ],
   "forkCount": 1,
-  "starCount": 78,
+  "starCount": 79,
   "starsGiven": 4,
   "followers": 12,
   "following": 8,
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 2,
-  "totalContributions": 3382,
+  "totalContributions": 3386,
   "contributionStats": {
-    "longestStreak": 481,
-    "currentStreak": 481,
+    "longestStreak": 482,
+    "currentStreak": 482,
     "mostActiveDay": "Friday",
     "averagePerDay": 1.61,
-    "averagePerWeek": 11.28,
-    "averagePerMonth": 48.36,
+    "averagePerWeek": 11.29,
+    "averagePerMonth": 48.39,
     "monthlyBreakdown": [
       {
         "month": "2021-03",
@@ -455,7 +455,7 @@
       },
       {
         "month": "2026-11",
-        "contributions": 121
+        "contributions": 125
       }
     ],
     "yearlyBreakdown": [
@@ -481,7 +481,7 @@
       },
       {
         "year": "2026",
-        "contributions": 1708
+        "contributions": 1712
       }
     ],
     "peakDay": {
@@ -499,7 +499,7 @@
     "activeRepos": 31,
     "reposWithStars": 30,
     "reposCreatedThisYear": 19,
-    "averageStarsPerRepo": 1.53
+    "averageStarsPerRepo": 1.55
   },
   "computedStats": {
     "totalRepos": 53,
@@ -511,7 +511,7 @@
     "activeRepos": 31,
     "reposWithStars": 30,
     "reposCreatedThisYear": 19,
-    "averageStarsPerRepo": 1.53,
+    "averageStarsPerRepo": 1.55,
     "languageCount": 24,
     "primaryLanguage": "C#",
     "primaryLanguageThisYear": "TypeScript",
@@ -692,23 +692,23 @@
       "the-outlast-trials",
       "webapp"
     ],
-    "contributionsThisYear": 1708,
+    "contributionsThisYear": 1712,
     "contributionsLastYear": 1367,
-    "yearOverYearGrowth": 24.95,
+    "yearOverYearGrowth": 25.24,
     "mostProductiveMonth": {
       "month": "2025-08",
       "contributions": 476
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3223,
+    "totalCommitContributions": 3227,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 52,
     "totalPullRequestContributions": 101,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 3382,
+      "totalContributions": 3386,
       "weeks": [
         {
           "contributionDays": [
@@ -10313,8 +10313,12 @@
               "date": "2026-11-23"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2026-11-24"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-11-25"
             }
           ]
         }
@@ -10362,7 +10366,7 @@
       "name": "Blur_And_StatusBar_IOS",
       "nameWithOwner": "antoniomalheirs/Blur_And_StatusBar_IOS",
       "description": "A KernelSU / KernelSU Next and Magisk-compatible module for HyperOS that replaces the system's Blur and Status Bar with iOS-style elements. Designed to bring a cleaner, modern iOS-inspired look and feel to supported Android devices, without modifying the system partition.",
-      "stars": 5,
+      "stars": 6,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
@@ -10373,7 +10377,7 @@
         "kernelsu-next",
         "magisk-module"
       ],
-      "updatedAt": "2026-11-13T05:15:32Z",
+      "updatedAt": "2026-11-25T11:13:31Z",
       "createdAt": "2024-10-22T05:54:19Z"
     },
     {
@@ -10496,9 +10500,9 @@
   ],
   "closedIssues": 1,
   "openIssues": 0,
-  "fetchedAt": 1795555684327,
+  "fetchedAt": 1795638975710,
   "schemaVersion": 2,
-  "generatedAt": "2026-11-24T21:28:04.327Z",
+  "generatedAt": "2026-11-25T20:36:15.710Z",
   "profile": {
     "name": "Antônio Malheiros",
     "login": "antoniomalheirs",
@@ -10514,15 +10518,15 @@
     "following": 8
   },
   "profileContributions": {
-    "totalContributions": 3382,
-    "totalCommitContributions": 3223,
+    "totalContributions": 3386,
+    "totalCommitContributions": 3227,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1,
     "totalRepositoryContributions": 52,
     "totalPullRequestContributions": 101,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 3382,
+      "totalContributions": 3386,
       "weeks": [
         {
           "contributionDays": [
@@ -20127,20 +20131,24 @@
               "date": "2026-11-23"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 4,
               "date": "2026-11-24"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-11-25"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 481,
-      "currentStreak": 481,
+      "longestStreak": 482,
+      "currentStreak": 482,
       "mostActiveDay": "Friday",
       "averagePerDay": 1.61,
-      "averagePerWeek": 11.28,
-      "averagePerMonth": 48.36,
+      "averagePerWeek": 11.29,
+      "averagePerMonth": 48.39,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -20416,7 +20424,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 121
+          "contributions": 125
         }
       ],
       "yearlyBreakdown": [
@@ -20442,7 +20450,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1708
+          "contributions": 1712
         }
       ],
       "peakDay": {
@@ -20468,7 +20476,7 @@
         "nameWithOwner": "antoniomalheirs/antoniomalheirs",
         "owner": "antoniomalheirs",
         "counts": {
-          "commits": 2158,
+          "commits": 2162,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -21014,7 +21022,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOJ-ZpuA",
@@ -21031,8 +21039,8 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2023-07-22T07:31:09Z",
       "updatedAt": "2026-11-11T19:51:09Z",
-      "pushedAt": "2026-11-24T00:07:21Z",
-      "defaultBranchOid": "a0a9797264b7126b87600613cbb45d6d15578699",
+      "pushedAt": "2026-11-24T22:40:32Z",
+      "defaultBranchOid": "501e221d9563a40ed4f85904c6407f921032455b",
       "stars": 2,
       "forks": 0,
       "primaryLanguage": "TypeScript",
@@ -21073,13 +21081,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 2158,
+        "commits": 2162,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKVzY6Q",
@@ -21123,7 +21131,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOJ6-mNg",
@@ -21170,7 +21178,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555647550
+      "metadataFetchedAt": 1795638952629
     },
     {
       "id": "R_kgDOJ8t5fA",
@@ -21217,7 +21225,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555647550
+      "metadataFetchedAt": 1795638952629
     },
     {
       "id": "R_kgDOND65Nw",
@@ -21233,10 +21241,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-10-22T05:54:19Z",
-      "updatedAt": "2026-11-13T05:15:32Z",
+      "updatedAt": "2026-11-25T11:13:31Z",
       "pushedAt": "2026-07-14T18:42:18Z",
       "defaultBranchOid": "f715c23fe643c25ea7e7d8dd2bb90a97d84540cf",
-      "stars": 5,
+      "stars": 6,
       "forks": 0,
       "primaryLanguage": "Shell",
       "topics": [
@@ -21271,7 +21279,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOPt0v-g",
@@ -21327,7 +21335,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKDQ6Ow",
@@ -21371,7 +21379,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOPZuplQ",
@@ -21419,7 +21427,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555647550
+      "metadataFetchedAt": 1795638952629
     },
     {
       "id": "R_kgDOLDccIg",
@@ -21479,7 +21487,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOK_Ufjg",
@@ -21527,7 +21535,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOPg7HAA",
@@ -21581,7 +21589,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOLWqWhw",
@@ -21631,7 +21639,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555644059
+      "metadataFetchedAt": 1795638949231
     },
     {
       "id": "R_kgDORpzBKA",
@@ -21687,7 +21695,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOJ7xvEg",
@@ -21731,7 +21739,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOKMuhmg",
@@ -21809,7 +21817,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDORNSnqA",
@@ -21857,7 +21865,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDORNf4iw",
@@ -21917,7 +21925,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOJ7WO2w",
@@ -21964,7 +21972,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOTiqpPw",
@@ -22050,7 +22058,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKNmj_g",
@@ -22094,7 +22102,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOKzTGUg",
@@ -22138,7 +22146,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOLlka5Q",
@@ -22185,7 +22193,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555647550
+      "metadataFetchedAt": 1795638952629
     },
     {
       "id": "R_kgDORPMM2g",
@@ -22245,7 +22253,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKDOkjA",
@@ -22289,7 +22297,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOTdBBEw",
@@ -22339,7 +22347,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDORQn0Jw",
@@ -22383,7 +22391,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDORghEow",
@@ -22451,7 +22459,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOSMvhbw",
@@ -22495,7 +22503,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOTpEREA",
@@ -22536,7 +22544,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOTqfH4Q",
@@ -22577,7 +22585,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDORhTR_A",
@@ -22621,7 +22629,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKj58BQ",
@@ -22665,7 +22673,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOJ7aqhw",
@@ -22709,7 +22717,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDORlsAag",
@@ -22765,7 +22773,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKGaz1g",
@@ -22809,7 +22817,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOM_wOBg",
@@ -22863,7 +22871,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDONGESeA",
@@ -22917,7 +22925,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOKVXCww",
@@ -23009,7 +23017,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555643405
+      "metadataFetchedAt": 1795638948071
     },
     {
       "id": "R_kgDOUAMWTA",
@@ -23059,7 +23067,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555649645
+      "metadataFetchedAt": 1795638954663
     },
     {
       "id": "R_kgDOPQmnvQ",
@@ -23107,11 +23115,11 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795555647550
+      "metadataFetchedAt": 1795638952629
     }
   ],
   "repoMetrics": {
-    "starCount": 78,
+    "starCount": 79,
     "forkCount": 1,
     "codeByteTotal": 38388246,
     "topLanguages": [
@@ -23343,17 +23351,17 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 2599,
-      "linesAdded": 2723613,
-      "linesDeleted": 1656969,
-      "linesOfCodeChanged": 4380582,
-      "reposCompleted": 37,
+      "totalCommits": 2277,
+      "linesAdded": 165813,
+      "linesDeleted": 101647,
+      "linesOfCodeChanged": 267460,
+      "reposCompleted": 10,
       "reposPending": 0,
-      "reposFailed": 4
+      "reposFailed": 31
     },
     "traffic": {
-      "repoViews": 2737,
-      "repoViewUniques": 1205,
+      "repoViews": 2690,
+      "repoViewUniques": 1187,
       "reposCompleted": 41,
       "reposPending": 0,
       "reposFailed": 0
@@ -23368,7 +23376,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.53
+      "averageStarsPerRepo": 1.55
     },
     "computedStats": {
       "totalRepos": 53,
@@ -23380,7 +23388,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.53,
+      "averageStarsPerRepo": 1.55,
       "languageCount": 24,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "TypeScript",
@@ -23561,9 +23569,9 @@
         "the-outlast-trials",
         "webapp"
       ],
-      "contributionsThisYear": 1708,
+      "contributionsThisYear": 1712,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": 24.95,
+      "yearOverYearGrowth": 25.24,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
@@ -23574,9 +23582,9 @@
     "readmeSummary": {
       "name": "Antônio Malheiros",
       "username": "antoniomalheirs",
-      "totalContributions": 3382,
-      "currentStreak": 481,
-      "longestStreak": 481,
+      "totalContributions": 3386,
+      "currentStreak": 482,
+      "longestStreak": 482,
       "topLanguages": [
         {
           "languageName": "C#",
@@ -23609,10 +23617,10 @@
           "percentage": 1.25
         }
       ],
-      "starsReceived": 78,
+      "starsReceived": 79,
       "forksReceived": 1,
       "activeRepos": 31,
-      "refreshedAt": "2026-11-24T21:28:04.327Z",
+      "refreshedAt": "2026-11-25T20:36:15.710Z",
       "complete": false
     },
     "cards": [
@@ -23624,7 +23632,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "481 days"
+        "value": "482 days"
       },
       {
         "id": "languages",
@@ -23640,7 +23648,7 @@
       {
         "id": "stars",
         "label": "Stars received",
-        "value": "78"
+        "value": "79"
       }
     ],
     "timeline": [
@@ -23666,7 +23674,7 @@
       },
       {
         "period": "2026",
-        "contributions": 1708
+        "contributions": 1712
       }
     ],
     "highlights": [
@@ -23701,7 +23709,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "3.4K",
-          "supportingText": "481 day longest streak"
+          "supportingText": "482 day longest streak"
         },
         {
           "id": "repositories",
@@ -23726,9 +23734,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1795555637600,
-    "finishedAt": 1795555684327,
-    "durationMs": 46727,
+    "startedAt": 1795638942223,
+    "finishedAt": 1795638975710,
+    "durationMs": 33487,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -23741,23 +23749,23 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 78,
+      "completedThisRun": 51,
       "pending": 0,
-      "failedThisRun": 4,
+      "failedThisRun": 31,
       "skippedThisRun": 0
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4979,
-        "used": 21,
-        "resetAt": "2026-11-24T22:27:17Z"
+        "remaining": 4933,
+        "used": 67,
+        "resetAt": "2026-11-25T20:46:54Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4920,
-        "used": 80,
-        "resetAt": "2026-11-24T22:27:41.000Z"
+        "remaining": 4959,
+        "used": 41,
+        "resetAt": "2026-11-25T21:36:13.000Z"
       }
     },
     "warnings": [
@@ -23777,12 +23785,12 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2021-03-02T01:17:21Z",
-    "repoViews": 2737,
-    "linesOfCodeChanged": 4380582,
-    "linesAdded": 2723613,
-    "linesDeleted": 1656969,
-    "commitCount": 2599,
-    "totalCommits": 3223,
+    "repoViews": 2690,
+    "linesOfCodeChanged": 267460,
+    "linesAdded": 165813,
+    "linesDeleted": 101647,
+    "commitCount": 2277,
+    "totalCommits": 3227,
     "totalPullRequests": 101,
     "totalPullRequestReviews": 0,
     "codeByteTotal": 38388246,
@@ -23933,21 +23941,21 @@
       }
     ],
     "forkCount": 1,
-    "starCount": 78,
+    "starCount": 79,
     "starsGiven": 4,
     "followers": 12,
     "following": 8,
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 2,
-    "totalContributions": 3382,
+    "totalContributions": 3386,
     "contributionStats": {
-      "longestStreak": 481,
-      "currentStreak": 481,
+      "longestStreak": 482,
+      "currentStreak": 482,
       "mostActiveDay": "Friday",
       "averagePerDay": 1.61,
-      "averagePerWeek": 11.28,
-      "averagePerMonth": 48.36,
+      "averagePerWeek": 11.29,
+      "averagePerMonth": 48.39,
       "monthlyBreakdown": [
         {
           "month": "2021-03",
@@ -24223,7 +24231,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 121
+          "contributions": 125
         }
       ],
       "yearlyBreakdown": [
@@ -24249,7 +24257,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1708
+          "contributions": 1712
         }
       ],
       "peakDay": {
@@ -24267,7 +24275,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.53
+      "averageStarsPerRepo": 1.55
     },
     "computedStats": {
       "totalRepos": 53,
@@ -24279,7 +24287,7 @@
       "activeRepos": 31,
       "reposWithStars": 30,
       "reposCreatedThisYear": 19,
-      "averageStarsPerRepo": 1.53,
+      "averageStarsPerRepo": 1.55,
       "languageCount": 24,
       "primaryLanguage": "C#",
       "primaryLanguageThisYear": "TypeScript",
@@ -24460,23 +24468,23 @@
         "the-outlast-trials",
         "webapp"
       ],
-      "contributionsThisYear": 1708,
+      "contributionsThisYear": 1712,
       "contributionsLastYear": 1367,
-      "yearOverYearGrowth": 24.95,
+      "yearOverYearGrowth": 25.24,
       "mostProductiveMonth": {
         "month": "2025-08",
         "contributions": 476
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 3223,
+      "totalCommitContributions": 3227,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 1,
       "totalRepositoryContributions": 52,
       "totalPullRequestContributions": 101,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 3382,
+        "totalContributions": 3386,
         "weeks": [
           {
             "contributionDays": [
@@ -34081,8 +34089,12 @@
                 "date": "2026-11-23"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 4,
                 "date": "2026-11-24"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-11-25"
               }
             ]
           }
@@ -34130,7 +34142,7 @@
         "name": "Blur_And_StatusBar_IOS",
         "nameWithOwner": "antoniomalheirs/Blur_And_StatusBar_IOS",
         "description": "A KernelSU / KernelSU Next and Magisk-compatible module for HyperOS that replaces the system's Blur and Status Bar with iOS-style elements. Designed to bring a cleaner, modern iOS-inspired look and feel to supported Android devices, without modifying the system partition.",
-        "stars": 5,
+        "stars": 6,
         "forks": 0,
         "isArchived": false,
         "isFork": false,
@@ -34141,7 +34153,7 @@
           "kernelsu-next",
           "magisk-module"
         ],
-        "updatedAt": "2026-11-13T05:15:32Z",
+        "updatedAt": "2026-11-25T11:13:31Z",
         "createdAt": "2024-10-22T05:54:19Z"
       },
       {
@@ -34264,6 +34276,6 @@
     ],
     "closedIssues": 1,
     "openIssues": 0,
-    "fetchedAt": 1795555684327
+    "fetchedAt": 1795638975710
   }
 }
